@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run verify
+      - name: Verify generated files are committed and deterministic
+        run: git diff --exit-code -- calendars data/normalized/2026
+      - uses: actions/upload-artifact@v4
+        with:
+          name: spanish-holidays-ics-2026-andalucia
+          path: calendars/
+          if-no-files-found: error

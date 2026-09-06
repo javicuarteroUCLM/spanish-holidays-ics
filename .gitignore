@@ -1,0 +1,7 @@
+# Local Pi runtime state
+.atl/
+
+# Node build and dependency state
+node_modules/
+dist/
+coverage/

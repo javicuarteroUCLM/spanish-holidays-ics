@@ -1,0 +1,5503 @@
+{
+  "municipalitySourceSha256": "07f8e8d64eba73fe9d425196fe82f4e09a9886a287abd650e88ca8d98dd49052",
+  "localHolidaySourceSha256": "fe083af0f06e91fd54a9bc0afbece1a8f2011bcdc1fedc74c3afafe02bab74da",
+  "mappings": [
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ABLA",
+      "ineCode": "04001",
+      "ineName": "Abla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ABRUCENA",
+      "ineCode": "04002",
+      "ineName": "Abrucena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ADRA",
+      "ineCode": "04003",
+      "ineName": "Adra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALBOLODUY",
+      "ineCode": "04005",
+      "ineName": "Alboloduy",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALBOX",
+      "ineCode": "04006",
+      "ineName": "Albox",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALBÁNCHEZ",
+      "ineCode": "04004",
+      "ineName": "Albanchez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALCOLEA",
+      "ineCode": "04007",
+      "ineName": "Alcolea",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALCUDIA DE MONTEAGUD",
+      "ineCode": "04009",
+      "ineName": "Alcudia de Monteagud",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALCÓNTAR",
+      "ineCode": "04008",
+      "ineName": "Alcóntar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALHABIA",
+      "ineCode": "04010",
+      "ineName": "Alhabia",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALHAMA DE ALMERÍA",
+      "ineCode": "04011",
+      "ineName": "Alhama de Almería",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALICÚN",
+      "ineCode": "04012",
+      "ineName": "Alicún",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALMERÍA",
+      "ineCode": "04013",
+      "ineName": "Almería",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALMÓCITA",
+      "ineCode": "04014",
+      "ineName": "Almócita",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ALSODUX",
+      "ineCode": "04015",
+      "ineName": "Alsodux",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ANTAS",
+      "ineCode": "04016",
+      "ineName": "Antas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ARBOLEAS",
+      "ineCode": "04017",
+      "ineName": "Arboleas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ARMUÑA DE ALMANZORA",
+      "ineCode": "04018",
+      "ineName": "Armuña de Almanzora",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BACARES",
+      "ineCode": "04019",
+      "ineName": "Bacares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BALANEGRA",
+      "ineCode": "04904",
+      "ineName": "Balanegra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BAYARQUE",
+      "ineCode": "04021",
+      "ineName": "Bayarque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BAYÁRCAL",
+      "ineCode": "04020",
+      "ineName": "Bayárcal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BEIRES",
+      "ineCode": "04023",
+      "ineName": "Beires",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BENAHADUX",
+      "ineCode": "04024",
+      "ineName": "Benahadux",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BENITAGLA",
+      "ineCode": "04026",
+      "ineName": "Benitagla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BENIZALÓN",
+      "ineCode": "04027",
+      "ineName": "Benizalón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BENTARIQUE",
+      "ineCode": "04028",
+      "ineName": "Bentarique",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BERJA",
+      "ineCode": "04029",
+      "ineName": "Berja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "BÉDAR",
+      "ineCode": "04022",
+      "ineName": "Bédar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CANJÁYAR",
+      "ineCode": "04030",
+      "ineName": "Canjáyar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CANTORIA",
+      "ineCode": "04031",
+      "ineName": "Cantoria",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CARBONERAS",
+      "ineCode": "04032",
+      "ineName": "Carboneras",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CASTRO DE FILABRES",
+      "ineCode": "04033",
+      "ineName": "Castro de Filabres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CHERCOS",
+      "ineCode": "04036",
+      "ineName": "Chercos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CHIRIVEL",
+      "ineCode": "04037",
+      "ineName": "Chirivel",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CUEVAS DEL ALMANZORA",
+      "ineCode": "04035",
+      "ineName": "Cuevas del Almanzora",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "CÓBDAR",
+      "ineCode": "04034",
+      "ineName": "Cóbdar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "DALÍAS",
+      "ineCode": "04038",
+      "ineName": "Dalías",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "EL EJIDO",
+      "ineCode": "04902",
+      "ineName": "Ejido, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ENIX",
+      "ineCode": "04041",
+      "ineName": "Enix",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "FINES",
+      "ineCode": "04044",
+      "ineName": "Fines",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "FIÑANA",
+      "ineCode": "04045",
+      "ineName": "Fiñana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "FONDÓN",
+      "ineCode": "04046",
+      "ineName": "Fondón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "GARRUCHA",
+      "ineCode": "04049",
+      "ineName": "Garrucha",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "GÁDOR",
+      "ineCode": "04047",
+      "ineName": "Gádor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "GÉRGAL",
+      "ineCode": "04050",
+      "ineName": "Gérgal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "HUÉCIJA",
+      "ineCode": "04051",
+      "ineName": "Huécija",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "HUÉRCAL DE ALMERÍA",
+      "ineCode": "04052",
+      "ineName": "Huércal de Almería",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "HUÉRCAL-OVERA",
+      "ineCode": "04053",
+      "ineName": "Huércal-Overa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "INSTINCIÓN",
+      "ineCode": "04055",
+      "ineName": "Instinción",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LA MOJONERA",
+      "ineCode": "04903",
+      "ineName": "Mojonera, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LAROYA",
+      "ineCode": "04056",
+      "ineName": "Laroya",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LAS TRES VILLAS",
+      "ineCode": "04901",
+      "ineName": "Tres Villas, Las",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LAUJAR DE ANDARAX",
+      "ineCode": "04057",
+      "ineName": "Laujar de Andarax",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LOS GALLARDOS",
+      "ineCode": "04048",
+      "ineName": "Gallardos, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LUBRÍN",
+      "ineCode": "04059",
+      "ineName": "Lubrín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LÍJAR",
+      "ineCode": "04058",
+      "ineName": "Líjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "LÚCAR",
+      "ineCode": "04061",
+      "ineName": "Lúcar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "MACAEL",
+      "ineCode": "04062",
+      "ineName": "Macael",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "MARÍA",
+      "ineCode": "04063",
+      "ineName": "María",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "MOJÁCAR",
+      "ineCode": "04064",
+      "ineName": "Mojácar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "NACIMIENTO",
+      "ineCode": "04065",
+      "ineName": "Nacimiento",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "NÍJAR",
+      "ineCode": "04066",
+      "ineName": "Níjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "OHANES",
+      "ineCode": "04067",
+      "ineName": "Ohanes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "OLULA DE CASTRO",
+      "ineCode": "04068",
+      "ineName": "Olula de Castro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "OLULA DEL RÍO",
+      "ineCode": "04069",
+      "ineName": "Olula del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ORIA",
+      "ineCode": "04070",
+      "ineName": "Oria",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PADULES",
+      "ineCode": "04071",
+      "ineName": "Padules",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PARTALOA",
+      "ineCode": "04072",
+      "ineName": "Partaloa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PATERNA DEL RÍO",
+      "ineCode": "04073",
+      "ineName": "Paterna del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PECHINA",
+      "ineCode": "04074",
+      "ineName": "Pechina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PULPÍ",
+      "ineCode": "04075",
+      "ineName": "Pulpí",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "PURCHENA",
+      "ineCode": "04076",
+      "ineName": "Purchena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "RIOJA",
+      "ineCode": "04078",
+      "ineName": "Rioja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ROQUETAS DE MAR",
+      "ineCode": "04079",
+      "ineName": "Roquetas de Mar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "RÁGOL",
+      "ineCode": "04077",
+      "ineName": "Rágol",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SANTA CRUZ DE MARCHENA",
+      "ineCode": "04080",
+      "ineName": "Santa Cruz de Marchena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SANTA FÉ DE MONDÚJAR",
+      "ineCode": "04081",
+      "ineName": "Santa Fe de Mondújar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SENÉS",
+      "ineCode": "04082",
+      "ineName": "Senés",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SERÓN",
+      "ineCode": "04083",
+      "ineName": "Serón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SIERRO",
+      "ineCode": "04084",
+      "ineName": "Sierro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SOMONTÍN",
+      "ineCode": "04085",
+      "ineName": "Somontín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SORBAS",
+      "ineCode": "04086",
+      "ineName": "Sorbas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "SUFLÍ",
+      "ineCode": "04087",
+      "ineName": "Suflí",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TABERNAS",
+      "ineCode": "04088",
+      "ineName": "Tabernas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TABERNO",
+      "ineCode": "04089",
+      "ineName": "Taberno",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TAHAL",
+      "ineCode": "04090",
+      "ineName": "Tahal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TERQUE",
+      "ineCode": "04091",
+      "ineName": "Terque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TURRE",
+      "ineCode": "04093",
+      "ineName": "Turre",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TURRILLAS",
+      "ineCode": "04094",
+      "ineName": "Turrillas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "TÍJOLA",
+      "ineCode": "04092",
+      "ineName": "Tíjola",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ULEILA DEL CAMPO",
+      "ineCode": "04095",
+      "ineName": "Uleila del Campo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "URRÁCAL",
+      "ineCode": "04096",
+      "ineName": "Urrácal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VELEFIQUE",
+      "ineCode": "04097",
+      "ineName": "Velefique",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VERA",
+      "ineCode": "04100",
+      "ineName": "Vera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VIATOR",
+      "ineCode": "04101",
+      "ineName": "Viator",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VÉLEZ BLANCO",
+      "ineCode": "04098",
+      "ineName": "Vélez-Blanco",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VÉLEZ RUBIO",
+      "ineCode": "04099",
+      "ineName": "Vélez-Rubio",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "VÍCAR",
+      "ineCode": "04102",
+      "ineName": "Vícar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ZURGENA",
+      "ineCode": "04103",
+      "ineName": "Zurgena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "ALMERÍA",
+      "sourceName": "ÍLLAR",
+      "ineCode": "04054",
+      "ineName": "Íllar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ALCALÁ DE LOS GAZULES",
+      "ineCode": "11001",
+      "ineName": "Alcalá de los Gazules",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ALCALÁ DEL VALLE",
+      "ineCode": "11002",
+      "ineName": "Alcalá del Valle",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ALGAR",
+      "ineCode": "11003",
+      "ineName": "Algar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ALGECIRAS",
+      "ineCode": "11004",
+      "ineName": "Algeciras",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ALGODONALES",
+      "ineCode": "11005",
+      "ineName": "Algodonales",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ARCOS DE LA FRONTERA",
+      "ineCode": "11006",
+      "ineName": "Arcos de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "BARBATE",
+      "ineCode": "11007",
+      "ineName": "Barbate",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "BENALUP-CASAS VIEJAS",
+      "ineCode": "11901",
+      "ineName": "Benalup-Casas Viejas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "BENAOCAZ",
+      "ineCode": "11009",
+      "ineName": "Benaocaz",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "BORNOS",
+      "ineCode": "11010",
+      "ineName": "Bornos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "CASTELLAR DE LA FRONTERA",
+      "ineCode": "11013",
+      "ineName": "Castellar de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "CHICLANA DE LA FRONTERA",
+      "ineCode": "11015",
+      "ineName": "Chiclana de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "CHIPIONA",
+      "ineCode": "11016",
+      "ineName": "Chipiona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "CONIL DE LA FRONTERA",
+      "ineCode": "11014",
+      "ineName": "Conil de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "CÁDIZ",
+      "ineCode": "11012",
+      "ineName": "Cádiz",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "EL BOSQUE",
+      "ineCode": "11011",
+      "ineName": "Bosque, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "EL GASTOR",
+      "ineCode": "11018",
+      "ineName": "Gastor, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "EL PUERTO DE SANTA MARÍA",
+      "ineCode": "11027",
+      "ineName": "Puerto de Santa María, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ESPERA",
+      "ineCode": "11017",
+      "ineName": "Espera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "GRAZALEMA",
+      "ineCode": "11019",
+      "ineName": "Grazalema",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "JEREZ DE LA FRONTERA",
+      "ineCode": "11020",
+      "ineName": "Jerez de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "JIMENA DE LA FRONTERA",
+      "ineCode": "11021",
+      "ineName": "Jimena de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "LA LÍNEA DE LA CONCEPCIÓN",
+      "ineCode": "11022",
+      "ineName": "Línea de la Concepción, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "LOS BARRIOS",
+      "ineCode": "11008",
+      "ineName": "Barrios, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "MEDINA SIDONIA",
+      "ineCode": "11023",
+      "ineName": "Medina Sidonia",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "OLVERA",
+      "ineCode": "11024",
+      "ineName": "Olvera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "PATERNA DE RIVERA",
+      "ineCode": "11025",
+      "ineName": "Paterna de Rivera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "PRADO DEL REY",
+      "ineCode": "11026",
+      "ineName": "Prado del Rey",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "PUERTO REAL",
+      "ineCode": "11028",
+      "ineName": "Puerto Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "PUERTO SERRANO",
+      "ineCode": "11029",
+      "ineName": "Puerto Serrano",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ROTA",
+      "ineCode": "11030",
+      "ineName": "Rota",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SAN FERNANDO",
+      "ineCode": "11031",
+      "ineName": "San Fernando",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SAN JOSÉ DEL VALLE",
+      "ineCode": "11902",
+      "ineName": "San José del Valle",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SAN MARTÍN DEL TESORILLO",
+      "ineCode": "11903",
+      "ineName": "San Martín del Tesorillo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SAN ROQUE",
+      "ineCode": "11033",
+      "ineName": "San Roque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SANLÚCAR DE BARRAMEDA",
+      "ineCode": "11032",
+      "ineName": "Sanlúcar de Barrameda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "SETENIL DE LAS BODEGAS",
+      "ineCode": "11034",
+      "ineName": "Setenil de las Bodegas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "TARIFA",
+      "ineCode": "11035",
+      "ineName": "Tarifa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "TORRE ALHÁQUIME",
+      "ineCode": "11036",
+      "ineName": "Torre Alháquime",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "TREBUJENA",
+      "ineCode": "11037",
+      "ineName": "Trebujena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "UBRIQUE",
+      "ineCode": "11038",
+      "ineName": "Ubrique",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "VEJER DE LA FRONTERA",
+      "ineCode": "11039",
+      "ineName": "Vejer de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "VILLALUENGA DEL ROSARIO",
+      "ineCode": "11040",
+      "ineName": "Villaluenga del Rosario",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "VILLAMARTÍN",
+      "ineCode": "11041",
+      "ineName": "Villamartín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÁDIZ",
+      "sourceName": "ZAHARA DE LA SIERRA",
+      "ineCode": "11042",
+      "ineName": "Zahara",
+      "method": "manual-alias"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ADAMUZ",
+      "ineCode": "14001",
+      "ineName": "Adamuz",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "AGUILAR DE LA FRONTERA",
+      "ineCode": "14002",
+      "ineName": "Aguilar de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ALCARACEJOS",
+      "ineCode": "14003",
+      "ineName": "Alcaracejos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ALMEDINILLA",
+      "ineCode": "14004",
+      "ineName": "Almedinilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ALMODÓVAR DEL RÍO",
+      "ineCode": "14005",
+      "ineName": "Almodóvar del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "AÑORA",
+      "ineCode": "14006",
+      "ineName": "Añora",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "BAENA",
+      "ineCode": "14007",
+      "ineName": "Baena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "BELALCÁZAR",
+      "ineCode": "14008",
+      "ineName": "Belalcázar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "BELMEZ",
+      "ineCode": "14009",
+      "ineName": "Belmez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "BENAMEJÍ",
+      "ineCode": "14010",
+      "ineName": "Benamejí",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "BUJALANCE",
+      "ineCode": "14012",
+      "ineName": "Bujalance",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CABRA",
+      "ineCode": "14013",
+      "ineName": "Cabra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CARCABUEY",
+      "ineCode": "14015",
+      "ineName": "Carcabuey",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CARDEÑA",
+      "ineCode": "14016",
+      "ineName": "Cardeña",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CASTRO DEL RÍO",
+      "ineCode": "14019",
+      "ineName": "Castro del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CAÑETE DE LAS TORRES",
+      "ineCode": "14014",
+      "ineName": "Cañete de las Torres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CONQUISTA",
+      "ineCode": "14020",
+      "ineName": "Conquista",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "CÓRDOBA",
+      "ineCode": "14021",
+      "ineName": "Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "DOS TORRES",
+      "ineCode": "14023",
+      "ineName": "Dos Torres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "DOÑA MENCÍA",
+      "ineCode": "14022",
+      "ineName": "Doña Mencía",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "EL CARPIO",
+      "ineCode": "14018",
+      "ineName": "Carpio, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "EL GUIJO",
+      "ineCode": "14034",
+      "ineName": "Guijo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "EL VISO",
+      "ineCode": "14074",
+      "ineName": "Viso, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ENCINAS REALES",
+      "ineCode": "14024",
+      "ineName": "Encinas Reales",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ESPEJO",
+      "ineCode": "14025",
+      "ineName": "Espejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ESPIEL",
+      "ineCode": "14026",
+      "ineName": "Espiel",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FERNÁN-NÚÑEZ",
+      "ineCode": "14027",
+      "ineName": "Fernán-Núñez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FUENTE CARRETEROS",
+      "ineCode": "14901",
+      "ineName": "Fuente Carreteros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FUENTE LA LANCHA",
+      "ineCode": "14028",
+      "ineName": "Fuente la Lancha",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FUENTE OBEJUNA",
+      "ineCode": "14029",
+      "ineName": "Fuente Obejuna",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FUENTE PALMERA",
+      "ineCode": "14030",
+      "ineName": "Fuente Palmera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "FUENTE-TÓJAR",
+      "ineCode": "14031",
+      "ineName": "Fuente-Tójar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "GUADALCÁZAR",
+      "ineCode": "14033",
+      "ineName": "Guadalcázar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "HINOJOSA DEL DUQUE",
+      "ineCode": "14035",
+      "ineName": "Hinojosa del Duque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "HORNACHUELOS",
+      "ineCode": "14036",
+      "ineName": "Hornachuelos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "IZNÁJAR",
+      "ineCode": "14037",
+      "ineName": "Iznájar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LA CARLOTA",
+      "ineCode": "14017",
+      "ineName": "Carlota, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LA GRANJUELA",
+      "ineCode": "14032",
+      "ineName": "Granjuela, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LA GUIJARROSA",
+      "ineCode": "14902",
+      "ineName": "Guijarrosa, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LA RAMBLA",
+      "ineCode": "14057",
+      "ineName": "Rambla, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LA VICTORIA",
+      "ineCode": "14065",
+      "ineName": "Victoria, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LOS BLÁZQUEZ",
+      "ineCode": "14011",
+      "ineName": "Blázquez, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LUCENA",
+      "ineCode": "14038",
+      "ineName": "Lucena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "LUQUE",
+      "ineCode": "14039",
+      "ineName": "Luque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MONTALBÁN DE CÓRDOBA",
+      "ineCode": "14040",
+      "ineName": "Montalbán de Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MONTEMAYOR",
+      "ineCode": "14041",
+      "ineName": "Montemayor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MONTILLA",
+      "ineCode": "14042",
+      "ineName": "Montilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MONTORO",
+      "ineCode": "14043",
+      "ineName": "Montoro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MONTURQUE",
+      "ineCode": "14044",
+      "ineName": "Monturque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "MORILES",
+      "ineCode": "14045",
+      "ineName": "Moriles",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "NUEVA CARTEYA",
+      "ineCode": "14046",
+      "ineName": "Nueva Carteya",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "OBEJO",
+      "ineCode": "14047",
+      "ineName": "Obejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PALENCIANA",
+      "ineCode": "14048",
+      "ineName": "Palenciana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PALMA DEL RÍO",
+      "ineCode": "14049",
+      "ineName": "Palma del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PEDRO ABAD",
+      "ineCode": "14050",
+      "ineName": "Pedro Abad",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PEDROCHE",
+      "ineCode": "14051",
+      "ineName": "Pedroche",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PEÑARROYA-PUEBLONUEVO",
+      "ineCode": "14052",
+      "ineName": "Peñarroya-Pueblonuevo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "POSADAS",
+      "ineCode": "14053",
+      "ineName": "Posadas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "POZOBLANCO",
+      "ineCode": "14054",
+      "ineName": "Pozoblanco",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PRIEGO DE CÓRDOBA",
+      "ineCode": "14055",
+      "ineName": "Priego de Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "PUENTE GENIL",
+      "ineCode": "14056",
+      "ineName": "Puente Genil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "RUTE",
+      "ineCode": "14058",
+      "ineName": "Rute",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "SAN SEBASTIÁN DE LOS BALLESTEROS",
+      "ineCode": "14059",
+      "ineName": "San Sebastián de los Ballesteros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "SANTA EUFEMIA",
+      "ineCode": "14061",
+      "ineName": "Santa Eufemia",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "SANTAELLA",
+      "ineCode": "14060",
+      "ineName": "Santaella",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "TORRECAMPO",
+      "ineCode": "14062",
+      "ineName": "Torrecampo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VALENZUELA",
+      "ineCode": "14063",
+      "ineName": "Valenzuela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VALSEQUILLO",
+      "ineCode": "14064",
+      "ineName": "Valsequillo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLA DEL RÍO",
+      "ineCode": "14066",
+      "ineName": "Villa del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLAFRANCA DE CÓRDOBA",
+      "ineCode": "14067",
+      "ineName": "Villafranca de Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLAHARTA",
+      "ineCode": "14068",
+      "ineName": "Villaharta",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLANUEVA DE CÓRDOBA",
+      "ineCode": "14069",
+      "ineName": "Villanueva de Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLANUEVA DEL DUQUE",
+      "ineCode": "14070",
+      "ineName": "Villanueva del Duque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLANUEVA DEL REY",
+      "ineCode": "14071",
+      "ineName": "Villanueva del Rey",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLARALTO",
+      "ineCode": "14072",
+      "ineName": "Villaralto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "VILLAVICIOSA DE CÓRDOBA",
+      "ineCode": "14073",
+      "ineName": "Villaviciosa de Córdoba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "CÓRDOBA",
+      "sourceName": "ZUHEROS",
+      "ineCode": "14075",
+      "ineName": "Zuheros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "AGRÓN",
+      "ineCode": "18001",
+      "ineName": "Agrón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALAMEDILLA",
+      "ineCode": "18002",
+      "ineName": "Alamedilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALBOLOTE",
+      "ineCode": "18003",
+      "ineName": "Albolote",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALBONDÓN",
+      "ineCode": "18004",
+      "ineName": "Albondón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALBUÑOL",
+      "ineCode": "18006",
+      "ineName": "Albuñol",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALBUÑUELAS",
+      "ineCode": "18007",
+      "ineName": "Albuñuelas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALBUÑÁN",
+      "ineCode": "18005",
+      "ineName": "Albuñán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALDEIRE",
+      "ineCode": "18010",
+      "ineName": "Aldeire",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALFACAR",
+      "ineCode": "18011",
+      "ineName": "Alfacar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALGARINEJO",
+      "ineCode": "18012",
+      "ineName": "Algarinejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALHAMA DE GRANADA",
+      "ineCode": "18013",
+      "ineName": "Alhama de Granada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALHENDÍN",
+      "ineCode": "18014",
+      "ineName": "Alhendín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALICÚN DE ORTEGA",
+      "ineCode": "18015",
+      "ineName": "Alicún de Ortega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALMEGÍJAR",
+      "ineCode": "18016",
+      "ineName": "Almegíjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALMUÑÉCAR",
+      "ineCode": "18017",
+      "ineName": "Almuñécar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALPUJARRA DE LA SIERRA",
+      "ineCode": "18904",
+      "ineName": "Alpujarra de la Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ALQUIFE",
+      "ineCode": "18018",
+      "ineName": "Alquife",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ARENAS DEL REY",
+      "ineCode": "18020",
+      "ineName": "Arenas del Rey",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ARMILLA",
+      "ineCode": "18021",
+      "ineName": "Armilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ATARFE",
+      "ineCode": "18022",
+      "ineName": "Atarfe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BAZA",
+      "ineCode": "18023",
+      "ineName": "Baza",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BEAS DE GRANADA",
+      "ineCode": "18024",
+      "ineName": "Beas de Granada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BEAS DE GUADIX",
+      "ineCode": "18025",
+      "ineName": "Beas de Guadix",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BENALÚA",
+      "ineCode": "18027",
+      "ineName": "Benalúa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BENALÚA DE LAS VILLAS",
+      "ineCode": "18028",
+      "ineName": "Benalúa de las Villas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BENAMAUREL",
+      "ineCode": "18029",
+      "ineName": "Benamaurel",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BUBIÓN",
+      "ineCode": "18032",
+      "ineName": "Bubión",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BUSQUÍSTAR",
+      "ineCode": "18033",
+      "ineName": "Busquístar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "BÉRCHULES",
+      "ineCode": "18030",
+      "ineName": "Bérchules",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CACÍN",
+      "ineCode": "18034",
+      "ineName": "Cacín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CALICASAS",
+      "ineCode": "18037",
+      "ineName": "Calicasas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CAMPOTÉJAR",
+      "ineCode": "18038",
+      "ineName": "Campotéjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CANILES",
+      "ineCode": "18039",
+      "ineName": "Caniles",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CAPILEIRA",
+      "ineCode": "18042",
+      "ineName": "Capileira",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CARATAUNAS",
+      "ineCode": "18043",
+      "ineName": "Carataunas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CASTILLÉJAR",
+      "ineCode": "18045",
+      "ineName": "Castilléjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CASTRIL",
+      "ineCode": "18046",
+      "ineName": "Castril",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CENES DE LA VEGA",
+      "ineCode": "18047",
+      "ineName": "Cenes de la Vega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CHAUCHINA",
+      "ineCode": "18059",
+      "ineName": "Chauchina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CHIMENEAS",
+      "ineCode": "18061",
+      "ineName": "Chimeneas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CHURRIANA DE LA VEGA",
+      "ineCode": "18062",
+      "ineName": "Churriana de la Vega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CIJUELA",
+      "ineCode": "18048",
+      "ineName": "Cijuela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "COGOLLOS DE GUADIX",
+      "ineCode": "18049",
+      "ineName": "Cogollos de Guadix",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "COGOLLOS DE LA VEGA",
+      "ineCode": "18050",
+      "ineName": "Cogollos de la Vega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "COLOMERA",
+      "ineCode": "18051",
+      "ineName": "Colomera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CORTES DE BAZA",
+      "ineCode": "18053",
+      "ineName": "Cortes de Baza",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CORTES Y GRAENA",
+      "ineCode": "18054",
+      "ineName": "Cortes y Graena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CUEVAS DEL CAMPO",
+      "ineCode": "18912",
+      "ineName": "Cuevas del Campo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÁDIAR",
+      "ineCode": "18035",
+      "ineName": "Cádiar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÁJAR",
+      "ineCode": "18036",
+      "ineName": "Cájar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÁSTARAS",
+      "ineCode": "18044",
+      "ineName": "Cástaras",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÁÑAR",
+      "ineCode": "18040",
+      "ineName": "Cáñar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÚLLAR",
+      "ineCode": "18056",
+      "ineName": "Cúllar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "CÚLLAR VEGA",
+      "ineCode": "18057",
+      "ineName": "Cúllar Vega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DARRO",
+      "ineCode": "18063",
+      "ineName": "Darro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DEHESAS VIEJAS",
+      "ineCode": "18065",
+      "ineName": "Dehesas Viejas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DEIFONTES",
+      "ineCode": "18066",
+      "ineName": "Deifontes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DIEZMA",
+      "ineCode": "18067",
+      "ineName": "Diezma",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DOMINGO PÉREZ",
+      "ineCode": "18915",
+      "ineName": "Domingo Pérez de Granada",
+      "method": "manual-alias"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DÍLAR",
+      "ineCode": "18068",
+      "ineName": "Dílar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DÓLAR",
+      "ineCode": "18069",
+      "ineName": "Dólar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DÚDAR",
+      "ineCode": "18070",
+      "ineName": "Dúdar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "DÚRCAL",
+      "ineCode": "18071",
+      "ineName": "Dúrcal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "EL PINAR",
+      "ineCode": "18910",
+      "ineName": "Pinar, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "EL VALLE",
+      "ineCode": "18902",
+      "ineName": "Valle, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ESCÚZAR",
+      "ineCode": "18072",
+      "ineName": "Escúzar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "FERREIRA",
+      "ineCode": "18074",
+      "ineName": "Ferreira",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "FONELAS",
+      "ineCode": "18076",
+      "ineName": "Fonelas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "FORNES",
+      "ineCode": "18077",
+      "ineName": "Fornes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "FREILA",
+      "ineCode": "18078",
+      "ineName": "Freila",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "FUENTE VAQUEROS",
+      "ineCode": "18079",
+      "ineName": "Fuente Vaqueros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GALERA",
+      "ineCode": "18082",
+      "ineName": "Galera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GOBERNADOR",
+      "ineCode": "18083",
+      "ineName": "Gobernador",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GOR",
+      "ineCode": "18085",
+      "ineName": "Gor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GORAFE",
+      "ineCode": "18086",
+      "ineName": "Gorafe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GRANADA",
+      "ineCode": "18087",
+      "ineName": "Granada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GUADAHORTUNA",
+      "ineCode": "18088",
+      "ineName": "Guadahortuna",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GUADIX",
+      "ineCode": "18089",
+      "ineName": "Guadix",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GUALCHOS",
+      "ineCode": "18093",
+      "ineName": "Gualchos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GÓJAR",
+      "ineCode": "18084",
+      "ineName": "Gójar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GÜEVÉJAR",
+      "ineCode": "18095",
+      "ineName": "Güevéjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "GÜÉJAR SIERRA",
+      "ineCode": "18094",
+      "ineName": "Güéjar Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉLAGO",
+      "ineCode": "18096",
+      "ineName": "Huélago",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉNEJA",
+      "ineCode": "18097",
+      "ineName": "Huéneja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉSCAR",
+      "ineCode": "18098",
+      "ineName": "Huéscar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉTOR SANTILLÁN",
+      "ineCode": "18099",
+      "ineName": "Huétor de Santillán",
+      "method": "manual-alias"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉTOR TÁJAR",
+      "ineCode": "18100",
+      "ineName": "Huétor Tájar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "HUÉTOR VEGA",
+      "ineCode": "18101",
+      "ineName": "Huétor Vega",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "IZNALLOZ",
+      "ineCode": "18105",
+      "ineName": "Iznalloz",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "JAYENA",
+      "ineCode": "18107",
+      "ineName": "Jayena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "JUN",
+      "ineCode": "18111",
+      "ineName": "Jun",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "JUVILES",
+      "ineCode": "18112",
+      "ineName": "Juviles",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "JÁTAR",
+      "ineCode": "18106",
+      "ineName": "Játar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "JÉREZ DEL MARQUESADO",
+      "ineCode": "18108",
+      "ineName": "Jérez del Marquesado",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LA CALAHORRA",
+      "ineCode": "18114",
+      "ineName": "Calahorra, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LA MALAHÁ",
+      "ineCode": "18126",
+      "ineName": "Malahá, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LA PEZA",
+      "ineCode": "18154",
+      "ineName": "Peza, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LA ZUBIA",
+      "ineCode": "18193",
+      "ineName": "Zubia, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LANJARÓN",
+      "ineCode": "18116",
+      "ineName": "Lanjarón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LANTEIRA",
+      "ineCode": "18117",
+      "ineName": "Lanteira",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LAS GABIAS",
+      "ineCode": "18905",
+      "ineName": "Gabias, Las",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LECRÍN",
+      "ineCode": "18119",
+      "ineName": "Lecrín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LENTEGÍ",
+      "ineCode": "18120",
+      "ineName": "Lentegí",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LOBRAS",
+      "ineCode": "18121",
+      "ineName": "Lobras",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LOJA",
+      "ineCode": "18122",
+      "ineName": "Loja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LOS GUÁJARES",
+      "ineCode": "18906",
+      "ineName": "Guájares, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LUGROS",
+      "ineCode": "18123",
+      "ineName": "Lugros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "LÚJAR",
+      "ineCode": "18124",
+      "ineName": "Lújar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MARACENA",
+      "ineCode": "18127",
+      "ineName": "Maracena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MARCHAL",
+      "ineCode": "18128",
+      "ineName": "Marchal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MOCLÍN",
+      "ineCode": "18132",
+      "ineName": "Moclín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MOLVÍZAR",
+      "ineCode": "18133",
+      "ineName": "Molvízar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MONACHIL",
+      "ineCode": "18134",
+      "ineName": "Monachil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MONTEFRÍO",
+      "ineCode": "18135",
+      "ineName": "Montefrío",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MONTEJÍCAR",
+      "ineCode": "18136",
+      "ineName": "Montejícar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MONTILLANA",
+      "ineCode": "18137",
+      "ineName": "Montillana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MORALEDA DE ZAFAYONA",
+      "ineCode": "18138",
+      "ineName": "Moraleda de Zafayona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MORELÁBOR",
+      "ineCode": "18909",
+      "ineName": "Morelábor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MOTRIL",
+      "ineCode": "18140",
+      "ineName": "Motril",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "MURTAS",
+      "ineCode": "18141",
+      "ineName": "Murtas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "NEVADA",
+      "ineCode": "18903",
+      "ineName": "Nevada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "NIGÜELAS",
+      "ineCode": "18143",
+      "ineName": "Nigüelas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "NÍVAR",
+      "ineCode": "18144",
+      "ineName": "Nívar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "OGÍJARES",
+      "ineCode": "18145",
+      "ineName": "Ogíjares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ORCE",
+      "ineCode": "18146",
+      "ineName": "Orce",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "OTÍVAR",
+      "ineCode": "18148",
+      "ineName": "Otívar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PADUL",
+      "ineCode": "18150",
+      "ineName": "Padul",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PAMPANEIRA",
+      "ineCode": "18151",
+      "ineName": "Pampaneira",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PEDRO MARTÍNEZ",
+      "ineCode": "18152",
+      "ineName": "Pedro Martínez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PELIGROS",
+      "ineCode": "18153",
+      "ineName": "Peligros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PINOS GENIL",
+      "ineCode": "18157",
+      "ineName": "Pinos Genil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PINOS PUENTE",
+      "ineCode": "18158",
+      "ineName": "Pinos Puente",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "POLOPOS-LA MAMOLA",
+      "ineCode": "18162",
+      "ineName": "Polopos",
+      "method": "manual-alias"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "POLÍCAR",
+      "ineCode": "18161",
+      "ineName": "Polícar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PUEBLA DE DON FADRIQUE",
+      "ineCode": "18164",
+      "ineName": "Puebla de Don Fadrique",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PULIANAS",
+      "ineCode": "18165",
+      "ineName": "Pulianas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PURULLENA",
+      "ineCode": "18167",
+      "ineName": "Purullena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PÍÑAR",
+      "ineCode": "18159",
+      "ineName": "Píñar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "PÓRTUGOS",
+      "ineCode": "18163",
+      "ineName": "Pórtugos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "QUÉNTAR",
+      "ineCode": "18168",
+      "ineName": "Quéntar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "RUBITE",
+      "ineCode": "18170",
+      "ineName": "Rubite",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SALAR",
+      "ineCode": "18171",
+      "ineName": "Salar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SALOBREÑA",
+      "ineCode": "18173",
+      "ineName": "Salobreña",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SANTA CRUZ DEL COMERCIO",
+      "ineCode": "18174",
+      "ineName": "Santa Cruz del Comercio",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SANTA FE",
+      "ineCode": "18175",
+      "ineName": "Santa Fe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SOPORTÚJAR",
+      "ineCode": "18176",
+      "ineName": "Soportújar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "SORVILÁN",
+      "ineCode": "18177",
+      "ineName": "Sorvilán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "TORRE-CARDELA",
+      "ineCode": "18178",
+      "ineName": "Torre-Cardela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "TORRENUEVA COSTA",
+      "ineCode": "18916",
+      "ineName": "Torrenueva Costa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "TORVIZCÓN",
+      "ineCode": "18179",
+      "ineName": "Torvizcón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "TREVÉLEZ",
+      "ineCode": "18180",
+      "ineName": "Trevélez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "TURÓN",
+      "ineCode": "18181",
+      "ineName": "Turón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "UGÍJAR",
+      "ineCode": "18182",
+      "ineName": "Ugíjar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VALDERRUBIO",
+      "ineCode": "18914",
+      "ineName": "Valderrubio",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VALLE DEL ZALABÍ",
+      "ineCode": "18907",
+      "ineName": "Valle del Zalabí",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VEGAS DEL GENIL",
+      "ineCode": "18911",
+      "ineName": "Vegas del Genil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VILLA DE OTURA",
+      "ineCode": "18149",
+      "ineName": "Villa de Otura",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VILLAMENA",
+      "ineCode": "18908",
+      "ineName": "Villamena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VILLANUEVA DE LAS TORRES",
+      "ineCode": "18187",
+      "ineName": "Villanueva de las Torres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VILLANUEVA MESÍA",
+      "ineCode": "18188",
+      "ineName": "Villanueva Mesía",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VÁLOR",
+      "ineCode": "18183",
+      "ineName": "Válor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VÉLEZ DE BENAUDALLA",
+      "ineCode": "18184",
+      "ineName": "Vélez de Benaudalla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "VÍZNAR",
+      "ineCode": "18189",
+      "ineName": "Víznar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ZAFARRAYA",
+      "ineCode": "18192",
+      "ineName": "Zafarraya",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ZAGRA",
+      "ineCode": "18913",
+      "ineName": "Zagra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ZÚJAR",
+      "ineCode": "18194",
+      "ineName": "Zújar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ÍLLORA",
+      "ineCode": "18102",
+      "ineName": "Íllora",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ÍTRABO",
+      "ineCode": "18103",
+      "ineName": "Ítrabo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "GRANADA",
+      "sourceName": "ÓRGIVA",
+      "ineCode": "18147",
+      "ineName": "Órgiva",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ALJARAQUE",
+      "ineCode": "21002",
+      "ineName": "Aljaraque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ALMONASTER LA REAL",
+      "ineCode": "21004",
+      "ineName": "Almonaster la Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ALMONTE",
+      "ineCode": "21005",
+      "ineName": "Almonte",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ALOSNO",
+      "ineCode": "21006",
+      "ineName": "Alosno",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ALÁJAR",
+      "ineCode": "21001",
+      "ineName": "Alájar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ARACENA",
+      "ineCode": "21007",
+      "ineName": "Aracena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "AROCHE",
+      "ineCode": "21008",
+      "ineName": "Aroche",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ARROYOMOLINOS DE LEÓN",
+      "ineCode": "21009",
+      "ineName": "Arroyomolinos de León",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "AYAMONTE",
+      "ineCode": "21010",
+      "ineName": "Ayamonte",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "BEAS",
+      "ineCode": "21011",
+      "ineName": "Beas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "BERROCAL",
+      "ineCode": "21012",
+      "ineName": "Berrocal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "BOLLULLOS PAR DEL CONDADO",
+      "ineCode": "21013",
+      "ineName": "Bollullos Par del Condado",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "BONARES",
+      "ineCode": "21014",
+      "ineName": "Bonares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CABEZAS RUBIAS",
+      "ineCode": "21015",
+      "ineName": "Cabezas Rubias",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CALA",
+      "ineCode": "21016",
+      "ineName": "Cala",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CALAÑAS",
+      "ineCode": "21017",
+      "ineName": "Calañas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CAMPOFRÍO",
+      "ineCode": "21019",
+      "ineName": "Campofrío",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CARTAYA",
+      "ineCode": "21021",
+      "ineName": "Cartaya",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CASTAÑO DEL ROBLEDO",
+      "ineCode": "21022",
+      "ineName": "Castaño del Robledo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CAÑAVERAL DE LEÓN",
+      "ineCode": "21020",
+      "ineName": "Cañaveral de León",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CHUCENA",
+      "ineCode": "21030",
+      "ineName": "Chucena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CORTECONCEPCIÓN",
+      "ineCode": "21024",
+      "ineName": "Corteconcepción",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CORTEGANA",
+      "ineCode": "21025",
+      "ineName": "Cortegana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CORTELAZOR LA REAL",
+      "ineCode": "21026",
+      "ineName": "Cortelazor",
+      "method": "manual-alias"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CUMBRES DE ENMEDIO",
+      "ineCode": "21027",
+      "ineName": "Cumbres de Enmedio",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CUMBRES DE SAN BARTOLOMÉ",
+      "ineCode": "21028",
+      "ineName": "Cumbres de San Bartolomé",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "CUMBRES MAYORES",
+      "ineCode": "21029",
+      "ineName": "Cumbres Mayores",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "EL ALMENDRO",
+      "ineCode": "21003",
+      "ineName": "Almendro, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "EL CAMPILLO",
+      "ineCode": "21018",
+      "ineName": "Campillo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "EL CERRO DE ANDÉVALO",
+      "ineCode": "21023",
+      "ineName": "Cerro de Andévalo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "EL GRANADO",
+      "ineCode": "21037",
+      "ineName": "Granado, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ENCINASOLA",
+      "ineCode": "21031",
+      "ineName": "Encinasola",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ESCACENA DEL CAMPO",
+      "ineCode": "21032",
+      "ineName": "Escacena del Campo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "FUENTEHERIDOS",
+      "ineCode": "21033",
+      "ineName": "Fuenteheridos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "GALAROZA",
+      "ineCode": "21034",
+      "ineName": "Galaroza",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "GIBRALEÓN",
+      "ineCode": "21035",
+      "ineName": "Gibraleón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "HIGUERA DE LA SIERRA",
+      "ineCode": "21038",
+      "ineName": "Higuera de la Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "HINOJALES",
+      "ineCode": "21039",
+      "ineName": "Hinojales",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "HINOJOS",
+      "ineCode": "21040",
+      "ineName": "Hinojos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "HUELVA",
+      "ineCode": "21041",
+      "ineName": "Huelva",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ISLA CRISTINA",
+      "ineCode": "21042",
+      "ineName": "Isla Cristina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "JABUGO",
+      "ineCode": "21043",
+      "ineName": "Jabugo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LA GRANADA DE RÍO TINTO",
+      "ineCode": "21036",
+      "ineName": "Granada de Río-Tinto, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LA NAVA",
+      "ineCode": "21051",
+      "ineName": "Nava, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LA PALMA DEL CONDADO",
+      "ineCode": "21054",
+      "ineName": "Palma del Condado, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LA ZARZA-PERRUNAL",
+      "ineCode": "21902",
+      "ineName": "Zarza-Perrunal, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LEPE",
+      "ineCode": "21044",
+      "ineName": "Lepe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LINARES DE LA SIERRA",
+      "ineCode": "21045",
+      "ineName": "Linares de la Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LOS MARINES",
+      "ineCode": "21048",
+      "ineName": "Marines, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "LUCENA DEL PUERTO",
+      "ineCode": "21046",
+      "ineName": "Lucena del Puerto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "MANZANILLA",
+      "ineCode": "21047",
+      "ineName": "Manzanilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "MINAS DE RIOTINTO",
+      "ineCode": "21049",
+      "ineName": "Minas de Riotinto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "MOGUER",
+      "ineCode": "21050",
+      "ineName": "Moguer",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "NERVA",
+      "ineCode": "21052",
+      "ineName": "Nerva",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "NIEBLA",
+      "ineCode": "21053",
+      "ineName": "Niebla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PALOS DE LA FRONTERA",
+      "ineCode": "21055",
+      "ineName": "Palos de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PATERNA DEL CAMPO",
+      "ineCode": "21056",
+      "ineName": "Paterna del Campo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PAYMOGO",
+      "ineCode": "21057",
+      "ineName": "Paymogo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PUEBLA DE GUZMÁN",
+      "ineCode": "21058",
+      "ineName": "Puebla de Guzmán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PUERTO MORAL",
+      "ineCode": "21059",
+      "ineName": "Puerto Moral",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "PUNTA UMBRÍA",
+      "ineCode": "21060",
+      "ineName": "Punta Umbría",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ROCIANA DEL CONDADO",
+      "ineCode": "21061",
+      "ineName": "Rociana del Condado",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ROSAL DE LA FRONTERA",
+      "ineCode": "21062",
+      "ineName": "Rosal de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SAN BARTOLOMÉ DE LA TORRE",
+      "ineCode": "21063",
+      "ineName": "San Bartolomé de la Torre",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SAN JUAN DEL PUERTO",
+      "ineCode": "21064",
+      "ineName": "San Juan del Puerto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SAN SILVESTRE DE GUZMÁN",
+      "ineCode": "21066",
+      "ineName": "San Silvestre de Guzmán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SANLÚCAR DE GUADIANA",
+      "ineCode": "21065",
+      "ineName": "Sanlúcar de Guadiana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SANTA ANA LA REAL",
+      "ineCode": "21067",
+      "ineName": "Santa Ana la Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SANTA BÁRBARA DE CASA",
+      "ineCode": "21068",
+      "ineName": "Santa Bárbara de Casa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "SANTA OLALLA DEL CALA",
+      "ineCode": "21069",
+      "ineName": "Santa Olalla del Cala",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "TRIGUEROS",
+      "ineCode": "21070",
+      "ineName": "Trigueros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VALDELARCO",
+      "ineCode": "21071",
+      "ineName": "Valdelarco",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VALVERDE DEL CAMINO",
+      "ineCode": "21072",
+      "ineName": "Valverde del Camino",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VILLABLANCA",
+      "ineCode": "21073",
+      "ineName": "Villablanca",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VILLALBA DEL ALCOR",
+      "ineCode": "21074",
+      "ineName": "Villalba del Alcor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VILLANUEVA DE LAS CRUCES",
+      "ineCode": "21075",
+      "ineName": "Villanueva de las Cruces",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VILLANUEVA DE LOS CASTILLEJOS",
+      "ineCode": "21076",
+      "ineName": "Villanueva de los Castillejos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "VILLARRASA",
+      "ineCode": "21077",
+      "ineName": "Villarrasa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ZALAMEA LA REAL",
+      "ineCode": "21078",
+      "ineName": "Zalamea la Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "HUELVA",
+      "sourceName": "ZUFRE",
+      "ineCode": "21079",
+      "ineName": "Zufre",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ALBANCHEZ DE MÁGINA",
+      "ineCode": "23001",
+      "ineName": "Albanchez de Mágina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ALCALÁ LA REAL",
+      "ineCode": "23002",
+      "ineName": "Alcalá la Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ALCAUDETE",
+      "ineCode": "23003",
+      "ineName": "Alcaudete",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ALDEAQUEMADA",
+      "ineCode": "23004",
+      "ineName": "Aldeaquemada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ANDÚJAR",
+      "ineCode": "23005",
+      "ineName": "Andújar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ARJONA",
+      "ineCode": "23006",
+      "ineName": "Arjona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ARJONILLA",
+      "ineCode": "23007",
+      "ineName": "Arjonilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ARQUILLOS",
+      "ineCode": "23008",
+      "ineName": "Arquillos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ARROYO DEL OJANCO",
+      "ineCode": "23905",
+      "ineName": "Arroyo del Ojanco",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BAEZA",
+      "ineCode": "23009",
+      "ineName": "Baeza",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BAILÉN",
+      "ineCode": "23010",
+      "ineName": "Bailén",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BAÑOS DE LA ENCINA",
+      "ineCode": "23011",
+      "ineName": "Baños de la Encina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BEAS DE SEGURA",
+      "ineCode": "23012",
+      "ineName": "Beas de Segura",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BEDMAR Y GARCÍEZ",
+      "ineCode": "23902",
+      "ineName": "Bedmar y Garcíez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BEJÍJAR",
+      "ineCode": "23014",
+      "ineName": "Begíjar",
+      "method": "manual-alias"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BENATAE",
+      "ineCode": "23016",
+      "ineName": "Benatae",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "BÉLMEZ DE LA MORALEDA",
+      "ineCode": "23015",
+      "ineName": "Bélmez de la Moraleda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CABRA DEL SANTO CRISTO",
+      "ineCode": "23017",
+      "ineName": "Cabra del Santo Cristo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CAMBIL",
+      "ineCode": "23018",
+      "ineName": "Cambil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CAMPILLO DE ARENAS",
+      "ineCode": "23019",
+      "ineName": "Campillo de Arenas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CANENA",
+      "ineCode": "23020",
+      "ineName": "Canena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CARBONEROS",
+      "ineCode": "23021",
+      "ineName": "Carboneros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CARCHELES",
+      "ineCode": "23901",
+      "ineName": "Cárcheles",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CAROLINA, LA",
+      "ineCode": "23024",
+      "ineName": "Carolina, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CASTELLAR",
+      "ineCode": "23025",
+      "ineName": "Castellar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CASTILLO DE LOCUBÍN",
+      "ineCode": "23026",
+      "ineName": "Castillo de Locubín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CAZALILLA",
+      "ineCode": "23027",
+      "ineName": "Cazalilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CAZORLA",
+      "ineCode": "23028",
+      "ineName": "Cazorla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CHICLANA DE SEGURA",
+      "ineCode": "23029",
+      "ineName": "Chiclana de Segura",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "CHILLUÉVAR",
+      "ineCode": "23030",
+      "ineName": "Chilluévar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ESCAÑUELA",
+      "ineCode": "23031",
+      "ineName": "Escañuela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ESPELUY",
+      "ineCode": "23032",
+      "ineName": "Espeluy",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "FRAILES",
+      "ineCode": "23033",
+      "ineName": "Frailes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "FUENSANTA DE MARTOS",
+      "ineCode": "23034",
+      "ineName": "Fuensanta de Martos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "FUERTE DEL REY",
+      "ineCode": "23035",
+      "ineName": "Fuerte del Rey",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "GUARROMÁN",
+      "ineCode": "23039",
+      "ineName": "Guarromán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "GÉNAVE",
+      "ineCode": "23037",
+      "ineName": "Génave",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "HIGUERA DE CALATRAVA",
+      "ineCode": "23041",
+      "ineName": "Higuera de Calatrava",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "HINOJARES",
+      "ineCode": "23042",
+      "ineName": "Hinojares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "HORNOS DE SEGURA",
+      "ineCode": "23043",
+      "ineName": "Hornos",
+      "method": "manual-alias"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "HUELMA",
+      "ineCode": "23044",
+      "ineName": "Huelma",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "HUESA",
+      "ineCode": "23045",
+      "ineName": "Huesa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "IBROS",
+      "ineCode": "23046",
+      "ineName": "Ibros",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "IZNATORAF",
+      "ineCode": "23048",
+      "ineName": "Iznatoraf",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "JABALQUINTO",
+      "ineCode": "23049",
+      "ineName": "Jabalquinto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "JAMILENA",
+      "ineCode": "23051",
+      "ineName": "Jamilena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "JAÉN",
+      "ineCode": "23050",
+      "ineName": "Jaén",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "JIMENA",
+      "ineCode": "23052",
+      "ineName": "Jimena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "JÓDAR",
+      "ineCode": "23053",
+      "ineName": "Jódar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LA GUARDIA DE JAÉN",
+      "ineCode": "23038",
+      "ineName": "Guardia de Jaén, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LA IRUELA",
+      "ineCode": "23047",
+      "ineName": "Iruela, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LA PUERTA DE SEGURA",
+      "ineCode": "23072",
+      "ineName": "Puerta de Segura, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LAHIGUERA",
+      "ineCode": "23040",
+      "ineName": "Lahiguera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LARVA",
+      "ineCode": "23054",
+      "ineName": "Larva",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LINARES",
+      "ineCode": "23055",
+      "ineName": "Linares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LOPERA",
+      "ineCode": "23056",
+      "ineName": "Lopera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LOS VILLARES",
+      "ineCode": "23099",
+      "ineName": "Villares, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "LUPIÓN",
+      "ineCode": "23057",
+      "ineName": "Lupión",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "MANCHA REAL",
+      "ineCode": "23058",
+      "ineName": "Mancha Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "MARMOLEJO",
+      "ineCode": "23059",
+      "ineName": "Marmolejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "MARTOS",
+      "ineCode": "23060",
+      "ineName": "Martos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "MENGÍBAR",
+      "ineCode": "23061",
+      "ineName": "Mengíbar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "MONTIZÓN",
+      "ineCode": "23062",
+      "ineName": "Montizón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "NAVAS DE SAN JUAN",
+      "ineCode": "23063",
+      "ineName": "Navas de San Juan",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "NOALEJO",
+      "ineCode": "23064",
+      "ineName": "Noalejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ORCERA",
+      "ineCode": "23065",
+      "ineName": "Orcera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "PEAL DE BECERRO",
+      "ineCode": "23066",
+      "ineName": "Peal de Becerro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "PEGALAJAR",
+      "ineCode": "23067",
+      "ineName": "Pegalajar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "PORCUNA",
+      "ineCode": "23069",
+      "ineName": "Porcuna",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "POZO ALCÓN",
+      "ineCode": "23070",
+      "ineName": "Pozo Alcón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "PUENTE DE GÉNAVE",
+      "ineCode": "23071",
+      "ineName": "Puente de Génave",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "QUESADA",
+      "ineCode": "23073",
+      "ineName": "Quesada",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "RUS",
+      "ineCode": "23074",
+      "ineName": "Rus",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SABIOTE",
+      "ineCode": "23075",
+      "ineName": "Sabiote",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SANTA ELENA",
+      "ineCode": "23076",
+      "ineName": "Santa Elena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SANTIAGO DE CALATRAVA",
+      "ineCode": "23077",
+      "ineName": "Santiago de Calatrava",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SANTIAGO-PONTONES",
+      "ineCode": "23904",
+      "ineName": "Santiago-Pontones",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SANTISTEBAN DEL PUERTO",
+      "ineCode": "23079",
+      "ineName": "Santisteban del Puerto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SANTO TOMÉ",
+      "ineCode": "23080",
+      "ineName": "Santo Tomé",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SEGURA DE LA SIERRA",
+      "ineCode": "23081",
+      "ineName": "Segura de la Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SILES",
+      "ineCode": "23082",
+      "ineName": "Siles",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "SORIHUELA DEL GUADALIMAR",
+      "ineCode": "23084",
+      "ineName": "Sorihuela del Guadalimar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORREBLASCOPEDRO",
+      "ineCode": "23085",
+      "ineName": "Torreblascopedro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORREDELCAMPO",
+      "ineCode": "23086",
+      "ineName": "Torredelcampo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORREDONJIMENO",
+      "ineCode": "23087",
+      "ineName": "Torredonjimeno",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORREPEROGIL",
+      "ineCode": "23088",
+      "ineName": "Torreperogil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORRES",
+      "ineCode": "23090",
+      "ineName": "Torres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "TORRES DE ALBÁNCHEZ",
+      "ineCode": "23091",
+      "ineName": "Torres de Albánchez",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VALDEPEÑAS DE JAÉN",
+      "ineCode": "23093",
+      "ineName": "Valdepeñas de Jaén",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILCHES",
+      "ineCode": "23094",
+      "ineName": "Vilches",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLACARRILLO",
+      "ineCode": "23095",
+      "ineName": "Villacarrillo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLANUEVA DE LA REINA",
+      "ineCode": "23096",
+      "ineName": "Villanueva de la Reina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLANUEVA DEL ARZOBISPO",
+      "ineCode": "23097",
+      "ineName": "Villanueva del Arzobispo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLARDOMPARDO",
+      "ineCode": "23098",
+      "ineName": "Villardompardo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLARRODRIGO",
+      "ineCode": "23101",
+      "ineName": "Villarrodrigo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "VILLATORRES",
+      "ineCode": "23903",
+      "ineName": "Villatorres",
+      "method": "normalized-name"
+    },
+    {
+      "province": "JAÉN",
+      "sourceName": "ÚBEDA",
+      "ineCode": "23092",
+      "ineName": "Úbeda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALAMEDA",
+      "ineCode": "29001",
+      "ineName": "Alameda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALCAUCÍN",
+      "ineCode": "29002",
+      "ineName": "Alcaucín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALFARNATE",
+      "ineCode": "29003",
+      "ineName": "Alfarnate",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALFARNATEJO",
+      "ineCode": "29004",
+      "ineName": "Alfarnatejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALGARROBO",
+      "ineCode": "29005",
+      "ineName": "Algarrobo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALGATOCÍN",
+      "ineCode": "29006",
+      "ineName": "Algatocín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALHAURÍN DE LA TORRE",
+      "ineCode": "29007",
+      "ineName": "Alhaurín de la Torre",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALHAURÍN EL GRANDE",
+      "ineCode": "29008",
+      "ineName": "Alhaurín el Grande",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALMARGEN",
+      "ineCode": "29010",
+      "ineName": "Almargen",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALMOGÍA",
+      "ineCode": "29011",
+      "ineName": "Almogía",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALMÁCHAR",
+      "ineCode": "29009",
+      "ineName": "Almáchar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALOZAINA",
+      "ineCode": "29013",
+      "ineName": "Alozaina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ALPANDEIRE",
+      "ineCode": "29014",
+      "ineName": "Alpandeire",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ANTEQUERA",
+      "ineCode": "29015",
+      "ineName": "Antequera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ARCHIDONA",
+      "ineCode": "29017",
+      "ineName": "Archidona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ARDALES",
+      "ineCode": "29018",
+      "ineName": "Ardales",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ARENAS",
+      "ineCode": "29019",
+      "ineName": "Arenas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ARRIATE",
+      "ineCode": "29020",
+      "ineName": "Arriate",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ATAJATE",
+      "ineCode": "29021",
+      "ineName": "Atajate",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENADALID",
+      "ineCode": "29022",
+      "ineName": "Benadalid",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENAHAVÍS",
+      "ineCode": "29023",
+      "ineName": "Benahavís",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENALMÁDENA",
+      "ineCode": "29025",
+      "ineName": "Benalmádena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENAMARGOSA",
+      "ineCode": "29026",
+      "ineName": "Benamargosa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENAMOCARRA",
+      "ineCode": "29027",
+      "ineName": "Benamocarra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENAOJÁN",
+      "ineCode": "29028",
+      "ineName": "Benaoján",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "BENARRABÁ",
+      "ineCode": "29029",
+      "ineName": "Benarrabá",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CAMPILLOS",
+      "ineCode": "29032",
+      "ineName": "Campillos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CANILLAS DE ACEITUNO",
+      "ineCode": "29033",
+      "ineName": "Canillas de Aceituno",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CANILLAS DE ALBAIDA",
+      "ineCode": "29034",
+      "ineName": "Canillas de Albaida",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CARRATRACA",
+      "ineCode": "29036",
+      "ineName": "Carratraca",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CARTAJIMA",
+      "ineCode": "29037",
+      "ineName": "Cartajima",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CASABERMEJA",
+      "ineCode": "29039",
+      "ineName": "Casabermeja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CASARABONELA",
+      "ineCode": "29040",
+      "ineName": "Casarabonela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CASARES",
+      "ineCode": "29041",
+      "ineName": "Casares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CAÑETE LA REAL",
+      "ineCode": "29035",
+      "ineName": "Cañete la Real",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "COLMENAR",
+      "ineCode": "29043",
+      "ineName": "Colmenar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "COMARES",
+      "ineCode": "29044",
+      "ineName": "Comares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CORTES DE LA FRONTERA",
+      "ineCode": "29046",
+      "ineName": "Cortes de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "COÍN",
+      "ineCode": "29042",
+      "ineName": "Coín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CUEVAS BAJAS",
+      "ineCode": "29047",
+      "ineName": "Cuevas Bajas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CUEVAS DE SAN MARCOS",
+      "ineCode": "29049",
+      "ineName": "Cuevas de San Marcos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CUEVAS DEL BECERRO",
+      "ineCode": "29048",
+      "ineName": "Cuevas del Becerro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CÁRTAMA",
+      "ineCode": "29038",
+      "ineName": "Cártama",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CÓMPETA",
+      "ineCode": "29045",
+      "ineName": "Cómpeta",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "CÚTAR",
+      "ineCode": "29050",
+      "ineName": "Cútar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "EL BORGE",
+      "ineCode": "29030",
+      "ineName": "Borge, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "EL BURGO",
+      "ineCode": "29031",
+      "ineName": "Burgo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ESTEPONA",
+      "ineCode": "29051",
+      "ineName": "Estepona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "FARAJÁN",
+      "ineCode": "29052",
+      "ineName": "Faraján",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "FRIGILIANA",
+      "ineCode": "29053",
+      "ineName": "Frigiliana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "FUENGIROLA",
+      "ineCode": "29054",
+      "ineName": "Fuengirola",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "FUENTE DE PIEDRA",
+      "ineCode": "29055",
+      "ineName": "Fuente de Piedra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "GAUCÍN",
+      "ineCode": "29056",
+      "ineName": "Gaucín",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "GENALGUACIL",
+      "ineCode": "29057",
+      "ineName": "Genalguacil",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "GUARO",
+      "ineCode": "29058",
+      "ineName": "Guaro",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "HUMILLADERO",
+      "ineCode": "29059",
+      "ineName": "Humilladero",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "IGUALEJA",
+      "ineCode": "29060",
+      "ineName": "Igualeja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ISTÁN",
+      "ineCode": "29061",
+      "ineName": "Istán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "IZNATE",
+      "ineCode": "29062",
+      "ineName": "Iznate",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "JIMERA DE LÍBAR",
+      "ineCode": "29063",
+      "ineName": "Jimera de Líbar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "JUBRIQUE",
+      "ineCode": "29064",
+      "ineName": "Jubrique",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "JÚZCAR",
+      "ineCode": "29065",
+      "ineName": "Júzcar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "LA VIÑUELA",
+      "ineCode": "29099",
+      "ineName": "Viñuela",
+      "method": "manual-alias"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MACHARAVIAYA",
+      "ineCode": "29066",
+      "ineName": "Macharaviaya",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MANILVA",
+      "ineCode": "29068",
+      "ineName": "Manilva",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MARBELLA",
+      "ineCode": "29069",
+      "ineName": "Marbella",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MIJAS",
+      "ineCode": "29070",
+      "ineName": "Mijas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MOCLINEJO",
+      "ineCode": "29071",
+      "ineName": "Moclinejo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MOLLINA",
+      "ineCode": "29072",
+      "ineName": "Mollina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MONDA",
+      "ineCode": "29073",
+      "ineName": "Monda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MONTECORTO",
+      "ineCode": "29903",
+      "ineName": "Montecorto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MONTEJAQUE",
+      "ineCode": "29074",
+      "ineName": "Montejaque",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "MÁLAGA",
+      "ineCode": "29067",
+      "ineName": "Málaga",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "NERJA",
+      "ineCode": "29075",
+      "ineName": "Nerja",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "OJÉN",
+      "ineCode": "29076",
+      "ineName": "Ojén",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "PARAUTA",
+      "ineCode": "29077",
+      "ineName": "Parauta",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "PERIANA",
+      "ineCode": "29079",
+      "ineName": "Periana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "PIZARRA",
+      "ineCode": "29080",
+      "ineName": "Pizarra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "PUJERRA",
+      "ineCode": "29081",
+      "ineName": "Pujerra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "RINCÓN DE LA VICTORIA",
+      "ineCode": "29082",
+      "ineName": "Rincón de la Victoria",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "RIOGORDO",
+      "ineCode": "29083",
+      "ineName": "Riogordo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "RONDA",
+      "ineCode": "29084",
+      "ineName": "Ronda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "SALARES",
+      "ineCode": "29085",
+      "ineName": "Salares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "SAYALONGA",
+      "ineCode": "29086",
+      "ineName": "Sayalonga",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "SEDELLA",
+      "ineCode": "29087",
+      "ineName": "Sedella",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "SERRATO",
+      "ineCode": "29904",
+      "ineName": "Serrato",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "SIERRA DE YEGUAS",
+      "ineCode": "29088",
+      "ineName": "Sierra de Yeguas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "TEBA",
+      "ineCode": "29089",
+      "ineName": "Teba",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "TOLOX",
+      "ineCode": "29090",
+      "ineName": "Tolox",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "TORREMOLINOS",
+      "ineCode": "29901",
+      "ineName": "Torremolinos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "TORROX",
+      "ineCode": "29091",
+      "ineName": "Torrox",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "TOTALÁN",
+      "ineCode": "29092",
+      "ineName": "Totalán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VALLE DE ABDALAJÍS",
+      "ineCode": "29093",
+      "ineName": "Valle de Abdalajís",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VILLANUEVA DE ALGAIDAS",
+      "ineCode": "29095",
+      "ineName": "Villanueva de Algaidas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VILLANUEVA DE LA CONCEPCIÓN",
+      "ineCode": "29902",
+      "ineName": "Villanueva de la Concepción",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VILLANUEVA DE TAPIA",
+      "ineCode": "29098",
+      "ineName": "Villanueva de Tapia",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VILLANUEVA DEL ROSARIO",
+      "ineCode": "29096",
+      "ineName": "Villanueva del Rosario",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VILLANUEVA DEL TRABUCO",
+      "ineCode": "29097",
+      "ineName": "Villanueva del Trabuco",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "VÉLEZ-MÁLAGA",
+      "ineCode": "29094",
+      "ineName": "Vélez-Málaga",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "YUNQUERA",
+      "ineCode": "29100",
+      "ineName": "Yunquera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "MÁLAGA",
+      "sourceName": "ÁLORA",
+      "ineCode": "29012",
+      "ineName": "Álora",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "AGUADULCE",
+      "ineCode": "41001",
+      "ineName": "Aguadulce",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALANÍS DE LA SIERRA",
+      "ineCode": "41002",
+      "ineName": "Alanís",
+      "method": "manual-alias"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALBAIDA DEL ALJARAFE",
+      "ineCode": "41003",
+      "ineName": "Albaida del Aljarafe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALCALÁ DE GUADAÍRA",
+      "ineCode": "41004",
+      "ineName": "Alcalá de Guadaíra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALCALÁ DEL RÍO",
+      "ineCode": "41005",
+      "ineName": "Alcalá del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALCOLEA DEL RÍO",
+      "ineCode": "41006",
+      "ineName": "Alcolea del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALMADÉN DE LA PLATA",
+      "ineCode": "41009",
+      "ineName": "Almadén de la Plata",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ALMENSILLA",
+      "ineCode": "41010",
+      "ineName": "Almensilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ARAHAL",
+      "ineCode": "41011",
+      "ineName": "Arahal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "AZNALCÁZAR",
+      "ineCode": "41012",
+      "ineName": "Aznalcázar",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BADOLATOSA",
+      "ineCode": "41014",
+      "ineName": "Badolatosa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BENACAZÓN",
+      "ineCode": "41015",
+      "ineName": "Benacazón",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BOLLULLOS DE LA MITACIÓN",
+      "ineCode": "41016",
+      "ineName": "Bollullos de la Mitación",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BORMUJOS",
+      "ineCode": "41017",
+      "ineName": "Bormujos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BRENES",
+      "ineCode": "41018",
+      "ineName": "Brenes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "BURGUILLOS",
+      "ineCode": "41019",
+      "ineName": "Burguillos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CAMAS",
+      "ineCode": "41021",
+      "ineName": "Camas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CANTILLANA",
+      "ineCode": "41023",
+      "ineName": "Cantillana",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CARMONA",
+      "ineCode": "41024",
+      "ineName": "Carmona",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CARRIÓN DE LOS CÉSPEDES",
+      "ineCode": "41025",
+      "ineName": "Carrión de los Céspedes",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CASARICHE",
+      "ineCode": "41026",
+      "ineName": "Casariche",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CASTILBLANCO DE LOS ARROYOS",
+      "ineCode": "41027",
+      "ineName": "Castilblanco de los Arroyos",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CASTILLEJA DE GUZMÁN",
+      "ineCode": "41028",
+      "ineName": "Castilleja de Guzmán",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CASTILLEJA DE LA CUESTA",
+      "ineCode": "41029",
+      "ineName": "Castilleja de la Cuesta",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CASTILLEJA DEL CAMPO",
+      "ineCode": "41030",
+      "ineName": "Castilleja del Campo",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CAZALLA DE LA SIERRA",
+      "ineCode": "41032",
+      "ineName": "Cazalla de la Sierra",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CAÑADA ROSAL",
+      "ineCode": "41901",
+      "ineName": "Cañada Rosal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CONSTANTINA",
+      "ineCode": "41033",
+      "ineName": "Constantina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CORIA DEL RÍO",
+      "ineCode": "41034",
+      "ineName": "Coria del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "CORIPE",
+      "ineCode": "41035",
+      "ineName": "Coripe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "DOS HERMANAS",
+      "ineCode": "41038",
+      "ineName": "Dos Hermanas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL CASTILLO DE LAS GUARDAS",
+      "ineCode": "41031",
+      "ineName": "Castillo de las Guardas, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL CORONIL",
+      "ineCode": "41036",
+      "ineName": "Coronil, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL CUERVO DE SEVILLA",
+      "ineCode": "41903",
+      "ineName": "Cuervo de Sevilla, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL GARROBO",
+      "ineCode": "41043",
+      "ineName": "Garrobo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL MADROÑO",
+      "ineCode": "41057",
+      "ineName": "Madroño, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL PALMAR DE TROYA",
+      "ineCode": "41904",
+      "ineName": "Palmar de Troya, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL PEDROSO",
+      "ineCode": "41073",
+      "ineName": "Pedroso, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL REAL DE LA JARA",
+      "ineCode": "41080",
+      "ineName": "Real de la Jara, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL RONQUILLO",
+      "ineCode": "41083",
+      "ineName": "Ronquillo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL RUBIO",
+      "ineCode": "41084",
+      "ineName": "Rubio, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL SAUCEJO",
+      "ineCode": "41090",
+      "ineName": "Saucejo, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "EL VISO DEL ALCOR",
+      "ineCode": "41102",
+      "ineName": "Viso del Alcor, El",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ESPARTINAS",
+      "ineCode": "41040",
+      "ineName": "Espartinas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ESTEPA",
+      "ineCode": "41041",
+      "ineName": "Estepa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "FUENTES DE ANDALUCÍA",
+      "ineCode": "41042",
+      "ineName": "Fuentes de Andalucía",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GELVES",
+      "ineCode": "41044",
+      "ineName": "Gelves",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GERENA",
+      "ineCode": "41045",
+      "ineName": "Gerena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GILENA",
+      "ineCode": "41046",
+      "ineName": "Gilena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GINES",
+      "ineCode": "41047",
+      "ineName": "Gines",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GUADALCANAL",
+      "ineCode": "41048",
+      "ineName": "Guadalcanal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "GUILLENA",
+      "ineCode": "41049",
+      "ineName": "Guillena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "HERRERA",
+      "ineCode": "41050",
+      "ineName": "Herrera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "HUÉVAR DEL ALJARAFE",
+      "ineCode": "41051",
+      "ineName": "Huévar del Aljarafe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ISLA MAYOR",
+      "ineCode": "41902",
+      "ineName": "Isla Mayor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA ALGABA",
+      "ineCode": "41007",
+      "ineName": "Algaba, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA CAMPANA",
+      "ineCode": "41022",
+      "ineName": "Campana, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA LUISIANA",
+      "ineCode": "41056",
+      "ineName": "Luisiana, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA PUEBLA DE CAZALLA",
+      "ineCode": "41077",
+      "ineName": "Puebla de Cazalla, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA PUEBLA DE LOS INFANTES",
+      "ineCode": "41078",
+      "ineName": "Puebla de los Infantes, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA PUEBLA DEL RÍO",
+      "ineCode": "41079",
+      "ineName": "Puebla del Río, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA RINCONADA",
+      "ineCode": "41081",
+      "ineName": "Rinconada, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LA RODA DE ANDALUCÍA",
+      "ineCode": "41082",
+      "ineName": "Roda de Andalucía, La",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LANTEJUELA",
+      "ineCode": "41052",
+      "ineName": "Lantejuela",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LAS CABEZAS DE SAN JUAN",
+      "ineCode": "41020",
+      "ineName": "Cabezas de San Juan, Las",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LAS NAVAS DE LA CONCEPCIÓN",
+      "ineCode": "41066",
+      "ineName": "Navas de la Concepción, Las",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LEBRIJA",
+      "ineCode": "41053",
+      "ineName": "Lebrija",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LORA DE ESTEPA",
+      "ineCode": "41054",
+      "ineName": "Lora de Estepa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LORA DEL RÍO",
+      "ineCode": "41055",
+      "ineName": "Lora del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LOS CORRALES",
+      "ineCode": "41037",
+      "ineName": "Corrales, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LOS MOLARES",
+      "ineCode": "41063",
+      "ineName": "Molares, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "LOS PALACIOS Y VILLAFRANCA",
+      "ineCode": "41069",
+      "ineName": "Palacios y Villafranca, Los",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MAIRENA DEL ALCOR",
+      "ineCode": "41058",
+      "ineName": "Mairena del Alcor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MAIRENA DEL ALJARAFE",
+      "ineCode": "41059",
+      "ineName": "Mairena del Aljarafe",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MARCHENA",
+      "ineCode": "41060",
+      "ineName": "Marchena",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MARINALEDA",
+      "ineCode": "41061",
+      "ineName": "Marinaleda",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MARTÍN DE LA JARA",
+      "ineCode": "41062",
+      "ineName": "Martín de la Jara",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MONTELLANO",
+      "ineCode": "41064",
+      "ineName": "Montellano",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "MORÓN DE LA FRONTERA",
+      "ineCode": "41065",
+      "ineName": "Morón de la Frontera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "OLIVARES",
+      "ineCode": "41067",
+      "ineName": "Olivares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "OSUNA",
+      "ineCode": "41068",
+      "ineName": "Osuna",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PALOMARES DEL RÍO",
+      "ineCode": "41070",
+      "ineName": "Palomares del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PARADAS",
+      "ineCode": "41071",
+      "ineName": "Paradas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PEDRERA",
+      "ineCode": "41072",
+      "ineName": "Pedrera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PEÑAFLOR",
+      "ineCode": "41074",
+      "ineName": "Peñaflor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PILAS",
+      "ineCode": "41075",
+      "ineName": "Pilas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "PRUNA",
+      "ineCode": "41076",
+      "ineName": "Pruna",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SALTERAS",
+      "ineCode": "41085",
+      "ineName": "Salteras",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SAN JUAN DE AZNALFARACHE",
+      "ineCode": "41086",
+      "ineName": "San Juan de Aznalfarache",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SAN NICOLÁS DEL PUERTO",
+      "ineCode": "41088",
+      "ineName": "San Nicolás del Puerto",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SANLÚCAR LA MAYOR",
+      "ineCode": "41087",
+      "ineName": "Sanlúcar la Mayor",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SANTIPONCE",
+      "ineCode": "41089",
+      "ineName": "Santiponce",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "SEVILLA",
+      "ineCode": "41091",
+      "ineName": "Sevilla",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "TOCINA",
+      "ineCode": "41092",
+      "ineName": "Tocina",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "TOMARES",
+      "ineCode": "41093",
+      "ineName": "Tomares",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "UMBRETE",
+      "ineCode": "41094",
+      "ineName": "Umbrete",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "UTRERA",
+      "ineCode": "41095",
+      "ineName": "Utrera",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VALENCINA DE LA CONCEPCIÓN",
+      "ineCode": "41096",
+      "ineName": "Valencina de la Concepción",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VILLAMANRIQUE DE LA CONDESA",
+      "ineCode": "41097",
+      "ineName": "Villamanrique de la Condesa",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VILLANUEVA DE SAN JUAN",
+      "ineCode": "41100",
+      "ineName": "Villanueva de San Juan",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VILLANUEVA DEL ARISCAL",
+      "ineCode": "41098",
+      "ineName": "Villanueva del Ariscal",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VILLANUEVA DEL RÍO Y MINAS",
+      "ineCode": "41099",
+      "ineName": "Villanueva del Río y Minas",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "VILLAVERDE DEL RÍO",
+      "ineCode": "41101",
+      "ineName": "Villaverde del Río",
+      "method": "normalized-name"
+    },
+    {
+      "province": "SEVILLA",
+      "sourceName": "ÉCIJA",
+      "ineCode": "41039",
+      "ineName": "Écija",
+      "method": "normalized-name"
+    }
+  ],
+  "omitted": [
+    {
+      "ineCode": "04043",
+      "controlDigit": "3",
+      "name": "Felix",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04060",
+      "controlDigit": "0",
+      "name": "Lucainena de las Torres",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18064",
+      "controlDigit": "9",
+      "name": "Dehesas de Guadix",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18109",
+      "controlDigit": "2",
+      "name": "Jete",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18115",
+      "controlDigit": "2",
+      "name": "Láchar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18901",
+      "controlDigit": "7",
+      "name": "Taha, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18185",
+      "controlDigit": "7",
+      "name": "Ventas de Huelma",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29016",
+      "controlDigit": "7",
+      "name": "Árchez",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29024",
+      "controlDigit": "9",
+      "name": "Benalauría",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41008",
+      "controlDigit": "0",
+      "name": "Algámitas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41013",
+      "controlDigit": "5",
+      "name": "Aznalcóllar",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    }
+  ]
+}

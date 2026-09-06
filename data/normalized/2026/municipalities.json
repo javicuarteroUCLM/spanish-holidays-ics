@@ -1,0 +1,5501 @@
+{
+  "sourceId": "ine-municipalities-2026",
+  "sourceSha256": "07f8e8d64eba73fe9d425196fe82f4e09a9886a287abd650e88ca8d98dd49052",
+  "municipalities": [
+    {
+      "ineCode": "04001",
+      "controlDigit": "0",
+      "name": "Abla",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04002",
+      "controlDigit": "5",
+      "name": "Abrucena",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04003",
+      "controlDigit": "1",
+      "name": "Adra",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04004",
+      "controlDigit": "6",
+      "name": "Albanchez",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04005",
+      "controlDigit": "9",
+      "name": "Alboloduy",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04006",
+      "controlDigit": "2",
+      "name": "Albox",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04007",
+      "controlDigit": "8",
+      "name": "Alcolea",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04008",
+      "controlDigit": "4",
+      "name": "Alcóntar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04009",
+      "controlDigit": "7",
+      "name": "Alcudia de Monteagud",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04010",
+      "controlDigit": "1",
+      "name": "Alhabia",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04011",
+      "controlDigit": "8",
+      "name": "Alhama de Almería",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04012",
+      "controlDigit": "3",
+      "name": "Alicún",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04013",
+      "controlDigit": "9",
+      "name": "Almería",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04014",
+      "controlDigit": "4",
+      "name": "Almócita",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04015",
+      "controlDigit": "7",
+      "name": "Alsodux",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04016",
+      "controlDigit": "0",
+      "name": "Antas",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04017",
+      "controlDigit": "6",
+      "name": "Arboleas",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04018",
+      "controlDigit": "2",
+      "name": "Armuña de Almanzora",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04019",
+      "controlDigit": "5",
+      "name": "Bacares",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04904",
+      "controlDigit": "7",
+      "name": "Balanegra",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04020",
+      "controlDigit": "9",
+      "name": "Bayárcal",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04021",
+      "controlDigit": "6",
+      "name": "Bayarque",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04022",
+      "controlDigit": "1",
+      "name": "Bédar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04023",
+      "controlDigit": "7",
+      "name": "Beires",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04024",
+      "controlDigit": "2",
+      "name": "Benahadux",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04026",
+      "controlDigit": "8",
+      "name": "Benitagla",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04027",
+      "controlDigit": "4",
+      "name": "Benizalón",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04028",
+      "controlDigit": "0",
+      "name": "Bentarique",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04029",
+      "controlDigit": "3",
+      "name": "Berja",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04030",
+      "controlDigit": "7",
+      "name": "Canjáyar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04031",
+      "controlDigit": "4",
+      "name": "Cantoria",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04032",
+      "controlDigit": "9",
+      "name": "Carboneras",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04033",
+      "controlDigit": "5",
+      "name": "Castro de Filabres",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04036",
+      "controlDigit": "6",
+      "name": "Chercos",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04037",
+      "controlDigit": "2",
+      "name": "Chirivel",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04034",
+      "controlDigit": "0",
+      "name": "Cóbdar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04035",
+      "controlDigit": "3",
+      "name": "Cuevas del Almanzora",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04038",
+      "controlDigit": "8",
+      "name": "Dalías",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04902",
+      "controlDigit": "6",
+      "name": "Ejido, El",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04041",
+      "controlDigit": "2",
+      "name": "Enix",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04043",
+      "controlDigit": "3",
+      "name": "Felix",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04044",
+      "controlDigit": "8",
+      "name": "Fines",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04045",
+      "controlDigit": "1",
+      "name": "Fiñana",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04046",
+      "controlDigit": "4",
+      "name": "Fondón",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04047",
+      "controlDigit": "0",
+      "name": "Gádor",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04048",
+      "controlDigit": "6",
+      "name": "Gallardos, Los",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04049",
+      "controlDigit": "9",
+      "name": "Garrucha",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04050",
+      "controlDigit": "2",
+      "name": "Gérgal",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04051",
+      "controlDigit": "9",
+      "name": "Huécija",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04052",
+      "controlDigit": "4",
+      "name": "Huércal de Almería",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04053",
+      "controlDigit": "0",
+      "name": "Huércal-Overa",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04054",
+      "controlDigit": "5",
+      "name": "Íllar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04055",
+      "controlDigit": "8",
+      "name": "Instinción",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04056",
+      "controlDigit": "1",
+      "name": "Laroya",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04057",
+      "controlDigit": "7",
+      "name": "Laujar de Andarax",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04058",
+      "controlDigit": "3",
+      "name": "Líjar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04059",
+      "controlDigit": "6",
+      "name": "Lubrín",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04060",
+      "controlDigit": "0",
+      "name": "Lucainena de las Torres",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04061",
+      "controlDigit": "7",
+      "name": "Lúcar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04062",
+      "controlDigit": "2",
+      "name": "Macael",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04063",
+      "controlDigit": "8",
+      "name": "María",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04064",
+      "controlDigit": "3",
+      "name": "Mojácar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04903",
+      "controlDigit": "2",
+      "name": "Mojonera, La",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04065",
+      "controlDigit": "6",
+      "name": "Nacimiento",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04066",
+      "controlDigit": "9",
+      "name": "Níjar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04067",
+      "controlDigit": "5",
+      "name": "Ohanes",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04068",
+      "controlDigit": "1",
+      "name": "Olula de Castro",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04069",
+      "controlDigit": "4",
+      "name": "Olula del Río",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04070",
+      "controlDigit": "8",
+      "name": "Oria",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04071",
+      "controlDigit": "5",
+      "name": "Padules",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04072",
+      "controlDigit": "0",
+      "name": "Partaloa",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04073",
+      "controlDigit": "6",
+      "name": "Paterna del Río",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04074",
+      "controlDigit": "1",
+      "name": "Pechina",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04075",
+      "controlDigit": "4",
+      "name": "Pulpí",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04076",
+      "controlDigit": "7",
+      "name": "Purchena",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04077",
+      "controlDigit": "3",
+      "name": "Rágol",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04078",
+      "controlDigit": "9",
+      "name": "Rioja",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04079",
+      "controlDigit": "2",
+      "name": "Roquetas de Mar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04080",
+      "controlDigit": "6",
+      "name": "Santa Cruz de Marchena",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04081",
+      "controlDigit": "3",
+      "name": "Santa Fe de Mondújar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04082",
+      "controlDigit": "8",
+      "name": "Senés",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04083",
+      "controlDigit": "4",
+      "name": "Serón",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04084",
+      "controlDigit": "9",
+      "name": "Sierro",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04085",
+      "controlDigit": "2",
+      "name": "Somontín",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04086",
+      "controlDigit": "5",
+      "name": "Sorbas",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04087",
+      "controlDigit": "1",
+      "name": "Suflí",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04088",
+      "controlDigit": "7",
+      "name": "Tabernas",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04089",
+      "controlDigit": "0",
+      "name": "Taberno",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04090",
+      "controlDigit": "4",
+      "name": "Tahal",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04091",
+      "controlDigit": "1",
+      "name": "Terque",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04092",
+      "controlDigit": "6",
+      "name": "Tíjola",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04901",
+      "controlDigit": "1",
+      "name": "Tres Villas, Las",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04093",
+      "controlDigit": "2",
+      "name": "Turre",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04094",
+      "controlDigit": "7",
+      "name": "Turrillas",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04095",
+      "controlDigit": "0",
+      "name": "Uleila del Campo",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04096",
+      "controlDigit": "3",
+      "name": "Urrácal",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04097",
+      "controlDigit": "9",
+      "name": "Velefique",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04098",
+      "controlDigit": "5",
+      "name": "Vélez-Blanco",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04099",
+      "controlDigit": "8",
+      "name": "Vélez-Rubio",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04100",
+      "controlDigit": "2",
+      "name": "Vera",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04101",
+      "controlDigit": "9",
+      "name": "Viator",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04102",
+      "controlDigit": "4",
+      "name": "Vícar",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "04103",
+      "controlDigit": "0",
+      "name": "Zurgena",
+      "provinceCode": "04",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11001",
+      "controlDigit": "2",
+      "name": "Alcalá de los Gazules",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11002",
+      "controlDigit": "7",
+      "name": "Alcalá del Valle",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11003",
+      "controlDigit": "3",
+      "name": "Algar",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11004",
+      "controlDigit": "8",
+      "name": "Algeciras",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11005",
+      "controlDigit": "1",
+      "name": "Algodonales",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11006",
+      "controlDigit": "4",
+      "name": "Arcos de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11007",
+      "controlDigit": "0",
+      "name": "Barbate",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11008",
+      "controlDigit": "6",
+      "name": "Barrios, Los",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11901",
+      "controlDigit": "3",
+      "name": "Benalup-Casas Viejas",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11009",
+      "controlDigit": "9",
+      "name": "Benaocaz",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11010",
+      "controlDigit": "3",
+      "name": "Bornos",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11011",
+      "controlDigit": "0",
+      "name": "Bosque, El",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11012",
+      "controlDigit": "5",
+      "name": "Cádiz",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11013",
+      "controlDigit": "1",
+      "name": "Castellar de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11015",
+      "controlDigit": "9",
+      "name": "Chiclana de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11016",
+      "controlDigit": "2",
+      "name": "Chipiona",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11014",
+      "controlDigit": "6",
+      "name": "Conil de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11017",
+      "controlDigit": "8",
+      "name": "Espera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11018",
+      "controlDigit": "4",
+      "name": "Gastor, El",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11019",
+      "controlDigit": "7",
+      "name": "Grazalema",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11020",
+      "controlDigit": "1",
+      "name": "Jerez de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11021",
+      "controlDigit": "8",
+      "name": "Jimena de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11022",
+      "controlDigit": "3",
+      "name": "Línea de la Concepción, La",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11023",
+      "controlDigit": "9",
+      "name": "Medina Sidonia",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11024",
+      "controlDigit": "4",
+      "name": "Olvera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11025",
+      "controlDigit": "7",
+      "name": "Paterna de Rivera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11026",
+      "controlDigit": "0",
+      "name": "Prado del Rey",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11027",
+      "controlDigit": "6",
+      "name": "Puerto de Santa María, El",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11028",
+      "controlDigit": "2",
+      "name": "Puerto Real",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11029",
+      "controlDigit": "5",
+      "name": "Puerto Serrano",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11030",
+      "controlDigit": "9",
+      "name": "Rota",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11031",
+      "controlDigit": "6",
+      "name": "San Fernando",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11902",
+      "controlDigit": "8",
+      "name": "San José del Valle",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11903",
+      "controlDigit": "4",
+      "name": "San Martín del Tesorillo",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11033",
+      "controlDigit": "7",
+      "name": "San Roque",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11032",
+      "controlDigit": "1",
+      "name": "Sanlúcar de Barrameda",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11034",
+      "controlDigit": "2",
+      "name": "Setenil de las Bodegas",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11035",
+      "controlDigit": "5",
+      "name": "Tarifa",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11036",
+      "controlDigit": "8",
+      "name": "Torre Alháquime",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11037",
+      "controlDigit": "4",
+      "name": "Trebujena",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11038",
+      "controlDigit": "0",
+      "name": "Ubrique",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11039",
+      "controlDigit": "3",
+      "name": "Vejer de la Frontera",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11040",
+      "controlDigit": "7",
+      "name": "Villaluenga del Rosario",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11041",
+      "controlDigit": "4",
+      "name": "Villamartín",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "11042",
+      "controlDigit": "9",
+      "name": "Zahara",
+      "provinceCode": "11",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14001",
+      "controlDigit": "8",
+      "name": "Adamuz",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14002",
+      "controlDigit": "3",
+      "name": "Aguilar de la Frontera",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14003",
+      "controlDigit": "9",
+      "name": "Alcaracejos",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14004",
+      "controlDigit": "4",
+      "name": "Almedinilla",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14005",
+      "controlDigit": "7",
+      "name": "Almodóvar del Río",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14006",
+      "controlDigit": "0",
+      "name": "Añora",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14007",
+      "controlDigit": "6",
+      "name": "Baena",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14008",
+      "controlDigit": "2",
+      "name": "Belalcázar",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14009",
+      "controlDigit": "5",
+      "name": "Belmez",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14010",
+      "controlDigit": "9",
+      "name": "Benamejí",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14011",
+      "controlDigit": "6",
+      "name": "Blázquez, Los",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14012",
+      "controlDigit": "1",
+      "name": "Bujalance",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14013",
+      "controlDigit": "7",
+      "name": "Cabra",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14014",
+      "controlDigit": "2",
+      "name": "Cañete de las Torres",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14015",
+      "controlDigit": "5",
+      "name": "Carcabuey",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14016",
+      "controlDigit": "8",
+      "name": "Cardeña",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14017",
+      "controlDigit": "4",
+      "name": "Carlota, La",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14018",
+      "controlDigit": "0",
+      "name": "Carpio, El",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14019",
+      "controlDigit": "3",
+      "name": "Castro del Río",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14020",
+      "controlDigit": "7",
+      "name": "Conquista",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14021",
+      "controlDigit": "4",
+      "name": "Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14022",
+      "controlDigit": "9",
+      "name": "Doña Mencía",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14023",
+      "controlDigit": "5",
+      "name": "Dos Torres",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14024",
+      "controlDigit": "0",
+      "name": "Encinas Reales",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14025",
+      "controlDigit": "3",
+      "name": "Espejo",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14026",
+      "controlDigit": "6",
+      "name": "Espiel",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14027",
+      "controlDigit": "2",
+      "name": "Fernán-Núñez",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14901",
+      "controlDigit": "9",
+      "name": "Fuente Carreteros",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14028",
+      "controlDigit": "8",
+      "name": "Fuente la Lancha",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14029",
+      "controlDigit": "1",
+      "name": "Fuente Obejuna",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14030",
+      "controlDigit": "5",
+      "name": "Fuente Palmera",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14031",
+      "controlDigit": "2",
+      "name": "Fuente-Tójar",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14032",
+      "controlDigit": "7",
+      "name": "Granjuela, La",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14033",
+      "controlDigit": "3",
+      "name": "Guadalcázar",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14902",
+      "controlDigit": "4",
+      "name": "Guijarrosa, La",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14034",
+      "controlDigit": "8",
+      "name": "Guijo, El",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14035",
+      "controlDigit": "1",
+      "name": "Hinojosa del Duque",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14036",
+      "controlDigit": "4",
+      "name": "Hornachuelos",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14037",
+      "controlDigit": "0",
+      "name": "Iznájar",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14038",
+      "controlDigit": "6",
+      "name": "Lucena",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14039",
+      "controlDigit": "9",
+      "name": "Luque",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14040",
+      "controlDigit": "3",
+      "name": "Montalbán de Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14041",
+      "controlDigit": "0",
+      "name": "Montemayor",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14042",
+      "controlDigit": "5",
+      "name": "Montilla",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14043",
+      "controlDigit": "1",
+      "name": "Montoro",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14044",
+      "controlDigit": "6",
+      "name": "Monturque",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14045",
+      "controlDigit": "9",
+      "name": "Moriles",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14046",
+      "controlDigit": "2",
+      "name": "Nueva Carteya",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14047",
+      "controlDigit": "8",
+      "name": "Obejo",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14048",
+      "controlDigit": "4",
+      "name": "Palenciana",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14049",
+      "controlDigit": "7",
+      "name": "Palma del Río",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14050",
+      "controlDigit": "0",
+      "name": "Pedro Abad",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14051",
+      "controlDigit": "7",
+      "name": "Pedroche",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14052",
+      "controlDigit": "2",
+      "name": "Peñarroya-Pueblonuevo",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14053",
+      "controlDigit": "8",
+      "name": "Posadas",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14054",
+      "controlDigit": "3",
+      "name": "Pozoblanco",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14055",
+      "controlDigit": "6",
+      "name": "Priego de Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14056",
+      "controlDigit": "9",
+      "name": "Puente Genil",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14057",
+      "controlDigit": "5",
+      "name": "Rambla, La",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14058",
+      "controlDigit": "1",
+      "name": "Rute",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14059",
+      "controlDigit": "4",
+      "name": "San Sebastián de los Ballesteros",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14061",
+      "controlDigit": "5",
+      "name": "Santa Eufemia",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14060",
+      "controlDigit": "8",
+      "name": "Santaella",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14062",
+      "controlDigit": "0",
+      "name": "Torrecampo",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14063",
+      "controlDigit": "6",
+      "name": "Valenzuela",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14064",
+      "controlDigit": "1",
+      "name": "Valsequillo",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14065",
+      "controlDigit": "4",
+      "name": "Victoria, La",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14066",
+      "controlDigit": "7",
+      "name": "Villa del Río",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14067",
+      "controlDigit": "3",
+      "name": "Villafranca de Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14068",
+      "controlDigit": "9",
+      "name": "Villaharta",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14069",
+      "controlDigit": "2",
+      "name": "Villanueva de Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14070",
+      "controlDigit": "6",
+      "name": "Villanueva del Duque",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14071",
+      "controlDigit": "3",
+      "name": "Villanueva del Rey",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14072",
+      "controlDigit": "8",
+      "name": "Villaralto",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14073",
+      "controlDigit": "4",
+      "name": "Villaviciosa de Córdoba",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14074",
+      "controlDigit": "9",
+      "name": "Viso, El",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "14075",
+      "controlDigit": "2",
+      "name": "Zuheros",
+      "provinceCode": "14",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18001",
+      "controlDigit": "6",
+      "name": "Agrón",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18002",
+      "controlDigit": "1",
+      "name": "Alamedilla",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18003",
+      "controlDigit": "7",
+      "name": "Albolote",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18004",
+      "controlDigit": "2",
+      "name": "Albondón",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18005",
+      "controlDigit": "5",
+      "name": "Albuñán",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18006",
+      "controlDigit": "8",
+      "name": "Albuñol",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18007",
+      "controlDigit": "4",
+      "name": "Albuñuelas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18010",
+      "controlDigit": "7",
+      "name": "Aldeire",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18011",
+      "controlDigit": "4",
+      "name": "Alfacar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18012",
+      "controlDigit": "9",
+      "name": "Algarinejo",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18013",
+      "controlDigit": "5",
+      "name": "Alhama de Granada",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18014",
+      "controlDigit": "0",
+      "name": "Alhendín",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18015",
+      "controlDigit": "3",
+      "name": "Alicún de Ortega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18016",
+      "controlDigit": "6",
+      "name": "Almegíjar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18017",
+      "controlDigit": "2",
+      "name": "Almuñécar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18904",
+      "controlDigit": "3",
+      "name": "Alpujarra de la Sierra",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18018",
+      "controlDigit": "8",
+      "name": "Alquife",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18020",
+      "controlDigit": "5",
+      "name": "Arenas del Rey",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18021",
+      "controlDigit": "2",
+      "name": "Armilla",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18022",
+      "controlDigit": "7",
+      "name": "Atarfe",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18023",
+      "controlDigit": "3",
+      "name": "Baza",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18024",
+      "controlDigit": "8",
+      "name": "Beas de Granada",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18025",
+      "controlDigit": "1",
+      "name": "Beas de Guadix",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18027",
+      "controlDigit": "0",
+      "name": "Benalúa",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18028",
+      "controlDigit": "6",
+      "name": "Benalúa de las Villas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18029",
+      "controlDigit": "9",
+      "name": "Benamaurel",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18030",
+      "controlDigit": "3",
+      "name": "Bérchules",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18032",
+      "controlDigit": "5",
+      "name": "Bubión",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18033",
+      "controlDigit": "1",
+      "name": "Busquístar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18034",
+      "controlDigit": "6",
+      "name": "Cacín",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18035",
+      "controlDigit": "9",
+      "name": "Cádiar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18036",
+      "controlDigit": "2",
+      "name": "Cájar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18114",
+      "controlDigit": "9",
+      "name": "Calahorra, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18037",
+      "controlDigit": "8",
+      "name": "Calicasas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18038",
+      "controlDigit": "4",
+      "name": "Campotéjar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18039",
+      "controlDigit": "7",
+      "name": "Caniles",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18040",
+      "controlDigit": "1",
+      "name": "Cáñar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18042",
+      "controlDigit": "3",
+      "name": "Capileira",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18043",
+      "controlDigit": "9",
+      "name": "Carataunas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18044",
+      "controlDigit": "4",
+      "name": "Cástaras",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18045",
+      "controlDigit": "7",
+      "name": "Castilléjar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18046",
+      "controlDigit": "0",
+      "name": "Castril",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18047",
+      "controlDigit": "6",
+      "name": "Cenes de la Vega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18059",
+      "controlDigit": "2",
+      "name": "Chauchina",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18061",
+      "controlDigit": "3",
+      "name": "Chimeneas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18062",
+      "controlDigit": "8",
+      "name": "Churriana de la Vega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18048",
+      "controlDigit": "2",
+      "name": "Cijuela",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18049",
+      "controlDigit": "5",
+      "name": "Cogollos de Guadix",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18050",
+      "controlDigit": "8",
+      "name": "Cogollos de la Vega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18051",
+      "controlDigit": "5",
+      "name": "Colomera",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18053",
+      "controlDigit": "6",
+      "name": "Cortes de Baza",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18054",
+      "controlDigit": "1",
+      "name": "Cortes y Graena",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18912",
+      "controlDigit": "0",
+      "name": "Cuevas del Campo",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18056",
+      "controlDigit": "7",
+      "name": "Cúllar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18057",
+      "controlDigit": "3",
+      "name": "Cúllar Vega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18063",
+      "controlDigit": "4",
+      "name": "Darro",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18064",
+      "controlDigit": "9",
+      "name": "Dehesas de Guadix",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18065",
+      "controlDigit": "2",
+      "name": "Dehesas Viejas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18066",
+      "controlDigit": "5",
+      "name": "Deifontes",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18067",
+      "controlDigit": "1",
+      "name": "Diezma",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18068",
+      "controlDigit": "7",
+      "name": "Dílar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18069",
+      "controlDigit": "0",
+      "name": "Dólar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18915",
+      "controlDigit": "4",
+      "name": "Domingo Pérez de Granada",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18070",
+      "controlDigit": "4",
+      "name": "Dúdar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18071",
+      "controlDigit": "1",
+      "name": "Dúrcal",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18072",
+      "controlDigit": "6",
+      "name": "Escúzar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18074",
+      "controlDigit": "7",
+      "name": "Ferreira",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18076",
+      "controlDigit": "3",
+      "name": "Fonelas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18077",
+      "controlDigit": "9",
+      "name": "Fornes",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18078",
+      "controlDigit": "5",
+      "name": "Freila",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18079",
+      "controlDigit": "8",
+      "name": "Fuente Vaqueros",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18905",
+      "controlDigit": "6",
+      "name": "Gabias, Las",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18082",
+      "controlDigit": "4",
+      "name": "Galera",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18083",
+      "controlDigit": "0",
+      "name": "Gobernador",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18084",
+      "controlDigit": "5",
+      "name": "Gójar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18085",
+      "controlDigit": "8",
+      "name": "Gor",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18086",
+      "controlDigit": "1",
+      "name": "Gorafe",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18087",
+      "controlDigit": "7",
+      "name": "Granada",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18088",
+      "controlDigit": "3",
+      "name": "Guadahortuna",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18089",
+      "controlDigit": "6",
+      "name": "Guadix",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18906",
+      "controlDigit": "9",
+      "name": "Guájares, Los",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18093",
+      "controlDigit": "8",
+      "name": "Gualchos",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18094",
+      "controlDigit": "3",
+      "name": "Güéjar Sierra",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18095",
+      "controlDigit": "6",
+      "name": "Güevéjar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18096",
+      "controlDigit": "9",
+      "name": "Huélago",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18097",
+      "controlDigit": "5",
+      "name": "Huéneja",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18098",
+      "controlDigit": "1",
+      "name": "Huéscar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18099",
+      "controlDigit": "4",
+      "name": "Huétor de Santillán",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18100",
+      "controlDigit": "8",
+      "name": "Huétor Tájar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18101",
+      "controlDigit": "5",
+      "name": "Huétor Vega",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18102",
+      "controlDigit": "0",
+      "name": "Íllora",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18103",
+      "controlDigit": "6",
+      "name": "Ítrabo",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18105",
+      "controlDigit": "4",
+      "name": "Iznalloz",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18106",
+      "controlDigit": "7",
+      "name": "Játar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18107",
+      "controlDigit": "3",
+      "name": "Jayena",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18108",
+      "controlDigit": "9",
+      "name": "Jérez del Marquesado",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18109",
+      "controlDigit": "2",
+      "name": "Jete",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18111",
+      "controlDigit": "3",
+      "name": "Jun",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18112",
+      "controlDigit": "8",
+      "name": "Juviles",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18115",
+      "controlDigit": "2",
+      "name": "Láchar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18116",
+      "controlDigit": "5",
+      "name": "Lanjarón",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18117",
+      "controlDigit": "1",
+      "name": "Lanteira",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18119",
+      "controlDigit": "0",
+      "name": "Lecrín",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18120",
+      "controlDigit": "4",
+      "name": "Lentegí",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18121",
+      "controlDigit": "1",
+      "name": "Lobras",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18122",
+      "controlDigit": "6",
+      "name": "Loja",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18123",
+      "controlDigit": "2",
+      "name": "Lugros",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18124",
+      "controlDigit": "7",
+      "name": "Lújar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18126",
+      "controlDigit": "3",
+      "name": "Malahá, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18127",
+      "controlDigit": "9",
+      "name": "Maracena",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18128",
+      "controlDigit": "5",
+      "name": "Marchal",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18132",
+      "controlDigit": "4",
+      "name": "Moclín",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18133",
+      "controlDigit": "0",
+      "name": "Molvízar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18134",
+      "controlDigit": "5",
+      "name": "Monachil",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18135",
+      "controlDigit": "8",
+      "name": "Montefrío",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18136",
+      "controlDigit": "1",
+      "name": "Montejícar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18137",
+      "controlDigit": "7",
+      "name": "Montillana",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18138",
+      "controlDigit": "3",
+      "name": "Moraleda de Zafayona",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18909",
+      "controlDigit": "4",
+      "name": "Morelábor",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18140",
+      "controlDigit": "0",
+      "name": "Motril",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18141",
+      "controlDigit": "7",
+      "name": "Murtas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18903",
+      "controlDigit": "8",
+      "name": "Nevada",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18143",
+      "controlDigit": "8",
+      "name": "Nigüelas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18144",
+      "controlDigit": "3",
+      "name": "Nívar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18145",
+      "controlDigit": "6",
+      "name": "Ogíjares",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18146",
+      "controlDigit": "9",
+      "name": "Orce",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18147",
+      "controlDigit": "5",
+      "name": "Órgiva",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18148",
+      "controlDigit": "1",
+      "name": "Otívar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18150",
+      "controlDigit": "7",
+      "name": "Padul",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18151",
+      "controlDigit": "4",
+      "name": "Pampaneira",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18152",
+      "controlDigit": "9",
+      "name": "Pedro Martínez",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18153",
+      "controlDigit": "5",
+      "name": "Peligros",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18154",
+      "controlDigit": "0",
+      "name": "Peza, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18910",
+      "controlDigit": "8",
+      "name": "Pinar, El",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18157",
+      "controlDigit": "2",
+      "name": "Pinos Genil",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18158",
+      "controlDigit": "8",
+      "name": "Pinos Puente",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18159",
+      "controlDigit": "1",
+      "name": "Píñar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18161",
+      "controlDigit": "2",
+      "name": "Polícar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18162",
+      "controlDigit": "7",
+      "name": "Polopos",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18163",
+      "controlDigit": "3",
+      "name": "Pórtugos",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18164",
+      "controlDigit": "8",
+      "name": "Puebla de Don Fadrique",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18165",
+      "controlDigit": "1",
+      "name": "Pulianas",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18167",
+      "controlDigit": "0",
+      "name": "Purullena",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18168",
+      "controlDigit": "6",
+      "name": "Quéntar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18170",
+      "controlDigit": "3",
+      "name": "Rubite",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18171",
+      "controlDigit": "0",
+      "name": "Salar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18173",
+      "controlDigit": "1",
+      "name": "Salobreña",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18174",
+      "controlDigit": "6",
+      "name": "Santa Cruz del Comercio",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18175",
+      "controlDigit": "9",
+      "name": "Santa Fe",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18176",
+      "controlDigit": "2",
+      "name": "Soportújar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18177",
+      "controlDigit": "8",
+      "name": "Sorvilán",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18901",
+      "controlDigit": "7",
+      "name": "Taha, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18178",
+      "controlDigit": "4",
+      "name": "Torre-Cardela",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18916",
+      "controlDigit": "7",
+      "name": "Torrenueva Costa",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18179",
+      "controlDigit": "7",
+      "name": "Torvizcón",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18180",
+      "controlDigit": "1",
+      "name": "Trevélez",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18181",
+      "controlDigit": "8",
+      "name": "Turón",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18182",
+      "controlDigit": "3",
+      "name": "Ugíjar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18914",
+      "controlDigit": "1",
+      "name": "Valderrubio",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18907",
+      "controlDigit": "5",
+      "name": "Valle del Zalabí",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18902",
+      "controlDigit": "2",
+      "name": "Valle, El",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18183",
+      "controlDigit": "9",
+      "name": "Válor",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18911",
+      "controlDigit": "5",
+      "name": "Vegas del Genil",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18184",
+      "controlDigit": "4",
+      "name": "Vélez de Benaudalla",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18185",
+      "controlDigit": "7",
+      "name": "Ventas de Huelma",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18149",
+      "controlDigit": "4",
+      "name": "Villa de Otura",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18908",
+      "controlDigit": "1",
+      "name": "Villamena",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18187",
+      "controlDigit": "6",
+      "name": "Villanueva de las Torres",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18188",
+      "controlDigit": "2",
+      "name": "Villanueva Mesía",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18189",
+      "controlDigit": "5",
+      "name": "Víznar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18192",
+      "controlDigit": "1",
+      "name": "Zafarraya",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18913",
+      "controlDigit": "6",
+      "name": "Zagra",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18193",
+      "controlDigit": "7",
+      "name": "Zubia, La",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "18194",
+      "controlDigit": "2",
+      "name": "Zújar",
+      "provinceCode": "18",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21001",
+      "controlDigit": "0",
+      "name": "Alájar",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21002",
+      "controlDigit": "5",
+      "name": "Aljaraque",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21003",
+      "controlDigit": "1",
+      "name": "Almendro, El",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21004",
+      "controlDigit": "6",
+      "name": "Almonaster la Real",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21005",
+      "controlDigit": "9",
+      "name": "Almonte",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21006",
+      "controlDigit": "2",
+      "name": "Alosno",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21007",
+      "controlDigit": "8",
+      "name": "Aracena",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21008",
+      "controlDigit": "4",
+      "name": "Aroche",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21009",
+      "controlDigit": "7",
+      "name": "Arroyomolinos de León",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21010",
+      "controlDigit": "1",
+      "name": "Ayamonte",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21011",
+      "controlDigit": "8",
+      "name": "Beas",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21012",
+      "controlDigit": "3",
+      "name": "Berrocal",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21013",
+      "controlDigit": "9",
+      "name": "Bollullos Par del Condado",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21014",
+      "controlDigit": "4",
+      "name": "Bonares",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21015",
+      "controlDigit": "7",
+      "name": "Cabezas Rubias",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21016",
+      "controlDigit": "0",
+      "name": "Cala",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21017",
+      "controlDigit": "6",
+      "name": "Calañas",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21018",
+      "controlDigit": "2",
+      "name": "Campillo, El",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21019",
+      "controlDigit": "5",
+      "name": "Campofrío",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21020",
+      "controlDigit": "9",
+      "name": "Cañaveral de León",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21021",
+      "controlDigit": "6",
+      "name": "Cartaya",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21022",
+      "controlDigit": "1",
+      "name": "Castaño del Robledo",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21023",
+      "controlDigit": "7",
+      "name": "Cerro de Andévalo, El",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21030",
+      "controlDigit": "7",
+      "name": "Chucena",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21024",
+      "controlDigit": "2",
+      "name": "Corteconcepción",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21025",
+      "controlDigit": "5",
+      "name": "Cortegana",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21026",
+      "controlDigit": "8",
+      "name": "Cortelazor",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21027",
+      "controlDigit": "4",
+      "name": "Cumbres de Enmedio",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21028",
+      "controlDigit": "0",
+      "name": "Cumbres de San Bartolomé",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21029",
+      "controlDigit": "3",
+      "name": "Cumbres Mayores",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21031",
+      "controlDigit": "4",
+      "name": "Encinasola",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21032",
+      "controlDigit": "9",
+      "name": "Escacena del Campo",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21033",
+      "controlDigit": "5",
+      "name": "Fuenteheridos",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21034",
+      "controlDigit": "0",
+      "name": "Galaroza",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21035",
+      "controlDigit": "3",
+      "name": "Gibraleón",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21036",
+      "controlDigit": "6",
+      "name": "Granada de Río-Tinto, La",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21037",
+      "controlDigit": "2",
+      "name": "Granado, El",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21038",
+      "controlDigit": "8",
+      "name": "Higuera de la Sierra",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21039",
+      "controlDigit": "1",
+      "name": "Hinojales",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21040",
+      "controlDigit": "5",
+      "name": "Hinojos",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21041",
+      "controlDigit": "2",
+      "name": "Huelva",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21042",
+      "controlDigit": "7",
+      "name": "Isla Cristina",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21043",
+      "controlDigit": "3",
+      "name": "Jabugo",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21044",
+      "controlDigit": "8",
+      "name": "Lepe",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21045",
+      "controlDigit": "1",
+      "name": "Linares de la Sierra",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21046",
+      "controlDigit": "4",
+      "name": "Lucena del Puerto",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21047",
+      "controlDigit": "0",
+      "name": "Manzanilla",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21048",
+      "controlDigit": "6",
+      "name": "Marines, Los",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21049",
+      "controlDigit": "9",
+      "name": "Minas de Riotinto",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21050",
+      "controlDigit": "2",
+      "name": "Moguer",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21051",
+      "controlDigit": "9",
+      "name": "Nava, La",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21052",
+      "controlDigit": "4",
+      "name": "Nerva",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21053",
+      "controlDigit": "0",
+      "name": "Niebla",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21054",
+      "controlDigit": "5",
+      "name": "Palma del Condado, La",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21055",
+      "controlDigit": "8",
+      "name": "Palos de la Frontera",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21056",
+      "controlDigit": "1",
+      "name": "Paterna del Campo",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21057",
+      "controlDigit": "7",
+      "name": "Paymogo",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21058",
+      "controlDigit": "3",
+      "name": "Puebla de Guzmán",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21059",
+      "controlDigit": "6",
+      "name": "Puerto Moral",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21060",
+      "controlDigit": "0",
+      "name": "Punta Umbría",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21061",
+      "controlDigit": "7",
+      "name": "Rociana del Condado",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21062",
+      "controlDigit": "2",
+      "name": "Rosal de la Frontera",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21063",
+      "controlDigit": "8",
+      "name": "San Bartolomé de la Torre",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21064",
+      "controlDigit": "3",
+      "name": "San Juan del Puerto",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21066",
+      "controlDigit": "9",
+      "name": "San Silvestre de Guzmán",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21065",
+      "controlDigit": "6",
+      "name": "Sanlúcar de Guadiana",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21067",
+      "controlDigit": "5",
+      "name": "Santa Ana la Real",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21068",
+      "controlDigit": "1",
+      "name": "Santa Bárbara de Casa",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21069",
+      "controlDigit": "4",
+      "name": "Santa Olalla del Cala",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21070",
+      "controlDigit": "8",
+      "name": "Trigueros",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21071",
+      "controlDigit": "5",
+      "name": "Valdelarco",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21072",
+      "controlDigit": "0",
+      "name": "Valverde del Camino",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21073",
+      "controlDigit": "6",
+      "name": "Villablanca",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21074",
+      "controlDigit": "1",
+      "name": "Villalba del Alcor",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21075",
+      "controlDigit": "4",
+      "name": "Villanueva de las Cruces",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21076",
+      "controlDigit": "7",
+      "name": "Villanueva de los Castillejos",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21077",
+      "controlDigit": "3",
+      "name": "Villarrasa",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21078",
+      "controlDigit": "9",
+      "name": "Zalamea la Real",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21902",
+      "controlDigit": "6",
+      "name": "Zarza-Perrunal, La",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "21079",
+      "controlDigit": "2",
+      "name": "Zufre",
+      "provinceCode": "21",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23001",
+      "controlDigit": "1",
+      "name": "Albanchez de Mágina",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23002",
+      "controlDigit": "6",
+      "name": "Alcalá la Real",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23003",
+      "controlDigit": "2",
+      "name": "Alcaudete",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23004",
+      "controlDigit": "7",
+      "name": "Aldeaquemada",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23005",
+      "controlDigit": "0",
+      "name": "Andújar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23006",
+      "controlDigit": "3",
+      "name": "Arjona",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23007",
+      "controlDigit": "9",
+      "name": "Arjonilla",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23008",
+      "controlDigit": "5",
+      "name": "Arquillos",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23905",
+      "controlDigit": "1",
+      "name": "Arroyo del Ojanco",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23009",
+      "controlDigit": "8",
+      "name": "Baeza",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23010",
+      "controlDigit": "2",
+      "name": "Bailén",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23011",
+      "controlDigit": "9",
+      "name": "Baños de la Encina",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23012",
+      "controlDigit": "4",
+      "name": "Beas de Segura",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23902",
+      "controlDigit": "7",
+      "name": "Bedmar y Garcíez",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23014",
+      "controlDigit": "5",
+      "name": "Begíjar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23015",
+      "controlDigit": "8",
+      "name": "Bélmez de la Moraleda",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23016",
+      "controlDigit": "1",
+      "name": "Benatae",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23017",
+      "controlDigit": "7",
+      "name": "Cabra del Santo Cristo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23018",
+      "controlDigit": "3",
+      "name": "Cambil",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23019",
+      "controlDigit": "6",
+      "name": "Campillo de Arenas",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23020",
+      "controlDigit": "0",
+      "name": "Canena",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23021",
+      "controlDigit": "7",
+      "name": "Carboneros",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23901",
+      "controlDigit": "2",
+      "name": "Cárcheles",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23024",
+      "controlDigit": "3",
+      "name": "Carolina, La",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23025",
+      "controlDigit": "6",
+      "name": "Castellar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23026",
+      "controlDigit": "9",
+      "name": "Castillo de Locubín",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23027",
+      "controlDigit": "5",
+      "name": "Cazalilla",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23028",
+      "controlDigit": "1",
+      "name": "Cazorla",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23029",
+      "controlDigit": "4",
+      "name": "Chiclana de Segura",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23030",
+      "controlDigit": "8",
+      "name": "Chilluévar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23031",
+      "controlDigit": "5",
+      "name": "Escañuela",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23032",
+      "controlDigit": "0",
+      "name": "Espeluy",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23033",
+      "controlDigit": "6",
+      "name": "Frailes",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23034",
+      "controlDigit": "1",
+      "name": "Fuensanta de Martos",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23035",
+      "controlDigit": "4",
+      "name": "Fuerte del Rey",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23037",
+      "controlDigit": "3",
+      "name": "Génave",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23038",
+      "controlDigit": "9",
+      "name": "Guardia de Jaén, La",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23039",
+      "controlDigit": "2",
+      "name": "Guarromán",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23041",
+      "controlDigit": "3",
+      "name": "Higuera de Calatrava",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23042",
+      "controlDigit": "8",
+      "name": "Hinojares",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23043",
+      "controlDigit": "4",
+      "name": "Hornos",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23044",
+      "controlDigit": "9",
+      "name": "Huelma",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23045",
+      "controlDigit": "2",
+      "name": "Huesa",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23046",
+      "controlDigit": "5",
+      "name": "Ibros",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23047",
+      "controlDigit": "1",
+      "name": "Iruela, La",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23048",
+      "controlDigit": "7",
+      "name": "Iznatoraf",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23049",
+      "controlDigit": "0",
+      "name": "Jabalquinto",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23050",
+      "controlDigit": "3",
+      "name": "Jaén",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23051",
+      "controlDigit": "0",
+      "name": "Jamilena",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23052",
+      "controlDigit": "5",
+      "name": "Jimena",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23053",
+      "controlDigit": "1",
+      "name": "Jódar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23040",
+      "controlDigit": "6",
+      "name": "Lahiguera",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23054",
+      "controlDigit": "6",
+      "name": "Larva",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23055",
+      "controlDigit": "9",
+      "name": "Linares",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23056",
+      "controlDigit": "2",
+      "name": "Lopera",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23057",
+      "controlDigit": "8",
+      "name": "Lupión",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23058",
+      "controlDigit": "4",
+      "name": "Mancha Real",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23059",
+      "controlDigit": "7",
+      "name": "Marmolejo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23060",
+      "controlDigit": "1",
+      "name": "Martos",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23061",
+      "controlDigit": "8",
+      "name": "Mengíbar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23062",
+      "controlDigit": "3",
+      "name": "Montizón",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23063",
+      "controlDigit": "9",
+      "name": "Navas de San Juan",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23064",
+      "controlDigit": "4",
+      "name": "Noalejo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23065",
+      "controlDigit": "7",
+      "name": "Orcera",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23066",
+      "controlDigit": "0",
+      "name": "Peal de Becerro",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23067",
+      "controlDigit": "6",
+      "name": "Pegalajar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23069",
+      "controlDigit": "5",
+      "name": "Porcuna",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23070",
+      "controlDigit": "9",
+      "name": "Pozo Alcón",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23071",
+      "controlDigit": "6",
+      "name": "Puente de Génave",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23072",
+      "controlDigit": "1",
+      "name": "Puerta de Segura, La",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23073",
+      "controlDigit": "7",
+      "name": "Quesada",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23074",
+      "controlDigit": "2",
+      "name": "Rus",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23075",
+      "controlDigit": "5",
+      "name": "Sabiote",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23076",
+      "controlDigit": "8",
+      "name": "Santa Elena",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23077",
+      "controlDigit": "4",
+      "name": "Santiago de Calatrava",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23904",
+      "controlDigit": "8",
+      "name": "Santiago-Pontones",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23079",
+      "controlDigit": "3",
+      "name": "Santisteban del Puerto",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23080",
+      "controlDigit": "7",
+      "name": "Santo Tomé",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23081",
+      "controlDigit": "4",
+      "name": "Segura de la Sierra",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23082",
+      "controlDigit": "9",
+      "name": "Siles",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23084",
+      "controlDigit": "0",
+      "name": "Sorihuela del Guadalimar",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23085",
+      "controlDigit": "3",
+      "name": "Torreblascopedro",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23086",
+      "controlDigit": "6",
+      "name": "Torredelcampo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23087",
+      "controlDigit": "2",
+      "name": "Torredonjimeno",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23088",
+      "controlDigit": "8",
+      "name": "Torreperogil",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23090",
+      "controlDigit": "5",
+      "name": "Torres",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23091",
+      "controlDigit": "2",
+      "name": "Torres de Albánchez",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23092",
+      "controlDigit": "7",
+      "name": "Úbeda",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23093",
+      "controlDigit": "3",
+      "name": "Valdepeñas de Jaén",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23094",
+      "controlDigit": "8",
+      "name": "Vilches",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23095",
+      "controlDigit": "1",
+      "name": "Villacarrillo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23096",
+      "controlDigit": "4",
+      "name": "Villanueva de la Reina",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23097",
+      "controlDigit": "0",
+      "name": "Villanueva del Arzobispo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23098",
+      "controlDigit": "6",
+      "name": "Villardompardo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23099",
+      "controlDigit": "9",
+      "name": "Villares, Los",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23101",
+      "controlDigit": "0",
+      "name": "Villarrodrigo",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "23903",
+      "controlDigit": "3",
+      "name": "Villatorres",
+      "provinceCode": "23",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29001",
+      "controlDigit": "7",
+      "name": "Alameda",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29002",
+      "controlDigit": "2",
+      "name": "Alcaucín",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29003",
+      "controlDigit": "8",
+      "name": "Alfarnate",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29004",
+      "controlDigit": "3",
+      "name": "Alfarnatejo",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29005",
+      "controlDigit": "6",
+      "name": "Algarrobo",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29006",
+      "controlDigit": "9",
+      "name": "Algatocín",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29007",
+      "controlDigit": "5",
+      "name": "Alhaurín de la Torre",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29008",
+      "controlDigit": "1",
+      "name": "Alhaurín el Grande",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29009",
+      "controlDigit": "4",
+      "name": "Almáchar",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29010",
+      "controlDigit": "8",
+      "name": "Almargen",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29011",
+      "controlDigit": "5",
+      "name": "Almogía",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29012",
+      "controlDigit": "0",
+      "name": "Álora",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29013",
+      "controlDigit": "6",
+      "name": "Alozaina",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29014",
+      "controlDigit": "1",
+      "name": "Alpandeire",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29015",
+      "controlDigit": "4",
+      "name": "Antequera",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29016",
+      "controlDigit": "7",
+      "name": "Árchez",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29017",
+      "controlDigit": "3",
+      "name": "Archidona",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29018",
+      "controlDigit": "9",
+      "name": "Ardales",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29019",
+      "controlDigit": "2",
+      "name": "Arenas",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29020",
+      "controlDigit": "6",
+      "name": "Arriate",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29021",
+      "controlDigit": "3",
+      "name": "Atajate",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29022",
+      "controlDigit": "8",
+      "name": "Benadalid",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29023",
+      "controlDigit": "4",
+      "name": "Benahavís",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29024",
+      "controlDigit": "9",
+      "name": "Benalauría",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29025",
+      "controlDigit": "2",
+      "name": "Benalmádena",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29026",
+      "controlDigit": "5",
+      "name": "Benamargosa",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29027",
+      "controlDigit": "1",
+      "name": "Benamocarra",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29028",
+      "controlDigit": "7",
+      "name": "Benaoján",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29029",
+      "controlDigit": "0",
+      "name": "Benarrabá",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29030",
+      "controlDigit": "4",
+      "name": "Borge, El",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29031",
+      "controlDigit": "1",
+      "name": "Burgo, El",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29032",
+      "controlDigit": "6",
+      "name": "Campillos",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29033",
+      "controlDigit": "2",
+      "name": "Canillas de Aceituno",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29034",
+      "controlDigit": "7",
+      "name": "Canillas de Albaida",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29035",
+      "controlDigit": "0",
+      "name": "Cañete la Real",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29036",
+      "controlDigit": "3",
+      "name": "Carratraca",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29037",
+      "controlDigit": "9",
+      "name": "Cartajima",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29038",
+      "controlDigit": "5",
+      "name": "Cártama",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29039",
+      "controlDigit": "8",
+      "name": "Casabermeja",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29040",
+      "controlDigit": "2",
+      "name": "Casarabonela",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29041",
+      "controlDigit": "9",
+      "name": "Casares",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29042",
+      "controlDigit": "4",
+      "name": "Coín",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29043",
+      "controlDigit": "0",
+      "name": "Colmenar",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29044",
+      "controlDigit": "5",
+      "name": "Comares",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29045",
+      "controlDigit": "8",
+      "name": "Cómpeta",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29046",
+      "controlDigit": "1",
+      "name": "Cortes de la Frontera",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29047",
+      "controlDigit": "7",
+      "name": "Cuevas Bajas",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29049",
+      "controlDigit": "6",
+      "name": "Cuevas de San Marcos",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29048",
+      "controlDigit": "3",
+      "name": "Cuevas del Becerro",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29050",
+      "controlDigit": "9",
+      "name": "Cútar",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29051",
+      "controlDigit": "6",
+      "name": "Estepona",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29052",
+      "controlDigit": "1",
+      "name": "Faraján",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29053",
+      "controlDigit": "7",
+      "name": "Frigiliana",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29054",
+      "controlDigit": "2",
+      "name": "Fuengirola",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29055",
+      "controlDigit": "5",
+      "name": "Fuente de Piedra",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29056",
+      "controlDigit": "8",
+      "name": "Gaucín",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29057",
+      "controlDigit": "4",
+      "name": "Genalguacil",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29058",
+      "controlDigit": "0",
+      "name": "Guaro",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29059",
+      "controlDigit": "3",
+      "name": "Humilladero",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29060",
+      "controlDigit": "7",
+      "name": "Igualeja",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29061",
+      "controlDigit": "4",
+      "name": "Istán",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29062",
+      "controlDigit": "9",
+      "name": "Iznate",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29063",
+      "controlDigit": "5",
+      "name": "Jimera de Líbar",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29064",
+      "controlDigit": "0",
+      "name": "Jubrique",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29065",
+      "controlDigit": "3",
+      "name": "Júzcar",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29066",
+      "controlDigit": "6",
+      "name": "Macharaviaya",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29067",
+      "controlDigit": "2",
+      "name": "Málaga",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29068",
+      "controlDigit": "8",
+      "name": "Manilva",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29069",
+      "controlDigit": "1",
+      "name": "Marbella",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29070",
+      "controlDigit": "5",
+      "name": "Mijas",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29071",
+      "controlDigit": "2",
+      "name": "Moclinejo",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29072",
+      "controlDigit": "7",
+      "name": "Mollina",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29073",
+      "controlDigit": "3",
+      "name": "Monda",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29903",
+      "controlDigit": "9",
+      "name": "Montecorto",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29074",
+      "controlDigit": "8",
+      "name": "Montejaque",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29075",
+      "controlDigit": "1",
+      "name": "Nerja",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29076",
+      "controlDigit": "4",
+      "name": "Ojén",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29077",
+      "controlDigit": "0",
+      "name": "Parauta",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29079",
+      "controlDigit": "9",
+      "name": "Periana",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29080",
+      "controlDigit": "3",
+      "name": "Pizarra",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29081",
+      "controlDigit": "0",
+      "name": "Pujerra",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29082",
+      "controlDigit": "5",
+      "name": "Rincón de la Victoria",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29083",
+      "controlDigit": "1",
+      "name": "Riogordo",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29084",
+      "controlDigit": "6",
+      "name": "Ronda",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29085",
+      "controlDigit": "9",
+      "name": "Salares",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29086",
+      "controlDigit": "2",
+      "name": "Sayalonga",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29087",
+      "controlDigit": "8",
+      "name": "Sedella",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29904",
+      "controlDigit": "4",
+      "name": "Serrato",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29088",
+      "controlDigit": "4",
+      "name": "Sierra de Yeguas",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29089",
+      "controlDigit": "7",
+      "name": "Teba",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29090",
+      "controlDigit": "1",
+      "name": "Tolox",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29901",
+      "controlDigit": "8",
+      "name": "Torremolinos",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29091",
+      "controlDigit": "8",
+      "name": "Torrox",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29092",
+      "controlDigit": "3",
+      "name": "Totalán",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29093",
+      "controlDigit": "9",
+      "name": "Valle de Abdalajís",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29094",
+      "controlDigit": "4",
+      "name": "Vélez-Málaga",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29095",
+      "controlDigit": "7",
+      "name": "Villanueva de Algaidas",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29902",
+      "controlDigit": "3",
+      "name": "Villanueva de la Concepción",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29098",
+      "controlDigit": "2",
+      "name": "Villanueva de Tapia",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29096",
+      "controlDigit": "0",
+      "name": "Villanueva del Rosario",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29097",
+      "controlDigit": "6",
+      "name": "Villanueva del Trabuco",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29099",
+      "controlDigit": "5",
+      "name": "Viñuela",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "29100",
+      "controlDigit": "9",
+      "name": "Yunquera",
+      "provinceCode": "29",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41001",
+      "controlDigit": "6",
+      "name": "Aguadulce",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41002",
+      "controlDigit": "1",
+      "name": "Alanís",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41003",
+      "controlDigit": "7",
+      "name": "Albaida del Aljarafe",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41004",
+      "controlDigit": "2",
+      "name": "Alcalá de Guadaíra",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41005",
+      "controlDigit": "5",
+      "name": "Alcalá del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41006",
+      "controlDigit": "8",
+      "name": "Alcolea del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41007",
+      "controlDigit": "4",
+      "name": "Algaba, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41008",
+      "controlDigit": "0",
+      "name": "Algámitas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41009",
+      "controlDigit": "3",
+      "name": "Almadén de la Plata",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41010",
+      "controlDigit": "7",
+      "name": "Almensilla",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41011",
+      "controlDigit": "4",
+      "name": "Arahal",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41012",
+      "controlDigit": "9",
+      "name": "Aznalcázar",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41013",
+      "controlDigit": "5",
+      "name": "Aznalcóllar",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41014",
+      "controlDigit": "0",
+      "name": "Badolatosa",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41015",
+      "controlDigit": "3",
+      "name": "Benacazón",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41016",
+      "controlDigit": "6",
+      "name": "Bollullos de la Mitación",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41017",
+      "controlDigit": "2",
+      "name": "Bormujos",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41018",
+      "controlDigit": "8",
+      "name": "Brenes",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41019",
+      "controlDigit": "1",
+      "name": "Burguillos",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41020",
+      "controlDigit": "5",
+      "name": "Cabezas de San Juan, Las",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41021",
+      "controlDigit": "2",
+      "name": "Camas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41022",
+      "controlDigit": "7",
+      "name": "Campana, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41023",
+      "controlDigit": "3",
+      "name": "Cantillana",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41901",
+      "controlDigit": "7",
+      "name": "Cañada Rosal",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41024",
+      "controlDigit": "8",
+      "name": "Carmona",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41025",
+      "controlDigit": "1",
+      "name": "Carrión de los Céspedes",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41026",
+      "controlDigit": "4",
+      "name": "Casariche",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41027",
+      "controlDigit": "0",
+      "name": "Castilblanco de los Arroyos",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41028",
+      "controlDigit": "6",
+      "name": "Castilleja de Guzmán",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41029",
+      "controlDigit": "9",
+      "name": "Castilleja de la Cuesta",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41030",
+      "controlDigit": "3",
+      "name": "Castilleja del Campo",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41031",
+      "controlDigit": "0",
+      "name": "Castillo de las Guardas, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41032",
+      "controlDigit": "5",
+      "name": "Cazalla de la Sierra",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41033",
+      "controlDigit": "1",
+      "name": "Constantina",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41034",
+      "controlDigit": "6",
+      "name": "Coria del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41035",
+      "controlDigit": "9",
+      "name": "Coripe",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41036",
+      "controlDigit": "2",
+      "name": "Coronil, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41037",
+      "controlDigit": "8",
+      "name": "Corrales, Los",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41903",
+      "controlDigit": "8",
+      "name": "Cuervo de Sevilla, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41038",
+      "controlDigit": "4",
+      "name": "Dos Hermanas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41039",
+      "controlDigit": "7",
+      "name": "Écija",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41040",
+      "controlDigit": "1",
+      "name": "Espartinas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41041",
+      "controlDigit": "8",
+      "name": "Estepa",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41042",
+      "controlDigit": "3",
+      "name": "Fuentes de Andalucía",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41043",
+      "controlDigit": "9",
+      "name": "Garrobo, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41044",
+      "controlDigit": "4",
+      "name": "Gelves",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41045",
+      "controlDigit": "7",
+      "name": "Gerena",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41046",
+      "controlDigit": "0",
+      "name": "Gilena",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41047",
+      "controlDigit": "6",
+      "name": "Gines",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41048",
+      "controlDigit": "2",
+      "name": "Guadalcanal",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41049",
+      "controlDigit": "5",
+      "name": "Guillena",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41050",
+      "controlDigit": "8",
+      "name": "Herrera",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41051",
+      "controlDigit": "5",
+      "name": "Huévar del Aljarafe",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41902",
+      "controlDigit": "2",
+      "name": "Isla Mayor",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41052",
+      "controlDigit": "0",
+      "name": "Lantejuela",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41053",
+      "controlDigit": "6",
+      "name": "Lebrija",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41054",
+      "controlDigit": "1",
+      "name": "Lora de Estepa",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41055",
+      "controlDigit": "4",
+      "name": "Lora del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41056",
+      "controlDigit": "7",
+      "name": "Luisiana, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41057",
+      "controlDigit": "3",
+      "name": "Madroño, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41058",
+      "controlDigit": "9",
+      "name": "Mairena del Alcor",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41059",
+      "controlDigit": "2",
+      "name": "Mairena del Aljarafe",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41060",
+      "controlDigit": "6",
+      "name": "Marchena",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41061",
+      "controlDigit": "3",
+      "name": "Marinaleda",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41062",
+      "controlDigit": "8",
+      "name": "Martín de la Jara",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41063",
+      "controlDigit": "4",
+      "name": "Molares, Los",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41064",
+      "controlDigit": "9",
+      "name": "Montellano",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41065",
+      "controlDigit": "2",
+      "name": "Morón de la Frontera",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41066",
+      "controlDigit": "5",
+      "name": "Navas de la Concepción, Las",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41067",
+      "controlDigit": "1",
+      "name": "Olivares",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41068",
+      "controlDigit": "7",
+      "name": "Osuna",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41069",
+      "controlDigit": "0",
+      "name": "Palacios y Villafranca, Los",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41904",
+      "controlDigit": "3",
+      "name": "Palmar de Troya, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41070",
+      "controlDigit": "4",
+      "name": "Palomares del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41071",
+      "controlDigit": "1",
+      "name": "Paradas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41072",
+      "controlDigit": "6",
+      "name": "Pedrera",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41073",
+      "controlDigit": "2",
+      "name": "Pedroso, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41074",
+      "controlDigit": "7",
+      "name": "Peñaflor",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41075",
+      "controlDigit": "0",
+      "name": "Pilas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41076",
+      "controlDigit": "3",
+      "name": "Pruna",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41077",
+      "controlDigit": "9",
+      "name": "Puebla de Cazalla, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41078",
+      "controlDigit": "5",
+      "name": "Puebla de los Infantes, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41079",
+      "controlDigit": "8",
+      "name": "Puebla del Río, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41080",
+      "controlDigit": "2",
+      "name": "Real de la Jara, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41081",
+      "controlDigit": "9",
+      "name": "Rinconada, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41082",
+      "controlDigit": "4",
+      "name": "Roda de Andalucía, La",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41083",
+      "controlDigit": "0",
+      "name": "Ronquillo, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41084",
+      "controlDigit": "5",
+      "name": "Rubio, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41085",
+      "controlDigit": "8",
+      "name": "Salteras",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41086",
+      "controlDigit": "1",
+      "name": "San Juan de Aznalfarache",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41088",
+      "controlDigit": "3",
+      "name": "San Nicolás del Puerto",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41087",
+      "controlDigit": "7",
+      "name": "Sanlúcar la Mayor",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41089",
+      "controlDigit": "6",
+      "name": "Santiponce",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41090",
+      "controlDigit": "0",
+      "name": "Saucejo, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41091",
+      "controlDigit": "7",
+      "name": "Sevilla",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41092",
+      "controlDigit": "2",
+      "name": "Tocina",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41093",
+      "controlDigit": "8",
+      "name": "Tomares",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41094",
+      "controlDigit": "3",
+      "name": "Umbrete",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41095",
+      "controlDigit": "6",
+      "name": "Utrera",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41096",
+      "controlDigit": "9",
+      "name": "Valencina de la Concepción",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41097",
+      "controlDigit": "5",
+      "name": "Villamanrique de la Condesa",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41100",
+      "controlDigit": "8",
+      "name": "Villanueva de San Juan",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41098",
+      "controlDigit": "1",
+      "name": "Villanueva del Ariscal",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41099",
+      "controlDigit": "4",
+      "name": "Villanueva del Río y Minas",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41101",
+      "controlDigit": "5",
+      "name": "Villaverde del Río",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    },
+    {
+      "ineCode": "41102",
+      "controlDigit": "0",
+      "name": "Viso del Alcor, El",
+      "provinceCode": "41",
+      "autonomousCommunityCode": "01"
+    }
+  ]
+}

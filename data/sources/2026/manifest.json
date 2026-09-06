@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "retrievedAt": "2026-09-06T11:54:28Z",
+  "sources": [
+    {
+      "id": "boe-2026-labour-calendar",
+      "authority": "Agencia Estatal Boletín Oficial del Estado",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21667",
+      "documentationUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+      "license": "AEBOE reuse conditions effective 2024-06-28",
+      "licenseUrl": "https://www.boe.es/informacion/aviso_legal/index.php",
+      "publishedAt": "2025-10-28T00:00:00Z",
+      "path": "data/raw/2026/boe-2026.xml",
+      "sha256": "f85e22b21de215dafdc2491eab6a535b0c92e744c8d2ae79d3d4c0532c9770e0"
+    },
+    {
+      "id": "ine-municipalities-2026",
+      "authority": "Instituto Nacional de Estadística",
+      "url": "https://www.ine.es/daco/daco42/codmun/diccionario26.xlsx",
+      "documentationUrl": "https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177031&idp=1254734710990",
+      "license": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://www.ine.es/datosabiertos/",
+      "publishedAt": "2026-02-04T00:00:00Z",
+      "path": "data/raw/2026/ine-municipalities.xlsx",
+      "sha256": "07f8e8d64eba73fe9d425196fe82f4e09a9886a287abd650e88ca8d98dd49052"
+    },
+    {
+      "id": "andalucia-work-calendar",
+      "authority": "Junta de Andalucía, Consejería de Empleo, Empresa y Trabajo Autónomo",
+      "url": "https://datos.juntadeandalucia.es/api/v0/work-calendar/all?format=json",
+      "documentationUrl": "https://www.juntadeandalucia.es/datosabiertos/portal/dataset/calendario-de-dias-inhabiles-en-la-comunidad-autonoma-de-andalucia",
+      "license": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "publishedAt": "2026-04-27T00:00:00Z",
+      "path": "data/raw/2026/andalucia-work-calendar.json",
+      "sha256": "fe083af0f06e91fd54a9bc0afbece1a8f2011bcdc1fedc74c3afafe02bab74da"
+    }
+  ]
+}

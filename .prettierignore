@@ -1,0 +1,7 @@
+data/raw/
+calendars/2026/
+package-lock.json
+
+AGENTS.md
+tests/fixtures/*.ics
+.gitattributes

@@ -1,0 +1,43 @@
+{
+  "sourceId": "boe-2026-labour-calendar",
+  "sourceSha256": "f85e22b21de215dafdc2491eab6a535b0c92e744c8d2ae79d3d4c0532c9770e0",
+  "auditNote": "Manually transcribed from the Andalucía column and legend of BOE-A-2025-21667.",
+  "holidays": [
+    { "date": "2026-01-01", "name": "Año Nuevo", "scope": "country" },
+    { "date": "2026-01-06", "name": "Epifanía del Señor", "scope": "country" },
+    {
+      "date": "2026-02-28",
+      "name": "Día de Andalucía",
+      "scope": "autonomous-community"
+    },
+    { "date": "2026-04-02", "name": "Jueves Santo", "scope": "country" },
+    { "date": "2026-04-03", "name": "Viernes Santo", "scope": "country" },
+    { "date": "2026-05-01", "name": "Fiesta del Trabajo", "scope": "country" },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Lunes siguiente a Todos los Santos",
+      "scope": "autonomous-community"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country"
+    },
+    { "date": "2026-12-25", "name": "Natividad del Señor", "scope": "country" }
+  ]
+}
