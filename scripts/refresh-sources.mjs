@@ -41,10 +41,10 @@ if (mode === "--write" && changed) {
   );
   console.log("Frozen inputs and manifest updated.");
   console.log(
-    "Next: run scripts/extract-ine-xlsx.py and scripts/build-andalucia-name-map.py.",
+    "Next: run scripts/extract-ine-xlsx.py and then every scripts/prep/prep-*.py",
   );
   console.log(
-    "Then independently audit data/normalized/2026/boe-andalucia-holidays.json against the new BOE snapshot before updating its sourceSha256.",
+    "Then independently audit data/normalized/2026/boe-holidays.json and the per-community local-holidays files against the new snapshots before updating their sourceSha256 bindings.",
   );
 } else if (mode === "--check" && changed) {
   process.exitCode = 2;

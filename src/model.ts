@@ -1,5 +1,4 @@
 export const TARGET_YEAR = 2026 as const;
-export const ANDALUCIA_CODE = "01" as const;
 
 export type JurisdictionScope =
   | "country"
@@ -8,6 +7,137 @@ export type JurisdictionScope =
   | "island"
   | "municipality"
   | "submunicipal";
+
+export type LocalHolidayModel =
+  | "two-local-days"
+  | "one-local-plus-province"
+  | "two-local-plus-island"
+  | "one-plus-shared";
+
+export interface CommunityDefinition {
+  code: string;
+  slug: string;
+  name: string;
+  localModel: LocalHolidayModel;
+}
+
+// Stable ASCII directory slugs for every autonomous community with a
+// calendar directory. Generation fails closed for any code without a
+// registered slug, so a new community requires an explicit mapping.
+export const COMMUNITIES: readonly CommunityDefinition[] = [
+  {
+    code: "01",
+    slug: "andalucia",
+    name: "Andalucía",
+    localModel: "two-local-days",
+  },
+  { code: "02", slug: "aragon", name: "Aragón", localModel: "two-local-days" },
+  {
+    code: "03",
+    slug: "asturias",
+    name: "Asturias",
+    localModel: "two-local-days",
+  },
+  {
+    code: "04",
+    slug: "illes-balears",
+    name: "Illes Balears",
+    localModel: "two-local-days",
+  },
+  {
+    code: "05",
+    slug: "canarias",
+    name: "Canarias",
+    localModel: "two-local-plus-island",
+  },
+  {
+    code: "06",
+    slug: "cantabria",
+    name: "Cantabria",
+    localModel: "two-local-days",
+  },
+  {
+    code: "07",
+    slug: "castilla-y-leon",
+    name: "Castilla y León",
+    localModel: "two-local-days",
+  },
+  {
+    code: "08",
+    slug: "castilla-la-mancha",
+    name: "Castilla-La Mancha",
+    localModel: "two-local-days",
+  },
+  {
+    code: "09",
+    slug: "catalunya",
+    name: "Cataluña",
+    localModel: "two-local-days",
+  },
+  {
+    code: "10",
+    slug: "comunitat-valenciana",
+    name: "Comunitat Valenciana",
+    localModel: "two-local-days",
+  },
+  {
+    code: "11",
+    slug: "extremadura",
+    name: "Extremadura",
+    localModel: "two-local-days",
+  },
+  {
+    code: "12",
+    slug: "galicia",
+    name: "Galicia",
+    localModel: "two-local-days",
+  },
+  {
+    code: "13",
+    slug: "comunidad-de-madrid",
+    name: "Comunidad de Madrid",
+    localModel: "two-local-days",
+  },
+  {
+    code: "14",
+    slug: "region-de-murcia",
+    name: "Región de Murcia",
+    localModel: "two-local-days",
+  },
+  {
+    code: "15",
+    slug: "navarra",
+    name: "Navarra",
+    localModel: "one-plus-shared",
+  },
+  {
+    code: "16",
+    slug: "pais-vasco",
+    name: "País Vasco",
+    localModel: "one-local-plus-province",
+  },
+  {
+    code: "17",
+    slug: "la-rioja",
+    name: "La Rioja",
+    localModel: "two-local-days",
+  },
+  { code: "18", slug: "ceuta", name: "Ceuta", localModel: "two-local-days" },
+  {
+    code: "19",
+    slug: "melilla",
+    name: "Melilla",
+    localModel: "two-local-days",
+  },
+];
+
+export function communityByCode(code: string): CommunityDefinition {
+  const match = COMMUNITIES.find((community) => community.code === code);
+  if (match === undefined) {
+    throw new Error(`Unknown autonomous community code: ${code}`);
+  }
+  return match;
+}
 
 export interface SourceDefinition {
   id: string;
@@ -51,23 +181,60 @@ export interface Holiday {
   provenance: SourceProvenance;
 }
 
-export interface NameMapping {
-  province: string;
-  sourceName: string;
-  ineCode: string;
-  ineName: string;
-  method: "normalized-name" | "manual-alias";
+export interface LocalHolidayDatum {
+  date: string;
+  name: string;
+  sourceRecordId: string;
 }
 
-export interface NameMap {
-  mappings: NameMapping[];
-  omitted: Municipality[];
+export interface LocalMunicipality {
+  ineCode: string;
+  name: string;
+  holidays: LocalHolidayDatum[];
+}
+
+export interface LocalOmission {
+  ineCode: string;
+  name: string;
+  reason: string;
+}
+
+export interface ProvinceDay {
+  provinceCode: string;
+  date: string;
+  name: string;
+  sourceRecordId: string;
+}
+
+export interface IslandDay {
+  island: string;
+  name: string;
+  date: string;
+  feast: string;
+  ineCodes: string[];
+}
+
+export interface LocalHolidaysFile {
+  schemaVersion: 1;
+  year: number;
+  autonomousCommunityCode: string;
+  autonomousCommunity: string;
+  localHolidayModel: LocalHolidayModel;
+  sources: Array<{ sourceId: string; sourceSha256: string }>;
+  sharedLocalDay?: LocalHolidayDatum;
+  provinceDays?: ProvinceDay[];
+  islandDays?: IslandDay[];
+  municipalities: LocalMunicipality[];
+  omissions: LocalOmission[];
+  auditNote?: string;
 }
 
 export interface CalendarIndexEntry {
   ineCode: string;
   municipality: string;
   provinceCode: string;
+  autonomousCommunityCode: string;
+  autonomousCommunity: string;
   path: string;
   holidayCount: number;
   localHolidayCount: number;
@@ -75,20 +242,29 @@ export interface CalendarIndexEntry {
   sha256: string;
 }
 
+export interface CommunityCoverage {
+  total: number;
+  complete: number;
+  omitted: number;
+}
+
 export interface CoverageIndex {
-  schemaVersion: 1;
+  schemaVersion: 2;
   year: number;
   generatedAt: string;
-  status: "partial-andalucia-coverage";
-  scope: "Andalucía";
+  status: "national-partial-coverage";
+  scope: "España";
   summary: {
-    totalAndaluciaMunicipalities: number;
+    totalMunicipalities: number;
     completeCalendars: number;
     omittedMunicipalities: number;
+    communities: Record<string, CommunityCoverage>;
   };
   omissions: Array<{
     ineCode: string;
     municipality: string;
+    autonomousCommunity: string;
+    autonomousCommunityCode: string;
     reason: string;
   }>;
   calendars: CalendarIndexEntry[];

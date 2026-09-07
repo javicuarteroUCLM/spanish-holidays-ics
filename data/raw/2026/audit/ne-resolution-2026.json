@@ -1,0 +1,754 @@
+{
+ "schema": "spanish-holidays-ne-resolution/v1",
+ "research_date": "2026-09-06",
+ "baseline": "INE diccionario26.xlsx frozen in repo (data/raw/2026/ine-municipalities.xlsx)",
+ "summary": {
+  "total": 3081,
+  "covered": 2928,
+  "unresolved": 153,
+  "covered_pct": 95.0
+ },
+ "regions": {
+  "Galicia": {
+   "ine_total": 313,
+   "covered": 313,
+   "unresolved": 0,
+   "gap": [],
+   "submunicipal_entries_observed": 0,
+   "documents": [
+    "DOG 210 30/10/2025"
+   ],
+   "amendments": [],
+   "note": "313/313; aliases Guntin de Pallares / Rua de Valdeorras resolved"
+  },
+  "Cantabria": {
+   "ine_total": 102,
+   "covered": 102,
+   "unresolved": 0,
+   "gap": [],
+   "submunicipal_entries_observed": 304,
+   "documents": [
+    "BOC 238 11/12/2025 (CVE-2025-10276)"
+   ],
+   "amendments": [],
+   "note": "102/102; abbreviated PDF names resolved; Bareyo confirmed via official comunicado"
+  },
+  "La Rioja": {
+   "ine_total": 174,
+   "covered": 163,
+   "unresolved": 11,
+   "gap": [
+    {
+     "code": "26035",
+     "name": "Cabezón de Cameros"
+    },
+    {
+     "code": "26071",
+     "name": "Haro"
+    },
+    {
+     "code": "26081",
+     "name": "Jalón de Cameros"
+    },
+    {
+     "code": "26104",
+     "name": "Navajún"
+    },
+    {
+     "code": "26107",
+     "name": "Nieva de Cameros"
+    },
+    {
+     "code": "26113",
+     "name": "Pazuengos"
+    },
+    {
+     "code": "26122",
+     "name": "Rasillo de Cameros, El"
+    },
+    {
+     "code": "26126",
+     "name": "Robres del Castillo"
+    },
+    {
+     "code": "26129",
+     "name": "San Asensio"
+    },
+    {
+     "code": "26140",
+     "name": "Santurde de Rioja"
+    },
+    {
+     "code": "26154",
+     "name": "Torremontalbo"
+    }
+   ],
+   "submunicipal_entries_observed": 11,
+   "documents": [
+    "BOR 159 19/08/2025"
+   ],
+   "amendments": []
+  },
+  "Aragón": {
+   "ine_total": 731,
+   "covered": 589,
+   "unresolved": 142,
+   "gap": [
+    {
+     "code": "22017",
+     "name": "Alcolea de Cinca"
+    },
+    {
+     "code": "22037",
+     "name": "Arguis"
+    },
+    {
+     "code": "22050",
+     "name": "Barbuñales"
+    },
+    {
+     "code": "22052",
+     "name": "Belver de Cinca"
+    },
+    {
+     "code": "22068",
+     "name": "Borau"
+    },
+    {
+     "code": "22106",
+     "name": "Fago"
+    },
+    {
+     "code": "22127",
+     "name": "Igriés"
+    },
+    {
+     "code": "22177",
+     "name": "Perarrúa"
+    },
+    {
+     "code": "22178",
+     "name": "Pertusa"
+    },
+    {
+     "code": "22234",
+     "name": "Torrente de Cinca"
+    },
+    {
+     "code": "22235",
+     "name": "Torres de Alcanadre"
+    },
+    {
+     "code": "44001",
+     "name": "Ababuj"
+    },
+    {
+     "code": "44003",
+     "name": "Aguatón"
+    },
+    {
+     "code": "44005",
+     "name": "Aguilar del Alfambra"
+    },
+    {
+     "code": "44006",
+     "name": "Alacón"
+    },
+    {
+     "code": "44011",
+     "name": "Alcaine"
+    },
+    {
+     "code": "44021",
+     "name": "Allepuz"
+    },
+    {
+     "code": "44018",
+     "name": "Almohaja"
+    },
+    {
+     "code": "44024",
+     "name": "Anadón"
+    },
+    {
+     "code": "44028",
+     "name": "Argente"
+    },
+    {
+     "code": "44035",
+     "name": "Barrachina"
+    },
+    {
+     "code": "44039",
+     "name": "Bello"
+    },
+    {
+     "code": "44041",
+     "name": "Bezas"
+    },
+    {
+     "code": "44042",
+     "name": "Blancas"
+    },
+    {
+     "code": "44043",
+     "name": "Blesa"
+    },
+    {
+     "code": "44053",
+     "name": "Camañas"
+    },
+    {
+     "code": "44055",
+     "name": "Camarillas"
+    },
+    {
+     "code": "44060",
+     "name": "Cañada de Benatanduz"
+    },
+    {
+     "code": "44065",
+     "name": "Castejón de Tornos"
+    },
+    {
+     "code": "44066",
+     "name": "Castel de Cabra"
+    },
+    {
+     "code": "44074",
+     "name": "Cedrillas"
+    },
+    {
+     "code": "44075",
+     "name": "Celadas"
+    },
+    {
+     "code": "44087",
+     "name": "Crivillén"
+    },
+    {
+     "code": "44088",
+     "name": "Cuba, La"
+    },
+    {
+     "code": "44093",
+     "name": "Cuevas de Almudén"
+    },
+    {
+     "code": "44101",
+     "name": "Ferreruela de Huerva"
+    },
+    {
+     "code": "44102",
+     "name": "Fonfría"
+    },
+    {
+     "code": "44106",
+     "name": "Fortanete"
+    },
+    {
+     "code": "44110",
+     "name": "Fuenferrada"
+    },
+    {
+     "code": "44111",
+     "name": "Fuentes Calientes"
+    },
+    {
+     "code": "44125",
+     "name": "Huesa del Común"
+    },
+    {
+     "code": "44126",
+     "name": "Iglesuela del Cid, La"
+    },
+    {
+     "code": "44130",
+     "name": "Jorcas"
+    },
+    {
+     "code": "44132",
+     "name": "Lagueruela"
+    },
+    {
+     "code": "44133",
+     "name": "Lanzuela"
+    },
+    {
+     "code": "44136",
+     "name": "Lidón"
+    },
+    {
+     "code": "44138",
+     "name": "Loscos"
+    },
+    {
+     "code": "44142",
+     "name": "Maicas"
+    },
+    {
+     "code": "44146",
+     "name": "Mata de los Olmos, La"
+    },
+    {
+     "code": "44148",
+     "name": "Mezquita de Jarque"
+    },
+    {
+     "code": "44149",
+     "name": "Mirambel"
+    },
+    {
+     "code": "44150",
+     "name": "Miravete de la Sierra"
+    },
+    {
+     "code": "44152",
+     "name": "Monforte de Moyuela"
+    },
+    {
+     "code": "44153",
+     "name": "Monreal del Campo"
+    },
+    {
+     "code": "44156",
+     "name": "Monteagudo del Castillo"
+    },
+    {
+     "code": "44159",
+     "name": "Moscardón"
+    },
+    {
+     "code": "44161",
+     "name": "Muniesa"
+    },
+    {
+     "code": "44169",
+     "name": "Ojos Negros"
+    },
+    {
+     "code": "44173",
+     "name": "Olmos, Los"
+    },
+    {
+     "code": "44175",
+     "name": "Orrios"
+    },
+    {
+     "code": "44176",
+     "name": "Palomar de Arroyos"
+    },
+    {
+     "code": "44178",
+     "name": "Parras de Castellote, Las"
+    },
+    {
+     "code": "44180",
+     "name": "Peracense"
+    },
+    {
+     "code": "44183",
+     "name": "Pitarque"
+    },
+    {
+     "code": "44184",
+     "name": "Plou"
+    },
+    {
+     "code": "44185",
+     "name": "Pobo, El"
+    },
+    {
+     "code": "44190",
+     "name": "Pozuel del Campo"
+    },
+    {
+     "code": "44194",
+     "name": "Ráfales"
+    },
+    {
+     "code": "44198",
+     "name": "Royuela"
+    },
+    {
+     "code": "44205",
+     "name": "Samper de Calanda"
+    },
+    {
+     "code": "44211",
+     "name": "Segura de los Baños"
+    },
+    {
+     "code": "44213",
+     "name": "Singra"
+    },
+    {
+     "code": "44219",
+     "name": "Tornos"
+    },
+    {
+     "code": "44224",
+     "name": "Torre de las Arcas"
+    },
+    {
+     "code": "44229",
+     "name": "Torres de Albarracín"
+    },
+    {
+     "code": "44236",
+     "name": "Tronchón"
+    },
+    {
+     "code": "44246",
+     "name": "Valderrobres"
+    },
+    {
+     "code": "44251",
+     "name": "Villafranca del Campo"
+    },
+    {
+     "code": "44252",
+     "name": "Villahermosa del Campo"
+    },
+    {
+     "code": "44256",
+     "name": "Villanueva del Rebollar de la Sierra"
+    },
+    {
+     "code": "44258",
+     "name": "Villar del Salz"
+    },
+    {
+     "code": "44260",
+     "name": "Villarluengo"
+    },
+    {
+     "code": "44262",
+     "name": "Villarroya de los Pinares"
+    },
+    {
+     "code": "44266",
+     "name": "Visiedo"
+    },
+    {
+     "code": "44267",
+     "name": "Vivel del Río Martín"
+    },
+    {
+     "code": "44268",
+     "name": "Zoma, La"
+    },
+    {
+     "code": "50004",
+     "name": "Aguarón"
+    },
+    {
+     "code": "50009",
+     "name": "Alarba"
+    },
+    {
+     "code": "50010",
+     "name": "Alberite de San Juan"
+    },
+    {
+     "code": "50021",
+     "name": "Almochuel"
+    },
+    {
+     "code": "50028",
+     "name": "Anento"
+    },
+    {
+     "code": "50035",
+     "name": "Artieda"
+    },
+    {
+     "code": "50040",
+     "name": "Badules"
+    },
+    {
+     "code": "50042",
+     "name": "Balconchán"
+    },
+    {
+     "code": "50052",
+     "name": "Bisimbre"
+    },
+    {
+     "code": "50071",
+     "name": "Campillo de Aragón"
+    },
+    {
+     "code": "50075",
+     "name": "Castejón de Alarba"
+    },
+    {
+     "code": "50078",
+     "name": "Castiliscar"
+    },
+    {
+     "code": "50080",
+     "name": "Cerveruela"
+    },
+    {
+     "code": "50088",
+     "name": "Cosuenda"
+    },
+    {
+     "code": "50114",
+     "name": "Fuendetodos"
+    },
+    {
+     "code": "50116",
+     "name": "Fuentes de Jiloca"
+    },
+    {
+     "code": "50123",
+     "name": "Grisén"
+    },
+    {
+     "code": "50134",
+     "name": "Langa del Castillo"
+    },
+    {
+     "code": "50135",
+     "name": "Layana"
+    },
+    {
+     "code": "50139",
+     "name": "Letux"
+    },
+    {
+     "code": "50142",
+     "name": "Lobera de Onsella"
+    },
+    {
+     "code": "50148",
+     "name": "Luesia"
+    },
+    {
+     "code": "50149",
+     "name": "Luesma"
+    },
+    {
+     "code": "50168",
+     "name": "Mianos"
+    },
+    {
+     "code": "50171",
+     "name": "Moneva"
+    },
+    {
+     "code": "50176",
+     "name": "Morata de Jiloca"
+    },
+    {
+     "code": "50178",
+     "name": "Moros"
+    },
+    {
+     "code": "50182",
+     "name": "Muela, La"
+    },
+    {
+     "code": "50183",
+     "name": "Munébrega"
+    },
+    {
+     "code": "50188",
+     "name": "Nombrevilla"
+    },
+    {
+     "code": "50194",
+     "name": "Olvés"
+    },
+    {
+     "code": "50195",
+     "name": "Orcajo"
+    },
+    {
+     "code": "50198",
+     "name": "Oseja"
+    },
+    {
+     "code": "50205",
+     "name": "Pedrosas, Las"
+    },
+    {
+     "code": "50210",
+     "name": "Pintanos, Los"
+    },
+    {
+     "code": "50216",
+     "name": "Pozuelo de Aragón"
+    },
+    {
+     "code": "50217",
+     "name": "Pradilla de Ebro"
+    },
+    {
+     "code": "50218",
+     "name": "Puebla de Albortón"
+    },
+    {
+     "code": "50220",
+     "name": "Puendeluna"
+    },
+    {
+     "code": "50224",
+     "name": "Retascón"
+    },
+    {
+     "code": "50227",
+     "name": "Romanos"
+    },
+    {
+     "code": "50228",
+     "name": "Rueda de Jalón"
+    },
+    {
+     "code": "50233",
+     "name": "Samper del Salz"
+    },
+    {
+     "code": "50245",
+     "name": "Sigüés"
+    },
+    {
+     "code": "50254",
+     "name": "Tierga"
+    },
+    {
+     "code": "50258",
+     "name": "Torralbilla"
+    },
+    {
+     "code": "50259",
+     "name": "Torrehermosa"
+    },
+    {
+     "code": "50266",
+     "name": "Trasobares"
+    },
+    {
+     "code": "50269",
+     "name": "Urrea de Jalón"
+    },
+    {
+     "code": "50274",
+     "name": "Val de San Martín"
+    },
+    {
+     "code": "50273",
+     "name": "Valdehorna"
+    },
+    {
+     "code": "50275",
+     "name": "Valmadrid"
+    },
+    {
+     "code": "50277",
+     "name": "Valtorres"
+    },
+    {
+     "code": "50279",
+     "name": "Velilla de Jiloca"
+    },
+    {
+     "code": "50290",
+     "name": "Villanueva de Huerva"
+    },
+    {
+     "code": "50282",
+     "name": "Vilueña, La"
+    }
+   ],
+   "submunicipal_entries_observed": 109,
+   "documents": [
+    "BOA 225 20/11/2025",
+    "BOA 56 23/03/2026 (complement)"
+   ],
+   "amendments": [
+    "BOA 56 23/03/2026"
+   ]
+  },
+  "Catalunya": {
+   "ine_total": 947,
+   "covered": 947,
+   "unresolved": 0,
+   "gap": [],
+   "submunicipal_entries_observed": 373,
+   "documents": [
+    "DOGC 9565 17/12/2025 Ordre EMT/208/2025"
+   ],
+   "amendments": [
+    "DOGC 9586 20/01/2026 Ordre EMT/3/2026"
+   ],
+   "unfixed_after_amendments": [
+    "Pont de Bar, El",
+    "Calaf",
+    "Rubió",
+    "Veciana",
+    "Bausen",
+    "Castellfollit del Boix",
+    "Castellnou de Bages",
+    "Monistrol de Montserrat",
+    "Mura",
+    "Sant Mateu de Bages",
+    "Febró, la",
+    "Castellar del Riu",
+    "Gironella",
+    "Gósol",
+    "Nou de Berguedà, la",
+    "Quar, la",
+    "Sant Julià de Cerdanyola",
+    "Vallcebre",
+    "Canyelles",
+    "Argentona",
+    "Malgrat de Mar",
+    "Òrrius",
+    "Torelló",
+    "Barberà del Vallès",
+    "Cerdanyola del Vallès",
+    "Aiguafreda",
+    "Cànoves i Samalús",
+    "Sant Pere de Vilamajor",
+    "Santa Eulàlia de Ronçana",
+    "Santa Maria de Martorelles"
+   ],
+   "unfixed_count": 30,
+   "note": "EMD/header resolution applied; unfixed = 'proposta no formulada' remaining after Ordre EMT/3/2026"
+  },
+  "Comunitat Valenciana": {
+   "ine_total": 542,
+   "covered": 542,
+   "unresolved": 0,
+   "gap": [],
+   "submunicipal_entries_observed": 2,
+   "documents": [
+    "DOGV 10238 14/11/2025"
+   ],
+   "amendments": [
+    "DOGV 10281 15/01/2026"
+   ],
+   "note": "542/542 after extraction-artifact normalization and DOGV 10281 amendment merge"
+  },
+  "Navarra": {
+   "ine_total": 272,
+   "covered": 272,
+   "unresolved": 0,
+   "gap": [],
+   "submunicipal_entries_observed": 256,
+   "documents": [
+    "BON 241 02/12/2025 Res. 682/2025"
+   ],
+   "amendments": [
+    "BON 1 02/01/2026 Res. 765/2025"
+   ],
+   "caveats": [
+    "31244 Urroz not literally listed (only URROZVILLA 31243); carry-over of 2025 festivo per Res. 390/2025 (2025 value not retrieved)",
+    "31054 Bertizarana covered via concejo entries Narbarte/Oieregi/Legasa"
+   ]
+  }
+ }
+}

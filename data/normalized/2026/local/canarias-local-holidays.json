@@ -1,0 +1,1821 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "05",
+  "autonomousCommunity": "Canarias",
+  "localHolidayModel": "two-local-plus-island",
+  "sources": [
+    {
+      "sourceId": "boc-decreto-61-2025",
+      "sourceSha256": "5d17017ffeb5038ed6453411cbc6b7a08d226c504479a4716bf901ae90139051"
+    },
+    {
+      "sourceId": "boc-orden-3029-2025",
+      "sourceSha256": "dc2b3cf113d26c2a9defae2cced334de918b6d6c505c9ed1da841a15072c8dd9"
+    }
+  ],
+  "islandDays": [
+    {
+      "island": "El Hierro",
+      "name": "El Hierro",
+      "date": "2026-09-24",
+      "feast": "Nuestra Señora de Los Reyes",
+      "ineCodes": ["38013", "38048", "38901"]
+    },
+    {
+      "island": "Fuerteventura",
+      "name": "Fuerteventura",
+      "date": "2026-09-18",
+      "feast": "Nuestra Señora de la Peña",
+      "ineCodes": ["35003", "35007", "35014", "35015", "35017", "35030"]
+    },
+    {
+      "island": "Gran Canaria",
+      "name": "Gran Canaria",
+      "date": "2026-09-08",
+      "feast": "Nuestra Señora del Pino",
+      "ineCodes": [
+        "35001",
+        "35002",
+        "35005",
+        "35006",
+        "35008",
+        "35009",
+        "35011",
+        "35012",
+        "35013",
+        "35016",
+        "35019",
+        "35020",
+        "35021",
+        "35022",
+        "35023",
+        "35025",
+        "35026",
+        "35027",
+        "35031",
+        "35032",
+        "35033"
+      ]
+    },
+    {
+      "island": "La Gomera",
+      "name": "La Gomera",
+      "date": "2026-10-05",
+      "feast": "Nuestra Señora de Guadalupe",
+      "ineCodes": ["38002", "38003", "38021", "38036", "38049", "38050"]
+    },
+    {
+      "island": "La Palma",
+      "name": "La Palma",
+      "date": "2026-08-05",
+      "feast": "Nuestra Señora de Las Nieves",
+      "ineCodes": [
+        "38007",
+        "38008",
+        "38009",
+        "38014",
+        "38016",
+        "38024",
+        "38027",
+        "38029",
+        "38030",
+        "38033",
+        "38037",
+        "38045",
+        "38047",
+        "38053"
+      ]
+    },
+    {
+      "island": "Lanzarote",
+      "name": "Lanzarote",
+      "date": "2026-09-15",
+      "feast": "Nuestra Señora de Los Volcanes",
+      "ineCodes": [
+        "35004",
+        "35010",
+        "35018",
+        "35024",
+        "35028",
+        "35029",
+        "35034"
+      ]
+    },
+    {
+      "island": "Tenerife",
+      "name": "Tenerife",
+      "date": "2026-02-02",
+      "feast": "Virgen de la Candelaria",
+      "ineCodes": [
+        "38001",
+        "38004",
+        "38005",
+        "38006",
+        "38010",
+        "38011",
+        "38012",
+        "38015",
+        "38017",
+        "38018",
+        "38019",
+        "38020",
+        "38022",
+        "38023",
+        "38025",
+        "38026",
+        "38028",
+        "38031",
+        "38032",
+        "38034",
+        "38035",
+        "38038",
+        "38039",
+        "38040",
+        "38041",
+        "38042",
+        "38043",
+        "38044",
+        "38046",
+        "38051",
+        "38052"
+      ]
+    }
+  ],
+  "auditNote": "Island membership is an explicit 88-row audited map; island days from Decreto 61/2025. La Graciosa shares the Lanzarote day but is a pedanía of Teguise, not a municipality.",
+  "municipalities": [
+    {
+      "ineCode": "35001",
+      "name": "Agaete",
+      "method": "normalized-name",
+      "sourceName": "AGAETE",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGAETE:2026-06-29"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGAETE:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "35002",
+      "name": "Agüimes",
+      "method": "normalized-name",
+      "sourceName": "AGÜIMES",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGÜIMES:2026-01-20"
+        },
+        {
+          "date": "2026-02-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGÜIMES:2026-02-19"
+        }
+      ]
+    },
+    {
+      "ineCode": "35003",
+      "name": "Antigua",
+      "method": "normalized-name",
+      "sourceName": "ANTIGUA",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-02-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ANTIGUA:2026-02-09"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ANTIGUA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "35004",
+      "name": "Arrecife",
+      "method": "normalized-name",
+      "sourceName": "ARRECIFE",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARRECIFE:2026-02-17"
+        },
+        {
+          "date": "2026-08-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARRECIFE:2026-08-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "35005",
+      "name": "Artenara",
+      "method": "normalized-name",
+      "sourceName": "ARTENARA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARTENARA:2026-08-31"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARTENARA:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "35006",
+      "name": "Arucas",
+      "method": "normalized-name",
+      "sourceName": "ARUCAS",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARUCAS:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARUCAS:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35007",
+      "name": "Betancuria",
+      "method": "normalized-name",
+      "sourceName": "BETANCURIA",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-07-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BETANCURIA:2026-07-14"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BETANCURIA:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35008",
+      "name": "Firgas",
+      "method": "normalized-name",
+      "sourceName": "FIRGAS",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FIRGAS:2026-02-17"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FIRGAS:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "35009",
+      "name": "Gáldar",
+      "method": "normalized-name",
+      "sourceName": "GÁLDAR",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GÁLDAR:2026-05-15"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GÁLDAR:2026-07-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "35010",
+      "name": "Haría",
+      "method": "normalized-name",
+      "sourceName": "HARÍA",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:HARÍA:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:HARÍA:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35011",
+      "name": "Ingenio",
+      "method": "normalized-name",
+      "sourceName": "INGENIO",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:INGENIO:2026-02-02"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:INGENIO:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "35012",
+      "name": "Mogán",
+      "method": "normalized-name",
+      "sourceName": "MOGÁN",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:MOGÁN:2026-04-06"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:MOGÁN:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "35013",
+      "name": "Moya",
+      "method": "normalized-name",
+      "sourceName": "MOYA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:MOYA:2026-02-17"
+        },
+        {
+          "date": "2026-06-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:MOYA:2026-06-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "35014",
+      "name": "Oliva, La",
+      "method": "normalized-name",
+      "sourceName": "LA OLIV A",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA OLIV A:2026-02-02"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA OLIV A:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "35015",
+      "name": "Pájara",
+      "method": "normalized-name",
+      "sourceName": "PÁJARA",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-07-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PÁJARA:2026-07-02"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PÁJARA:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "35016",
+      "name": "Palmas de Gran Canaria, Las",
+      "method": "normalized-name",
+      "sourceName": "LAS PALMAS DE GRAN CANARIA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LAS PALMAS DE GRAN CANARIA:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LAS PALMAS DE GRAN CANARIA:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35017",
+      "name": "Puerto del Rosario",
+      "method": "normalized-name",
+      "sourceName": "PUERTO DEL ROSARIO",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUERTO DEL ROSARIO:2026-02-17"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUERTO DEL ROSARIO:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "35018",
+      "name": "San Bartolomé",
+      "method": "normalized-name",
+      "sourceName": "SAN BARTOLOMÉ DE LANZAROTE",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN BARTOLOMÉ DE LANZAROTE:2026-02-17"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN BARTOLOMÉ DE LANZAROTE:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35019",
+      "name": "San Bartolomé de Tirajana",
+      "method": "normalized-name",
+      "sourceName": "SAN BARTOLOMÉ DE TIRAJANA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-07-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN BARTOLOMÉ DE TIRAJANA:2026-07-25"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN BARTOLOMÉ DE TIRAJANA:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35020",
+      "name": "Aldea de San Nicolás, La",
+      "method": "normalized-name",
+      "sourceName": "LA ALDEA DE SAN NICOLÁS",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA ALDEA DE SAN NICOLÁS:2026-09-10"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA ALDEA DE SAN NICOLÁS:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "35021",
+      "name": "Santa Brígida",
+      "method": "normalized-name",
+      "sourceName": "SANTA BRÍGIDA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA BRÍGIDA:2026-02-17"
+        },
+        {
+          "date": "2026-06-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA BRÍGIDA:2026-06-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "35022",
+      "name": "Santa Lucía de Tirajana",
+      "method": "normalized-name",
+      "sourceName": "SANTA LUCÍA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA LUCÍA:2026-02-17"
+        },
+        {
+          "date": "2026-10-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA LUCÍA:2026-10-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35023",
+      "name": "Santa María de Guía de Gran Canaria",
+      "method": "normalized-name",
+      "sourceName": "SANTA MARÍA DE GUÍA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA MARÍA DE GUÍA:2026-03-19"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA MARÍA DE GUÍA:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "35024",
+      "name": "Teguise",
+      "method": "normalized-name",
+      "sourceName": "TEGUISE",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEGUISE:2026-07-16"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEGUISE:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "35025",
+      "name": "Tejeda",
+      "method": "normalized-name",
+      "sourceName": "TEJEDA",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEJEDA:2026-02-17"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEJEDA:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "35026",
+      "name": "Telde",
+      "method": "normalized-name",
+      "sourceName": "TELDE",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TELDE:2026-06-24"
+        },
+        {
+          "date": "2026-11-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TELDE:2026-11-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "35027",
+      "name": "Teror",
+      "method": "normalized-name",
+      "sourceName": "TEROR",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEROR:2026-02-17"
+        },
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEROR:2026-06-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "35028",
+      "name": "Tías",
+      "method": "normalized-name",
+      "sourceName": "TÍAS",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TÍAS:2026-02-02"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TÍAS:2026-02-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "35029",
+      "name": "Tinajo",
+      "method": "normalized-name",
+      "sourceName": "TINAJO",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TINAJO:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TINAJO:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "35030",
+      "name": "Tuineje",
+      "method": "normalized-name",
+      "sourceName": "TUINEJE",
+      "island": "Fuerteventura",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TUINEJE:2026-02-02"
+        },
+        {
+          "date": "2026-10-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TUINEJE:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "35031",
+      "name": "Valsequillo de Gran Canaria",
+      "method": "normalized-name",
+      "sourceName": "V ALSEQUILLO",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALSEQUILLO:2026-06-24"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALSEQUILLO:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "35032",
+      "name": "Valleseco",
+      "method": "normalized-name",
+      "sourceName": "V ALLESECO",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLESECO:2026-02-17"
+        },
+        {
+          "date": "2026-05-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLESECO:2026-05-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "35033",
+      "name": "Vega de San Mateo",
+      "method": "normalized-name",
+      "sourceName": "VEGA DE SAN MATEO",
+      "island": "Gran Canaria",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VEGA DE SAN MATEO:2026-02-17"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VEGA DE SAN MATEO:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "35034",
+      "name": "Yaiza",
+      "method": "normalized-name",
+      "sourceName": "YAIZA",
+      "island": "Lanzarote",
+      "holidays": [
+        {
+          "date": "2026-07-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:YAIZA:2026-07-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:YAIZA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38001",
+      "name": "Adeje",
+      "method": "normalized-name",
+      "sourceName": "ADEJE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ADEJE:2026-01-20"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ADEJE:2026-02-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "38002",
+      "name": "Agulo",
+      "method": "normalized-name",
+      "sourceName": "AGULO",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGULO:2026-04-27"
+        },
+        {
+          "date": "2026-09-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:AGULO:2026-09-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "38003",
+      "name": "Alajeró",
+      "method": "normalized-name",
+      "sourceName": "ALAJERÓ",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ALAJERÓ:2026-07-16"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ALAJERÓ:2026-09-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "38004",
+      "name": "Arafo",
+      "method": "normalized-name",
+      "sourceName": "ARAFO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARAFO:2026-02-17"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARAFO:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "38005",
+      "name": "Arico",
+      "method": "normalized-name",
+      "sourceName": "ARICO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARICO:2026-02-17"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARICO:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38006",
+      "name": "Arona",
+      "method": "normalized-name",
+      "sourceName": "ARONA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARONA:2026-02-17"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ARONA:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "38007",
+      "name": "Barlovento",
+      "method": "normalized-name",
+      "sourceName": "BARLOVENTO",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BARLOVENTO:2026-02-17"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BARLOVENTO:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "38008",
+      "name": "Breña Alta",
+      "method": "normalized-name",
+      "sourceName": "BREÑA ALTA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BREÑA ALTA:2026-02-17"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BREÑA ALTA:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "38009",
+      "name": "Breña Baja",
+      "method": "normalized-name",
+      "sourceName": "BREÑA BAJA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BREÑA BAJA:2026-03-19"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BREÑA BAJA:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "38010",
+      "name": "Buenavista del Norte",
+      "method": "normalized-name",
+      "sourceName": "BUENA VISTA DEL NORTE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BUENA VISTA DEL NORTE:2026-08-24"
+        },
+        {
+          "date": "2026-10-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:BUENA VISTA DEL NORTE:2026-10-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "38011",
+      "name": "Candelaria",
+      "method": "normalized-name",
+      "sourceName": "CANDELARIA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:CANDELARIA:2026-02-17"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:CANDELARIA:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "38012",
+      "name": "Fasnia",
+      "method": "normalized-name",
+      "sourceName": "FASNIA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FASNIA:2026-02-17"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FASNIA:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "38013",
+      "name": "Frontera",
+      "method": "normalized-name",
+      "sourceName": "LA FRONTERA",
+      "island": "El Hierro",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA FRONTERA:2026-02-17"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA FRONTERA:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "38014",
+      "name": "Fuencaliente de la Palma",
+      "method": "normalized-name",
+      "sourceName": "FUENCALIENTE DE LA PALMA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FUENCALIENTE DE LA PALMA:2026-02-17"
+        },
+        {
+          "date": "2026-02-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:FUENCALIENTE DE LA PALMA:2026-02-19"
+        }
+      ]
+    },
+    {
+      "ineCode": "38015",
+      "name": "Garachico",
+      "method": "normalized-name",
+      "sourceName": "GARACHICO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GARACHICO:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GARACHICO:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "38016",
+      "name": "Garafía",
+      "method": "normalized-name",
+      "sourceName": "GARAFÍA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GARAFÍA:2026-06-12"
+        },
+        {
+          "date": "2026-08-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GARAFÍA:2026-08-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "38017",
+      "name": "Granadilla de Abona",
+      "method": "normalized-name",
+      "sourceName": "GRANADILLA DE ABONA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GRANADILLA DE ABONA:2026-02-17"
+        },
+        {
+          "date": "2026-06-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GRANADILLA DE ABONA:2026-06-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "38018",
+      "name": "Guancha, La",
+      "method": "normalized-name",
+      "sourceName": "LA GUANCHA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA GUANCHA:2026-02-17"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA GUANCHA:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "38019",
+      "name": "Guía de Isora",
+      "method": "normalized-name",
+      "sourceName": "GUÍA DE ISORA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GUÍA DE ISORA:2026-06-24"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GUÍA DE ISORA:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "38020",
+      "name": "Güímar",
+      "method": "normalized-name",
+      "sourceName": "GÜÍMAR",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GÜÍMAR:2026-06-29"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:GÜÍMAR:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "38021",
+      "name": "Hermigua",
+      "method": "normalized-name",
+      "sourceName": "HERMIGUA",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-08-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:HERMIGUA:2026-08-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:HERMIGUA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38022",
+      "name": "Icod de los Vinos",
+      "method": "normalized-name",
+      "sourceName": "ICOD DE LOS VINOS",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ICOD DE LOS VINOS:2026-02-17"
+        },
+        {
+          "date": "2026-04-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:ICOD DE LOS VINOS:2026-04-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "38023",
+      "name": "San Cristóbal de La Laguna",
+      "method": "normalized-name",
+      "sourceName": "SAN CRISTÓBAL DE LA LAGUNA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN CRISTÓBAL DE LA LAGUNA:2026-02-17"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN CRISTÓBAL DE LA LAGUNA:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "38024",
+      "name": "Llanos de Aridane, Los",
+      "method": "normalized-name",
+      "sourceName": "LOS LLANOS DE ARIDANE",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS LLANOS DE ARIDANE:2026-02-17"
+        },
+        {
+          "date": "2026-07-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS LLANOS DE ARIDANE:2026-07-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "38025",
+      "name": "Matanza de Acentejo, La",
+      "method": "normalized-name",
+      "sourceName": "LA MATANZA DE ACENTEJO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA MATANZA DE ACENTEJO:2026-02-17"
+        },
+        {
+          "date": "2026-08-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA MATANZA DE ACENTEJO:2026-08-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "38026",
+      "name": "Orotava, La",
+      "method": "normalized-name",
+      "sourceName": "LA OROTA V A",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA OROTA V A:2026-02-17"
+        },
+        {
+          "date": "2026-06-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA OROTA V A:2026-06-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "38027",
+      "name": "Paso, El",
+      "method": "normalized-name",
+      "sourceName": "EL PASO",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL PASO:2026-02-17"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL PASO:2026-09-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "38028",
+      "name": "Puerto de la Cruz",
+      "method": "normalized-name",
+      "sourceName": "PUERTO DE LA CRUZ",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-07-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUERTO DE LA CRUZ:2026-07-13"
+        },
+        {
+          "date": "2026-07-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUERTO DE LA CRUZ:2026-07-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "38029",
+      "name": "Puntagorda",
+      "method": "normalized-name",
+      "sourceName": "PUNTAGORDA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-01-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUNTAGORDA:2026-01-15"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUNTAGORDA:2026-02-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "38030",
+      "name": "Puntallana",
+      "method": "normalized-name",
+      "sourceName": "PUNTALLANA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUNTALLANA:2026-02-17"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:PUNTALLANA:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "38031",
+      "name": "Realejos, Los",
+      "method": "normalized-name",
+      "sourceName": "LOS REALEJOS",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS REALEJOS:2026-01-22"
+        },
+        {
+          "date": "2026-06-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS REALEJOS:2026-06-01"
+        }
+      ]
+    },
+    {
+      "ineCode": "38032",
+      "name": "Rosario, El",
+      "method": "normalized-name",
+      "sourceName": "EL ROSARIO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL ROSARIO:2026-02-17"
+        },
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL ROSARIO:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "38033",
+      "name": "San Andrés y Sauces",
+      "method": "normalized-name",
+      "sourceName": "SAN ANDRÉS Y SAUCES",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN ANDRÉS Y SAUCES:2026-04-27"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN ANDRÉS Y SAUCES:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "38034",
+      "name": "San Juan de la Rambla",
+      "method": "normalized-name",
+      "sourceName": "SAN JUAN DE LA RAMBLA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN JUAN DE LA RAMBLA:2026-06-24"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN JUAN DE LA RAMBLA:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "38035",
+      "name": "San Miguel de Abona",
+      "method": "normalized-name",
+      "sourceName": "SAN MIGUEL DE ABONA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN MIGUEL DE ABONA:2026-02-17"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN MIGUEL DE ABONA:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "38036",
+      "name": "San Sebastián de la Gomera",
+      "method": "normalized-name",
+      "sourceName": "SAN SEBASTIÁN DE LA GOMERA",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN SEBASTIÁN DE LA GOMERA:2026-01-20"
+        },
+        {
+          "date": "2026-02-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SAN SEBASTIÁN DE LA GOMERA:2026-02-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "38037",
+      "name": "Santa Cruz de la Palma",
+      "method": "normalized-name",
+      "sourceName": "SANTA CRUZ DE LA PALMA",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA CRUZ DE LA PALMA:2026-02-17"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA CRUZ DE LA PALMA:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "38038",
+      "name": "Santa Cruz de Tenerife",
+      "method": "normalized-name",
+      "sourceName": "SANTA CRUZ DE TENERIFE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA CRUZ DE TENERIFE:2026-02-17"
+        },
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA CRUZ DE TENERIFE:2026-05-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "38039",
+      "name": "Santa Úrsula",
+      "method": "normalized-name",
+      "sourceName": "SANTA ÚRSULA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA ÚRSULA:2026-02-17"
+        },
+        {
+          "date": "2026-10-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTA ÚRSULA:2026-10-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "38040",
+      "name": "Santiago del Teide",
+      "method": "normalized-name",
+      "sourceName": "SANTIAGO DEL TEIDE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTIAGO DEL TEIDE:2026-05-15"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:SANTIAGO DEL TEIDE:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "38041",
+      "name": "Sauzal, El",
+      "method": "normalized-name",
+      "sourceName": "EL SAUZAL",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL SAUZAL:2026-02-17"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL SAUZAL:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "38042",
+      "name": "Silos, Los",
+      "method": "normalized-name",
+      "sourceName": "LOS SILOS",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS SILOS:2026-06-24"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LOS SILOS:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38043",
+      "name": "Tacoronte",
+      "method": "normalized-name",
+      "sourceName": "TACORONTE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TACORONTE:2026-02-17"
+        },
+        {
+          "date": "2026-11-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TACORONTE:2026-11-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "38044",
+      "name": "Tanque, El",
+      "method": "normalized-name",
+      "sourceName": "EL TANQUE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL TANQUE:2026-08-31"
+        },
+        {
+          "date": "2026-10-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL TANQUE:2026-10-19"
+        }
+      ]
+    },
+    {
+      "ineCode": "38045",
+      "name": "Tazacorte",
+      "method": "normalized-name",
+      "sourceName": "TAZACORTE",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TAZACORTE:2026-07-16"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TAZACORTE:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "38046",
+      "name": "Tegueste",
+      "method": "normalized-name",
+      "sourceName": "TEGUESTE",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-04-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEGUESTE:2026-04-25"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TEGUESTE:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38047",
+      "name": "Tijarafe",
+      "method": "normalized-name",
+      "sourceName": "TIJARAFE",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TIJARAFE:2026-02-02"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:TIJARAFE:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "38048",
+      "name": "Valverde",
+      "method": "normalized-name",
+      "sourceName": "V ALVERDE",
+      "island": "El Hierro",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALVERDE:2026-05-15"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALVERDE:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "38049",
+      "name": "Valle Gran Rey",
+      "method": "normalized-name",
+      "sourceName": "V ALLE GRAN REY",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-01-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLE GRAN REY:2026-01-07"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLE GRAN REY:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "38050",
+      "name": "Vallehermoso",
+      "method": "normalized-name",
+      "sourceName": "V ALLEHERMOSO",
+      "island": "La Gomera",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLEHERMOSO:2026-06-24"
+        },
+        {
+          "date": "2026-07-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:V ALLEHERMOSO:2026-07-23"
+        }
+      ]
+    },
+    {
+      "ineCode": "38051",
+      "name": "Victoria de Acentejo, La",
+      "method": "normalized-name",
+      "sourceName": "LA VICTORIA DE ACENTEJO",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA VICTORIA DE ACENTEJO:2026-02-17"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:LA VICTORIA DE ACENTEJO:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "38052",
+      "name": "Vilaflor de Chasna",
+      "method": "normalized-name",
+      "sourceName": "VILAFLOR DE CHASNA",
+      "island": "Tenerife",
+      "holidays": [
+        {
+          "date": "2026-04-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VILAFLOR DE CHASNA:2026-04-24"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VILAFLOR DE CHASNA:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "38053",
+      "name": "Villa de Mazo",
+      "method": "normalized-name",
+      "sourceName": "VILLA DE MAZO",
+      "island": "La Palma",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VILLA DE MAZO:2026-02-03"
+        },
+        {
+          "date": "2026-06-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:VILLA DE MAZO:2026-06-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "38901",
+      "name": "Pinar de El Hierro, El",
+      "method": "normalized-name",
+      "sourceName": "EL PINAR DE EL HIERRO",
+      "island": "El Hierro",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL PINAR DE EL HIERRO:2026-06-24"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc3029:EL PINAR DE EL HIERRO:2026-07-16"
+        }
+      ]
+    }
+  ],
+  "omissions": []
+}

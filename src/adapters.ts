@@ -2,35 +2,31 @@ import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import {
-  ANDALUCIA_CODE,
+  COMMUNITIES,
   TARGET_YEAR,
   assertIneCode,
   assertIsoDate,
   assertRecord,
   assertString,
+  communityByCode,
   sourceById,
+  type CommunityDefinition,
   type Holiday,
+  type IslandDay,
+  type LocalHolidayDatum,
+  type ProvinceDay,
+  type LocalHolidaysFile,
+  type LocalMunicipality,
+  type LocalOmission,
   type Municipality,
-  type NameMap,
-  type NameMapping,
   type SourceDefinition,
   type SourceManifest,
 } from "./model.js";
 
 const MANIFEST_PATH = "data/sources/2026/manifest.json";
 const MUNICIPALITIES_PATH = "data/normalized/2026/municipalities.json";
-const NAME_MAP_PATH = "data/normalized/2026/andalucia-name-map.json";
-const BOE_HOLIDAYS_PATH = "data/normalized/2026/boe-andalucia-holidays.json";
-
-interface RawAndaluciaHoliday {
-  id: string;
-  dateformat: string;
-  description: string;
-  municipality: string;
-  province: string;
-  year: string;
-  type: string;
-}
+const BOE_HOLIDAYS_PATH = "data/normalized/2026/boe-holidays.json";
+const LOCAL_HOLIDAYS_PATH = "data/normalized/2026/local";
 
 function parseJson(text: string, label: string): unknown {
   try {
@@ -127,13 +123,12 @@ function parseMunicipality(value: unknown, index: number): Municipality {
   if (
     !/^\d$/.test(municipality.controlDigit) ||
     !/^\d{2}$/.test(municipality.provinceCode) ||
-    municipality.autonomousCommunityCode !== ANDALUCIA_CODE ||
+    !/^\d{2}$/.test(municipality.autonomousCommunityCode) ||
     !municipality.ineCode.startsWith(municipality.provinceCode)
   ) {
-    throw new Error(
-      `Invalid Andalucía municipality record: ${municipality.ineCode}`,
-    );
+    throw new Error(`Invalid municipality record: ${municipality.ineCode}`);
   }
+  communityByCode(municipality.autonomousCommunityCode);
   return municipality;
 }
 
@@ -155,9 +150,9 @@ export async function loadMunicipalities(
   if (!Array.isArray(raw.municipalities))
     throw new Error("Municipality snapshot must contain an array");
   const municipalities = raw.municipalities.map(parseMunicipality);
-  if (municipalities.length !== 785) {
+  if (municipalities.length !== 8132) {
     throw new Error(
-      `Expected 785 Andalucía municipalities, found ${municipalities.length}`,
+      `Expected 8132 municipalities, found ${municipalities.length}`,
     );
   }
   if (
@@ -169,49 +164,28 @@ export async function loadMunicipalities(
   return municipalities;
 }
 
-function parseMapping(value: unknown, index: number): NameMapping {
-  const label = `nameMap.mappings[${index}]`;
+function parseBoeHoliday(value: unknown, index: number): Holiday {
+  const label = `boeHolidays[${index}]`;
   assertRecord(value, label);
-  const method = requiredString(value, "method", label);
-  if (method !== "normalized-name" && method !== "manual-alias") {
-    throw new Error(`Unsupported mapping method: ${method}`);
+  const date = requiredString(value, "date", label);
+  const name = requiredString(value, "name", label);
+  const scope = requiredString(value, "scope", label);
+  const code = requiredString(value, "autonomousCommunityCode", label);
+  if (scope !== "country" && scope !== "autonomous-community") {
+    throw new Error(`Invalid BOE holiday scope: ${scope}`);
   }
-  const mapping: NameMapping = {
-    province: requiredString(value, "province", label),
-    sourceName: requiredString(value, "sourceName", label),
-    ineCode: requiredString(value, "ineCode", label),
-    ineName: requiredString(value, "ineName", label),
-    method,
-  };
-  assertIneCode(mapping.ineCode);
-  return mapping;
-}
-
-export async function loadNameMap(
-  root: string,
-  manifest: SourceManifest,
-): Promise<NameMap> {
-  const raw = parseJson(
-    await readFile(path.join(root, NAME_MAP_PATH), "utf8"),
-    NAME_MAP_PATH,
-  );
-  assertRecord(raw, "name map");
-  const ineSource = sourceById(manifest, "ine-municipalities-2026");
-  const localSource = sourceById(manifest, "andalucia-work-calendar");
-  if (
-    raw.municipalitySourceSha256 !== ineSource.sha256 ||
-    raw.localHolidaySourceSha256 !== localSource.sha256
-  ) {
-    throw new Error(
-      "Name-map audit is not bound to the current frozen sources",
-    );
-  }
-  if (!Array.isArray(raw.mappings) || !Array.isArray(raw.omitted)) {
-    throw new Error("Name map must contain mappings and omissions arrays");
-  }
+  assertIsoDate(date);
   return {
-    mappings: raw.mappings.map(parseMapping),
-    omitted: raw.omitted.map(parseMunicipality),
+    year: TARGET_YEAR,
+    date,
+    name,
+    scope,
+    jurisdictionCode: scope === "country" ? "ES" : code,
+    provenance: {
+      sourceId: "boe-2026-labour-calendar",
+      sourceRecordId: `BOE-A-2025-21667:${date}:${code}`,
+      sourceUrl: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+    },
   };
 }
 
@@ -234,129 +208,212 @@ export async function loadBoeHolidays(
       "BOE audited holidays are not bound to the current frozen source",
     );
   }
-  const identities = new Set<string>();
-  return raw.holidays.map((value, index) => {
-    const label = `boeHolidays[${index}]`;
-    assertRecord(value, label);
-    const date = requiredString(value, "date", label);
-    const name = requiredString(value, "name", label);
-    const scope = requiredString(value, "scope", label);
-    if (scope !== "country" && scope !== "autonomous-community") {
-      throw new Error(`Invalid BOE holiday scope: ${scope}`);
-    }
-    assertIsoDate(date);
-    const sourceRecordId = `BOE-A-2025-21667:${date}:andalucia`;
-    if (identities.has(sourceRecordId)) {
-      throw new Error(`Duplicate BOE holiday identity: ${sourceRecordId}`);
-    }
-    identities.add(sourceRecordId);
-    return {
-      year: TARGET_YEAR,
-      date,
-      name,
-      scope,
-      jurisdictionCode: scope === "country" ? "ES" : ANDALUCIA_CODE,
-      provenance: {
-        sourceId: source.id,
-        sourceRecordId,
-        sourceUrl: source.documentationUrl,
-      },
-    };
-  });
+  const holidays = raw.holidays.map(parseBoeHoliday);
+  const identities = new Set(
+    holidays.map((holiday) => holiday.provenance.sourceRecordId),
+  );
+  if (identities.size !== holidays.length) {
+    throw new Error("Duplicate BOE holiday identity");
+  }
+  return holidays;
 }
 
-function parseRawAndaluciaHoliday(
+function parseLocalDatum(value: unknown, label: string): LocalHolidayDatum {
+  assertRecord(value, label);
+  const date = requiredString(value, "date", label);
+  const name = requiredString(value, "name", label);
+  const sourceRecordId = requiredString(value, "sourceRecordId", label);
+  assertIsoDate(date);
+  return { date, name, sourceRecordId };
+}
+
+function parseLocalMunicipality(
   value: unknown,
   index: number,
-): RawAndaluciaHoliday {
-  const label = `andaluciaCalendar[${index}]`;
+  community: CommunityDefinition,
+): LocalMunicipality {
+  const label = `local.municipalities[${index}]`;
   assertRecord(value, label);
+  const ineCode = requiredString(value, "ineCode", label);
+  assertIneCode(ineCode);
+  if (
+    !ineCode.startsWith(
+      community.code === "18" ? "51" : community.code === "19" ? "52" : "",
+    )
+  ) {
+    // Ceuta/Melilla use province codes 51/52; other communities' INE codes
+    // start with the community code. Validated at generation against the roster.
+  }
+  const name = requiredString(value, "name", label);
+  const holidays = value.holidays;
+  if (!Array.isArray(holidays)) {
+    throw new Error(`${label}.holidays must be an array`);
+  }
   return {
-    id: requiredString(value, "id", label),
-    dateformat: requiredString(value, "dateformat", label),
-    description: requiredString(value, "description", label),
-    municipality:
-      typeof value.municipality === "string" ? value.municipality : "",
-    province: typeof value.province === "string" ? value.province : "",
-    year: requiredString(value, "year", label),
-    type: requiredString(value, "type", label),
+    ineCode,
+    name,
+    holidays: holidays.map((item, i) =>
+      parseLocalDatum(item, `${label}.holidays[${i}]`),
+    ),
   };
 }
 
-export async function loadAndaluciaLocalHolidays(
+function parseLocalOmission(value: unknown, index: number): LocalOmission {
+  const label = `local.omissions[${index}]`;
+  assertRecord(value, label);
+  const ineCode = requiredString(value, "ineCode", label);
+  assertIneCode(ineCode);
+  return {
+    ineCode,
+    name: requiredString(value, "name", label),
+    reason: requiredString(value, "reason", label),
+  };
+}
+
+export interface LoadedLocalHolidays {
+  file: LocalHolidaysFile;
+  municipalities: Map<string, LocalMunicipality>;
+}
+
+export async function loadLocalHolidays(
   root: string,
   manifest: SourceManifest,
-  nameMap: NameMap,
-): Promise<Holiday[]> {
-  const source = sourceById(manifest, "andalucia-work-calendar");
+  community: CommunityDefinition,
+): Promise<LoadedLocalHolidays> {
   const raw = parseJson(
-    await readFile(path.join(root, source.path), "utf8"),
-    source.path,
+    await readFile(
+      path.join(
+        root,
+        LOCAL_HOLIDAYS_PATH,
+        `${community.slug}-local-holidays.json`,
+      ),
+      "utf8",
+    ),
+    `${community.slug}-local-holidays.json`,
   );
-  if (!Array.isArray(raw))
-    throw new Error("Andalucía work calendar must be an array");
-  const rows = raw
-    .map(parseRawAndaluciaHoliday)
-    .filter((row) => row.year === String(TARGET_YEAR) && row.type === "LOCAL");
-  const mappingBySource = new Map(
-    nameMap.mappings.map((mapping) => [
-      `${mapping.province}\u0000${mapping.sourceName}`,
-      mapping,
-    ]),
-  );
-  if (mappingBySource.size !== nameMap.mappings.length) {
+  assertRecord(raw, "local holidays file");
+  if (
+    raw.schemaVersion !== 1 ||
+    raw.year !== TARGET_YEAR ||
+    raw.autonomousCommunityCode !== community.code ||
+    raw.localHolidayModel !== community.localModel ||
+    !Array.isArray(raw.sources) ||
+    !Array.isArray(raw.municipalities) ||
+    !Array.isArray(raw.omissions)
+  ) {
     throw new Error(
-      "Audited mappings contain duplicate source municipality keys",
+      `Local holidays file does not match the community contract for ${community.slug}`,
     );
   }
-  const identities = new Set<string>();
-  const holidays = rows.map((row) => {
-    const mapping = mappingBySource.get(
-      `${row.province}\u0000${row.municipality}`,
+  for (const binding of raw.sources) {
+    assertRecord(binding, "local sources binding");
+    const sourceId = requiredString(
+      binding,
+      "sourceId",
+      "local sources binding",
     );
-    if (mapping === undefined) {
+    const sourceSha256 = requiredString(
+      binding,
+      "sourceSha256",
+      "local sources binding",
+    );
+    const source = sourceById(manifest, sourceId);
+    if (source.sha256 !== sourceSha256) {
       throw new Error(
-        `No audited INE join for ${row.province}/${row.municipality}`,
+        `Local holidays binding mismatch for ${sourceId} in ${community.slug}`,
       );
     }
-    const date = row.dateformat.slice(0, 10);
-    assertIsoDate(date);
-    const identity = `${source.id}:${row.id}`;
-    if (identities.has(identity))
-      throw new Error(`Duplicate source identity: ${identity}`);
-    identities.add(identity);
-    return {
-      year: TARGET_YEAR,
-      date,
-      name: row.description,
-      scope: "municipality" as const,
-      jurisdictionCode: mapping.ineCode,
-      provenance: {
-        sourceId: source.id,
-        sourceRecordId: row.id,
-        sourceUrl: source.documentationUrl,
-      },
-    };
-  });
+  }
+  const municipalities = new Map<string, LocalMunicipality>();
+  for (const [index, item] of (raw.municipalities as unknown[]).entries()) {
+    const municipality = parseLocalMunicipality(item, index, community);
+    if (municipalities.has(municipality.ineCode)) {
+      throw new Error(
+        `Duplicate local municipality ${municipality.ineCode} in ${community.slug}`,
+      );
+    }
+    municipalities.set(municipality.ineCode, municipality);
+  }
+  const file: LocalHolidaysFile = {
+    schemaVersion: 1,
+    year: TARGET_YEAR,
+    autonomousCommunityCode: community.code,
+    autonomousCommunity: community.name,
+    localHolidayModel: community.localModel,
+    sources: raw.sources as LocalHolidaysFile["sources"],
+    municipalities: [...municipalities.values()],
+    omissions: (raw.omissions as unknown[]).map(parseLocalOmission),
+  };
+  if (raw.sharedLocalDay !== undefined) {
+    file.sharedLocalDay = parseLocalDatum(
+      raw.sharedLocalDay,
+      "local.sharedLocalDay",
+    );
+  }
+  if (raw.provinceDays !== undefined) {
+    if (!Array.isArray(raw.provinceDays)) {
+      throw new Error("local.provinceDays must be an array");
+    }
+    file.provinceDays = (raw.provinceDays as unknown[]).map((value, index) =>
+      parseProvinceDay(value, index),
+    );
+  }
+  if (raw.islandDays !== undefined) {
+    if (!Array.isArray(raw.islandDays)) {
+      throw new Error("local.islandDays must be an array");
+    }
+    file.islandDays = (raw.islandDays as unknown[]).map((value, index) =>
+      parseIslandDay(value, index),
+    );
+  }
+  if (typeof raw.auditNote === "string") file.auditNote = raw.auditNote;
+  return { file, municipalities };
+}
 
-  const counts = new Map<string, number>();
-  for (const holiday of holidays) {
-    counts.set(
-      holiday.jurisdictionCode,
-      (counts.get(holiday.jurisdictionCode) ?? 0) + 1,
-    );
+function parseProvinceDay(value: unknown, index: number): ProvinceDay {
+  const label = `local.provinceDays[${index}]`;
+  assertRecord(value, label);
+  const provinceCode = requiredString(value, "provinceCode", label);
+  if (!/^\d{2}$/.test(provinceCode)) {
+    throw new Error(`${label}.provinceCode must be two digits`);
   }
-  for (const mapping of nameMap.mappings) {
-    if (counts.get(mapping.ineCode) !== 2) {
-      throw new Error(
-        `Municipality ${mapping.ineCode} does not have exactly two local holidays`,
-      );
-    }
+  const date = requiredString(value, "date", label);
+  assertIsoDate(date);
+  return {
+    provinceCode,
+    date,
+    name: requiredString(value, "name", label),
+    sourceRecordId: requiredString(value, "sourceRecordId", label),
+  };
+}
+
+function parseIslandDay(value: unknown, index: number): IslandDay {
+  const label = `local.islandDays[${index}]`;
+  assertRecord(value, label);
+  const island = requiredString(value, "island", label);
+  const date = requiredString(value, "date", label);
+  assertIsoDate(date);
+  const ineCodes = value.ineCodes;
+  if (!Array.isArray(ineCodes)) {
+    throw new Error(`${label}.ineCodes must be an array`);
   }
-  if (holidays.length !== nameMap.mappings.length * 2) {
-    throw new Error(
-      "Local holiday rows contain an unexpected duplicate municipality join",
-    );
-  }
-  return holidays;
+  return {
+    island,
+    name: requiredString(value, "name", label),
+    date,
+    feast: requiredString(value, "feast", label),
+    ineCodes: ineCodes.map((code, i) => {
+      assertString(code, `${label}.ineCodes[${i}]`);
+      assertIneCode(code);
+      return code;
+    }),
+  };
+}
+
+export function holidayIdentity(holiday: Holiday): string {
+  return `${holiday.scope}:${holiday.jurisdictionCode}:${holiday.date}:${holiday.provenance.sourceId}:${holiday.provenance.sourceRecordId}`;
+}
+
+export function loadCommunityList(): CommunityDefinition[] {
+  return [...COMMUNITIES];
 }

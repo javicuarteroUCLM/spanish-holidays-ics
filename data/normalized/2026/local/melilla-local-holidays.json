@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "19",
+  "autonomousCommunity": "Melilla",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "bome-2025-1033",
+      "sourceSha256": "f3302a020be67de6f4ee1c456a2fa99aef750366b8dc556797e84251151b2596"
+    }
+  ],
+  "auditNote": "Local pair from the Consejo de Gobierno accord (BOME 6.315, art. 1033); Eid dates are lunar and may be corrected after publication (re-check on refresh).",
+  "municipalities": [
+    {
+      "ineCode": "52001",
+      "name": "Melilla",
+      "method": "native-code",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Día de Nuestra Señora la Virgen de la Victoria",
+          "sourceRecordId": "bome-2025-1033:2026-09-08"
+        },
+        {
+          "date": "2026-09-17",
+          "name": "Día de Melilla",
+          "sourceRecordId": "bome-2025-1033:2026-09-17"
+        }
+      ]
+    }
+  ],
+  "omissions": []
+}

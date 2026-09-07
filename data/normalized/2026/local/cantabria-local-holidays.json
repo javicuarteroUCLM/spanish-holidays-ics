@@ -1,0 +1,1853 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "06",
+  "autonomousCommunity": "Cantabria",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "boc-238-2025",
+      "sourceSha256": "f3ae91e033cdcae5d7703e38d747897eb12aefa56fa9ae474e3a9ae0a526aaa0"
+    }
+  ],
+  "auditNote": "Longest-roster-prefix name recovery; abbreviated gazette names resolved by explicit aliases.",
+  "municipalities": [
+    {
+      "ineCode": "39001",
+      "name": "Alfoz de Lloredo",
+      "method": "normalized-name",
+      "sourceName": "ALFOZ DE LLOREDO ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ALFOZ DE LLOREDO :2026-05-15"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ALFOZ DE LLOREDO :2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "39002",
+      "name": "Ampuero",
+      "method": "normalized-name",
+      "sourceName": "AMPUERO",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:AMPUERO:2026-09-08"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:AMPUERO:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "39003",
+      "name": "Anievas",
+      "method": "normalized-name",
+      "sourceName": "ANIEVAS -",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ANIEVAS -:2026-07-27"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ANIEVAS -:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39004",
+      "name": "Arenas de Iguña",
+      "method": "manual-alias",
+      "sourceName": "ARENAS IGUÑA",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARENAS IGUÑA:2026-07-16"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARENAS IGUÑA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39005",
+      "name": "Argoños",
+      "method": "normalized-name",
+      "sourceName": "ARGOÑOS",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARGOÑOS:2026-08-03"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARGOÑOS:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39006",
+      "name": "Arnuero",
+      "method": "normalized-name",
+      "sourceName": "ARNUERO",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARNUERO:2026-04-06"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARNUERO:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39007",
+      "name": "Arredondo",
+      "method": "normalized-name",
+      "sourceName": "ARREDONDO",
+      "holidays": [
+        {
+          "date": "2026-06-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARREDONDO:2026-06-01"
+        },
+        {
+          "date": "2026-06-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ARREDONDO:2026-06-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "39008",
+      "name": "Astillero, El",
+      "method": "normalized-name",
+      "sourceName": "ASTILLERO, EL",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ASTILLERO, EL:2026-03-19"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ASTILLERO, EL:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39009",
+      "name": "Bárcena de Cicero",
+      "method": "normalized-name",
+      "sourceName": "BARCENA DE CICERO",
+      "holidays": [
+        {
+          "date": "2026-06-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BARCENA DE CICERO:2026-06-26"
+        },
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BARCENA DE CICERO:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "39010",
+      "name": "Bárcena de Pie de Concha",
+      "method": "normalized-name",
+      "sourceName": "BARCENA DE PIE DE CONCHA",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BARCENA DE PIE DE CONCHA:2026-06-29"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BARCENA DE PIE DE CONCHA:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "39011",
+      "name": "Bareyo",
+      "method": "normalized-name",
+      "sourceName": "BAREYO",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BAREYO:2026-07-16"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:BAREYO:2026-09-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "39012",
+      "name": "Cabezón de la Sal",
+      "method": "normalized-name",
+      "sourceName": "CABEZÓN DE LA SAL",
+      "holidays": [
+        {
+          "date": "2026-08-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABEZÓN DE LA SAL:2026-08-13"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABEZÓN DE LA SAL:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "39013",
+      "name": "Cabezón de Liébana",
+      "method": "normalized-name",
+      "sourceName": "CABEZÓN DE LIÉBANA  -",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABEZÓN DE LIÉBANA  -:2026-09-08"
+        },
+        {
+          "date": "2026-11-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABEZÓN DE LIÉBANA  -:2026-11-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "39014",
+      "name": "Cabuérniga",
+      "method": "normalized-name",
+      "sourceName": "CABUERNIGA",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABUERNIGA:2026-07-16"
+        },
+        {
+          "date": "2026-10-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CABUERNIGA:2026-10-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "39015",
+      "name": "Camaleño",
+      "method": "normalized-name",
+      "sourceName": "CAMALEÑO",
+      "holidays": [
+        {
+          "date": "2026-07-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMALEÑO:2026-07-02"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMALEÑO:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "39016",
+      "name": "Camargo",
+      "method": "normalized-name",
+      "sourceName": "CAMARGO",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMARGO:2026-06-24"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMARGO:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39017",
+      "name": "Campoo de Yuso",
+      "method": "normalized-name",
+      "sourceName": "CAMPOO DE YUSO",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMPOO DE YUSO:2026-06-29"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMPOO DE YUSO:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39018",
+      "name": "Cartes",
+      "method": "normalized-name",
+      "sourceName": "CARTES -",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CARTES -:2026-08-17"
+        },
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CARTES -:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39019",
+      "name": "Castañeda",
+      "method": "normalized-name",
+      "sourceName": "CASTAÑEDA -",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CASTAÑEDA -:2026-05-04"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CASTAÑEDA -:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39020",
+      "name": "Castro-Urdiales",
+      "method": "manual-alias",
+      "sourceName": "CASTRO URDIALES",
+      "holidays": [
+        {
+          "date": "2026-06-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CASTRO URDIALES:2026-06-26"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CASTRO URDIALES:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "39021",
+      "name": "Cieza",
+      "method": "normalized-name",
+      "sourceName": "CIEZA",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CIEZA:2026-04-06"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CIEZA:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39022",
+      "name": "Cillorigo de Liébana",
+      "method": "normalized-name",
+      "sourceName": "CILLORIGO DE LIÉBANA",
+      "holidays": [
+        {
+          "date": "2026-11-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CILLORIGO DE LIÉBANA:2026-11-02"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CILLORIGO DE LIÉBANA:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "39023",
+      "name": "Colindres",
+      "method": "normalized-name",
+      "sourceName": "COLINDRES",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:COLINDRES:2026-06-24"
+        },
+        {
+          "date": "2026-08-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:COLINDRES:2026-08-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "39024",
+      "name": "Comillas",
+      "method": "normalized-name",
+      "sourceName": "COMILLAS -",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:COMILLAS -:2026-06-29"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:COMILLAS -:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39025",
+      "name": "Corrales de Buelna, Los",
+      "method": "normalized-name",
+      "sourceName": "CORRALES DE BUELNA, LOS",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CORRALES DE BUELNA, LOS:2026-06-24"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CORRALES DE BUELNA, LOS:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39026",
+      "name": "Corvera de Toranzo",
+      "method": "normalized-name",
+      "sourceName": "CORVERA DE TORANZO",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CORVERA DE TORANZO:2026-06-29"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CORVERA DE TORANZO:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "39027",
+      "name": "Campoo de Enmedio",
+      "method": "normalized-name",
+      "sourceName": "CAMPOO DE ENMEDIO -",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMPOO DE ENMEDIO -:2026-09-21"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:CAMPOO DE ENMEDIO -:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39028",
+      "name": "Entrambasaguas",
+      "method": "normalized-name",
+      "sourceName": "ENTRAMBASAGUAS",
+      "holidays": [
+        {
+          "date": "2026-09-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ENTRAMBASAGUAS:2026-09-01"
+        },
+        {
+          "date": "2026-10-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ENTRAMBASAGUAS:2026-10-19"
+        }
+      ]
+    },
+    {
+      "ineCode": "39029",
+      "name": "Escalante",
+      "method": "normalized-name",
+      "sourceName": "ESCALANTE ",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ESCALANTE :2026-08-24"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ESCALANTE :2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "39030",
+      "name": "Guriezo",
+      "method": "normalized-name",
+      "sourceName": "GURIEZO ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:GURIEZO :2026-05-15"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:GURIEZO :2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39031",
+      "name": "Hazas de Cesto",
+      "method": "normalized-name",
+      "sourceName": "HAZAS DE CESTO ",
+      "holidays": [
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HAZAS DE CESTO :2026-09-16"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HAZAS DE CESTO :2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "39032",
+      "name": "Hermandad de Campoo de Suso",
+      "method": "manual-alias",
+      "sourceName": "HDAD. CAMPOO DE SUSO",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HDAD. CAMPOO DE SUSO:2026-08-05"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HDAD. CAMPOO DE SUSO:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39033",
+      "name": "Herrerías",
+      "method": "normalized-name",
+      "sourceName": "HERRERÍAS  -",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HERRERÍAS  -:2026-08-10"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:HERRERÍAS  -:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "39034",
+      "name": "Lamasón",
+      "method": "normalized-name",
+      "sourceName": "LAMASÓN",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LAMASÓN:2026-08-24"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LAMASÓN:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39035",
+      "name": "Laredo",
+      "method": "normalized-name",
+      "sourceName": "LAREDO",
+      "holidays": [
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LAREDO:2026-08-28"
+        },
+        {
+          "date": "2026-09-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LAREDO:2026-09-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "39036",
+      "name": "Liendo",
+      "method": "normalized-name",
+      "sourceName": "LIENDO ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIENDO :2026-05-15"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIENDO :2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "39037",
+      "name": "Liérganes",
+      "method": "normalized-name",
+      "sourceName": "LIÉRGANES",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIÉRGANES:2026-07-27"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIÉRGANES:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "39038",
+      "name": "Limpias",
+      "method": "normalized-name",
+      "sourceName": "LIMPIAS",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIMPIAS:2026-05-15"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LIMPIAS:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39039",
+      "name": "Luena",
+      "method": "normalized-name",
+      "sourceName": "LUENA",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LUENA:2026-09-08"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:LUENA:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "39040",
+      "name": "Marina de Cudeyo",
+      "method": "normalized-name",
+      "sourceName": "MARINA DE CUDEYO",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MARINA DE CUDEYO:2026-05-15"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MARINA DE CUDEYO:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39041",
+      "name": "Mazcuerras",
+      "method": "normalized-name",
+      "sourceName": "MAZCUERRAS ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MAZCUERRAS :2026-05-15"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MAZCUERRAS :2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "39042",
+      "name": "Medio Cudeyo",
+      "method": "normalized-name",
+      "sourceName": "MEDIO CUDEYO",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MEDIO CUDEYO:2026-06-29"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MEDIO CUDEYO:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39043",
+      "name": "Meruelo",
+      "method": "normalized-name",
+      "sourceName": "MERUELO",
+      "holidays": [
+        {
+          "date": "2026-08-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MERUELO:2026-08-07"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MERUELO:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39044",
+      "name": "Miengo",
+      "method": "normalized-name",
+      "sourceName": "MIENGO ",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MIENGO :2026-08-24"
+        },
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MIENGO :2026-09-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "39045",
+      "name": "Miera",
+      "method": "normalized-name",
+      "sourceName": "MIERA",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MIERA:2026-09-21"
+        },
+        {
+          "date": "2026-11-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MIERA:2026-11-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "39046",
+      "name": "Molledo",
+      "method": "normalized-name",
+      "sourceName": "MOLLEDO",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MOLLEDO:2026-08-06"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:MOLLEDO:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39047",
+      "name": "Noja",
+      "method": "normalized-name",
+      "sourceName": "NOJA",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:NOJA:2026-06-29"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:NOJA:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "39048",
+      "name": "Penagos",
+      "method": "normalized-name",
+      "sourceName": "PENAGOS  -",
+      "holidays": [
+        {
+          "date": "2026-04-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PENAGOS  -:2026-04-23"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PENAGOS  -:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39049",
+      "name": "Peñarrubia",
+      "method": "normalized-name",
+      "sourceName": "PEÑARRUBIA -",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PEÑARRUBIA -:2026-08-14"
+        },
+        {
+          "date": "2026-11-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PEÑARRUBIA -:2026-11-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "39050",
+      "name": "Pesaguero",
+      "method": "normalized-name",
+      "sourceName": "PESAGÜERO  -",
+      "holidays": [
+        {
+          "date": "2026-11-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PESAGÜERO  -:2026-11-02"
+        },
+        {
+          "date": "2026-12-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PESAGÜERO  -:2026-12-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "39051",
+      "name": "Pesquera",
+      "method": "normalized-name",
+      "sourceName": "PESQUERA  -",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PESQUERA  -:2026-08-17"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PESQUERA  -:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39052",
+      "name": "Piélagos",
+      "method": "normalized-name",
+      "sourceName": "PIÉLAGOS",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PIÉLAGOS:2026-06-13"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PIÉLAGOS:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39053",
+      "name": "Polaciones",
+      "method": "normalized-name",
+      "sourceName": "POLACIONES",
+      "holidays": [
+        {
+          "date": "2026-08-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POLACIONES:2026-08-07"
+        },
+        {
+          "date": "2026-09-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POLACIONES:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "39054",
+      "name": "Polanco",
+      "method": "normalized-name",
+      "sourceName": "POLANCO",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POLANCO:2026-06-29"
+        },
+        {
+          "date": "2026-08-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POLANCO:2026-08-01"
+        }
+      ]
+    },
+    {
+      "ineCode": "39055",
+      "name": "Potes",
+      "method": "normalized-name",
+      "sourceName": "POTES",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POTES:2026-01-22"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:POTES:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "39056",
+      "name": "Puente Viesgo",
+      "method": "normalized-name",
+      "sourceName": "PUENTE VIESGO",
+      "holidays": [
+        {
+          "date": "2026-05-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PUENTE VIESGO:2026-05-22"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:PUENTE VIESGO:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "39057",
+      "name": "Ramales de la Victoria",
+      "method": "normalized-name",
+      "sourceName": "RAMALES DE LA VICTORIA",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RAMALES DE LA VICTORIA:2026-06-29"
+        },
+        {
+          "date": "2026-06-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RAMALES DE LA VICTORIA:2026-06-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "39058",
+      "name": "Rasines",
+      "method": "normalized-name",
+      "sourceName": "RASINES",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RASINES:2026-08-03"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RASINES:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "39059",
+      "name": "Reinosa",
+      "method": "normalized-name",
+      "sourceName": "REINOSA",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:REINOSA:2026-01-20"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:REINOSA:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "39060",
+      "name": "Reocín",
+      "method": "normalized-name",
+      "sourceName": "REOCÍN",
+      "holidays": [
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:REOCÍN:2026-09-16"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:REOCÍN:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39061",
+      "name": "Ribamontán al Mar",
+      "method": "normalized-name",
+      "sourceName": "RIBAMONTÁN AL MAR",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIBAMONTÁN AL MAR:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIBAMONTÁN AL MAR:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39062",
+      "name": "Ribamontán al Monte",
+      "method": "normalized-name",
+      "sourceName": "RIBAMONTÁN AL MONTE -",
+      "holidays": [
+        {
+          "date": "2026-07-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIBAMONTÁN AL MONTE -:2026-07-17"
+        },
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIBAMONTÁN AL MONTE -:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "39063",
+      "name": "Rionansa",
+      "method": "normalized-name",
+      "sourceName": "RIONANSA",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIONANSA:2026-09-29"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIONANSA:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39064",
+      "name": "Riotuerto",
+      "method": "normalized-name",
+      "sourceName": "RIOTUERTO",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIOTUERTO:2026-06-24"
+        },
+        {
+          "date": "2026-07-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RIOTUERTO:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "39065",
+      "name": "Rozas de Valdearroyo, Las",
+      "method": "manual-alias",
+      "sourceName": "ROZAS DE VALDEARROYO",
+      "holidays": [
+        {
+          "date": "2026-01-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ROZAS DE VALDEARROYO:2026-01-02"
+        },
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:ROZAS DE VALDEARROYO:2026-04-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "39066",
+      "name": "Ruente",
+      "method": "normalized-name",
+      "sourceName": "RUENTE",
+      "holidays": [
+        {
+          "date": "2026-07-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUENTE:2026-07-22"
+        },
+        {
+          "date": "2026-08-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUENTE:2026-08-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "39067",
+      "name": "Ruesga",
+      "method": "normalized-name",
+      "sourceName": "RUESGA",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUESGA:2026-07-27"
+        },
+        {
+          "date": "2026-09-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUESGA:2026-09-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "39068",
+      "name": "Ruiloba",
+      "method": "normalized-name",
+      "sourceName": "RUILOBA ",
+      "holidays": [
+        {
+          "date": "2026-07-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUILOBA :2026-07-02"
+        },
+        {
+          "date": "2026-09-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:RUILOBA :2026-09-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "39069",
+      "name": "San Felices de Buelna",
+      "method": "normalized-name",
+      "sourceName": "SAN FELICES DE BUELNA ",
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN FELICES DE BUELNA :2026-05-29"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN FELICES DE BUELNA :2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39070",
+      "name": "San Miguel de Aguayo",
+      "method": "normalized-name",
+      "sourceName": "SAN MIGUEL DE AGUAYO",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN MIGUEL DE AGUAYO:2026-06-12"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN MIGUEL DE AGUAYO:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39071",
+      "name": "San Pedro del Romeral",
+      "method": "normalized-name",
+      "sourceName": "SAN PEDRO DEL ROMERAL  -",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN PEDRO DEL ROMERAL  -:2026-06-29"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN PEDRO DEL ROMERAL  -:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "39072",
+      "name": "San Roque de Riomiera",
+      "method": "normalized-name",
+      "sourceName": "SAN ROQUE DE RIOMIERA",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN ROQUE DE RIOMIERA:2026-05-14"
+        },
+        {
+          "date": "2026-04-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN ROQUE DE RIOMIERA:2026-04-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "39073",
+      "name": "Santa Cruz de Bezana",
+      "method": "normalized-name",
+      "sourceName": "SANTA CRUZ DE BEZANA",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTA CRUZ DE BEZANA:2026-05-04"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTA CRUZ DE BEZANA:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "39074",
+      "name": "Santa María de Cayón",
+      "method": "normalized-name",
+      "sourceName": "SANTA MARÍA DE CAYÓN",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTA MARÍA DE CAYÓN:2026-08-03"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTA MARÍA DE CAYÓN:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "39075",
+      "name": "Santander",
+      "method": "normalized-name",
+      "sourceName": "SANTANDER",
+      "holidays": [
+        {
+          "date": "2026-05-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTANDER:2026-05-25"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTANDER:2026-07-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "39076",
+      "name": "Santillana del Mar",
+      "method": "normalized-name",
+      "sourceName": "SANTILLANA DEL MAR -",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTILLANA DEL MAR -:2026-06-29"
+        },
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTILLANA DEL MAR -:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39077",
+      "name": "Santiurde de Reinosa",
+      "method": "normalized-name",
+      "sourceName": "SANTIURDE DE REINOSA ",
+      "holidays": [
+        {
+          "date": "2026-04-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTIURDE DE REINOSA :2026-04-23"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTIURDE DE REINOSA :2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "39078",
+      "name": "Santiurde de Toranzo",
+      "method": "normalized-name",
+      "sourceName": "SANTIURDE DE TORANZO",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTIURDE DE TORANZO:2026-05-15"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTIURDE DE TORANZO:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39079",
+      "name": "Santoña",
+      "method": "normalized-name",
+      "sourceName": "SANTOÑA ",
+      "holidays": [
+        {
+          "date": "2026-02-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTOÑA :2026-02-13"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SANTOÑA :2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39080",
+      "name": "San Vicente de la Barquera",
+      "method": "normalized-name",
+      "sourceName": "SAN VICENTE DE LA BARQUERA",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN VICENTE DE LA BARQUERA:2026-01-22"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SAN VICENTE DE LA BARQUERA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39081",
+      "name": "Saro",
+      "method": "normalized-name",
+      "sourceName": "SARO",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SARO:2026-02-02"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SARO:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "39082",
+      "name": "Selaya",
+      "method": "normalized-name",
+      "sourceName": "SELAYA",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SELAYA:2026-06-24"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SELAYA:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "39083",
+      "name": "Soba",
+      "method": "normalized-name",
+      "sourceName": "SOBA",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SOBA:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SOBA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39084",
+      "name": "Solórzano",
+      "method": "normalized-name",
+      "sourceName": "SOLÓRZANO",
+      "holidays": [
+        {
+          "date": "2026-08-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SOLÓRZANO:2026-08-26"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SOLÓRZANO:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39085",
+      "name": "Suances",
+      "method": "normalized-name",
+      "sourceName": "SUANCES",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SUANCES:2026-05-15"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:SUANCES:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39086",
+      "name": "Tojos, Los",
+      "method": "normalized-name",
+      "sourceName": "TOJOS, LOS ",
+      "holidays": [
+        {
+          "date": "2026-08-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TOJOS, LOS :2026-08-21"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TOJOS, LOS :2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39087",
+      "name": "Torrelavega",
+      "method": "normalized-name",
+      "sourceName": "TORRELAVEGA",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TORRELAVEGA:2026-08-17"
+        },
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TORRELAVEGA:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39088",
+      "name": "Tresviso",
+      "method": "manual-alias",
+      "sourceName": "TRESVISO, LA VILLA DE",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TRESVISO, LA VILLA DE:2026-06-29"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TRESVISO, LA VILLA DE:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "39089",
+      "name": "Tudanca",
+      "method": "normalized-name",
+      "sourceName": "TUDANCA",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TUDANCA:2026-02-03"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:TUDANCA:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "39090",
+      "name": "Udías",
+      "method": "normalized-name",
+      "sourceName": "UDÍAS",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:UDÍAS:2026-08-03"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:UDÍAS:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "39091",
+      "name": "Valdáliga",
+      "method": "normalized-name",
+      "sourceName": "VALDÁLIGA ",
+      "holidays": [
+        {
+          "date": "2026-01-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDÁLIGA :2026-01-07"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDÁLIGA :2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "39092",
+      "name": "Valdeolea",
+      "method": "normalized-name",
+      "sourceName": "VALDEOLEA",
+      "holidays": [
+        {
+          "date": "2026-02-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDEOLEA:2026-02-12"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDEOLEA:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "39093",
+      "name": "Valdeprado del Río",
+      "method": "normalized-name",
+      "sourceName": "VALDEPRADO DEL RÍO ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDEPRADO DEL RÍO :2026-05-15"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDEPRADO DEL RÍO :2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "39094",
+      "name": "Valderredible",
+      "method": "normalized-name",
+      "sourceName": "VALDERREDIBLE ",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDERREDIBLE :2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALDERREDIBLE :2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39095",
+      "name": "Val de San Vicente",
+      "method": "normalized-name",
+      "sourceName": "VAL DE SAN VICENTE ",
+      "holidays": [
+        {
+          "date": "2026-08-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VAL DE SAN VICENTE :2026-08-01"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VAL DE SAN VICENTE :2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "39096",
+      "name": "Vega de Liébana",
+      "method": "normalized-name",
+      "sourceName": "VEGA DE LIÉBANA",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VEGA DE LIÉBANA:2026-04-06"
+        },
+        {
+          "date": "2026-11-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VEGA DE LIÉBANA:2026-11-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "39097",
+      "name": "Vega de Pas",
+      "method": "normalized-name",
+      "sourceName": "VEGA DE PAS ",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VEGA DE PAS :2026-05-14"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VEGA DE PAS :2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39098",
+      "name": "Villacarriedo",
+      "method": "normalized-name",
+      "sourceName": "VILLACARRIEDO",
+      "holidays": [
+        {
+          "date": "2026-06-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLACARRIEDO:2026-06-05"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLACARRIEDO:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "39099",
+      "name": "Villaescusa",
+      "method": "normalized-name",
+      "sourceName": "VILLAESCUSA",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLAESCUSA:2026-07-16"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLAESCUSA:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "39100",
+      "name": "Villafufre",
+      "method": "normalized-name",
+      "sourceName": "VILLAFUFRE ",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLAFUFRE :2026-06-12"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VILLAFUFRE :2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "39101",
+      "name": "Valle de Villaverde",
+      "method": "normalized-name",
+      "sourceName": "VALLE DE VILLAVERDE",
+      "holidays": [
+        {
+          "date": "2026-06-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALLE DE VILLAVERDE:2026-06-30"
+        },
+        {
+          "date": "2026-09-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VALLE DE VILLAVERDE:2026-09-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "39102",
+      "name": "Voto",
+      "method": "normalized-name",
+      "sourceName": "VOTO",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VOTO:2026-05-15"
+        },
+        {
+          "date": "2026-09-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "boc238:VOTO:2026-09-24"
+        }
+      ]
+    }
+  ],
+  "omissions": []
+}

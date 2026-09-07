@@ -1,0 +1,1290 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "04",
+  "autonomousCommunity": "Illes Balears",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "balears-calendari-laboral-2026",
+      "sourceSha256": "e7d241f27be9fc75e29a8ab3c545c53fb53c6d3aa62801b1fc1cbe9bd43fec5e"
+    }
+  ],
+  "auditNote": "Municipality-level pair selected per localitat block rules; nuclear/parròquia rows are not merged into the municipality pair.",
+  "municipalities": [
+    {
+      "ineCode": "07001",
+      "name": "Alaró",
+      "method": "normalized-name",
+      "sourceName": "Alaró",
+      "localitat": "Alaró",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Alaró:24 de juny"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Sant Pere",
+          "sourceRecordId": "Alaró:29 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07002",
+      "name": "Alaior",
+      "method": "normalized-name",
+      "sourceName": "Alaior",
+      "localitat": "Alaior",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "darrer dimarts de Carnaval",
+          "sourceRecordId": "Alaior:17 de febrer"
+        },
+        {
+          "date": "2026-04-30",
+          "name": "30 d'abril",
+          "sourceRecordId": "Alaior:30 d'abril"
+        }
+      ]
+    },
+    {
+      "ineCode": "07003",
+      "name": "Alcúdia",
+      "method": "normalized-name",
+      "sourceName": "Alcúdia",
+      "localitat": "Alcúdia",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Sant Pere",
+          "sourceRecordId": "Alcúdia:29 de juny"
+        },
+        {
+          "date": "2026-07-02",
+          "name": "Mare de Déu de la Victòria",
+          "sourceRecordId": "Alcúdia:2 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07004",
+      "name": "Algaida",
+      "method": "normalized-name",
+      "sourceName": "Algaida",
+      "localitat": "Algaida i Randa",
+      "holidays": [
+        {
+          "date": "2026-01-16",
+          "name": "Sant Honorat",
+          "sourceRecordId": "Algaida:16 de gener"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "Sant Jaume",
+          "sourceRecordId": "Algaida:25 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07005",
+      "name": "Andratx",
+      "method": "normalized-name",
+      "sourceName": "Andratx",
+      "localitat": "Andratx",
+      "holidays": [
+        {
+          "date": "2026-12-07",
+          "name": "7 de desembre",
+          "sourceRecordId": "Andratx:7 de desembre"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "29 de juny",
+          "sourceRecordId": "Andratx:29 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07006",
+      "name": "Artà",
+      "method": "normalized-name",
+      "sourceName": "Artà",
+      "localitat": "Artà",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Artà:17 de gener"
+        },
+        {
+          "date": "2026-08-06",
+          "name": "Sant Salvador",
+          "sourceRecordId": "Artà:6 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07007",
+      "name": "Banyalbufar",
+      "method": "normalized-name",
+      "sourceName": "Banyalbufar",
+      "localitat": "Banyalbufar",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "8 de setembre",
+          "sourceRecordId": "Banyalbufar:8 de setembre"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "7 de desembre",
+          "sourceRecordId": "Banyalbufar:7 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07008",
+      "name": "Binissalem",
+      "method": "normalized-name",
+      "sourceName": "Binissalem",
+      "localitat": "Binissalem",
+      "holidays": [
+        {
+          "date": "2026-07-24",
+          "name": "Divendres previ a Sant Jaume",
+          "sourceRecordId": "Binissalem:24 de juliol"
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Divendres de Sa Vermada",
+          "sourceRecordId": "Binissalem:25 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07009",
+      "name": "Búger",
+      "method": "normalized-name",
+      "sourceName": "Búger",
+      "localitat": "Búger",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Sant Pere",
+          "sourceRecordId": "Búger:29 de juny"
+        },
+        {
+          "date": "2026-06-30",
+          "name": "Sant Marçal",
+          "sourceRecordId": "Búger:30 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07010",
+      "name": "Bunyola",
+      "method": "normalized-name",
+      "sourceName": "Bunyola",
+      "localitat": "Bunyola",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Sant Mateu",
+          "sourceRecordId": "Bunyola:21 de setembre"
+        },
+        {
+          "date": "2026-11-25",
+          "name": "Santa Catalina",
+          "sourceRecordId": "Bunyola:25 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07011",
+      "name": "Calvià",
+      "method": "normalized-name",
+      "sourceName": "Calvià",
+      "localitat": "Calvià",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Calvià:24 de juny"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Verge del Carme",
+          "sourceRecordId": "Calvià:16 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07012",
+      "name": "Campanet",
+      "method": "normalized-name",
+      "sourceName": "Campanet",
+      "localitat": "Campanet",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "7 d'abril",
+          "sourceRecordId": "Campanet:7 d'abril"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Sant Miquel",
+          "sourceRecordId": "Campanet:29 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07013",
+      "name": "Campos",
+      "method": "normalized-name",
+      "sourceName": "Campos",
+      "localitat": "Campos",
+      "holidays": [
+        {
+          "date": "2026-01-09",
+          "name": "Sant Julià i Santa Basilissa",
+          "sourceRecordId": "Campos:9 de gener"
+        },
+        {
+          "date": "2026-10-22",
+          "name": "Sa Fira",
+          "sourceRecordId": "Campos:22 d'octubre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07014",
+      "name": "Capdepera",
+      "method": "normalized-name",
+      "sourceName": "Capdepera",
+      "localitat": "Capdepera",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Mare de Déu del Carme",
+          "sourceRecordId": "Capdepera:16 de juliol"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Capdepera:24 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07015",
+      "name": "Ciutadella de Menorca",
+      "method": "manual-alias",
+      "sourceName": "Ciutadella",
+      "localitat": "Ciutadella",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Ciutadella:17 de gener"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Ciutadella:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07016",
+      "name": "Consell",
+      "method": "normalized-name",
+      "sourceName": "Consell",
+      "localitat": "Consell",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "24 d'agost",
+          "sourceRecordId": "Consell:24 d'agost"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "7 de desembre",
+          "sourceRecordId": "Consell:7 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07017",
+      "name": "Costitx",
+      "method": "normalized-name",
+      "sourceName": "Costitx",
+      "localitat": "Costitx",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Sant Sebastià",
+          "sourceRecordId": "Costitx:20 de gener"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "La Mare de Déu",
+          "sourceRecordId": "Costitx:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07018",
+      "name": "Deià",
+      "method": "normalized-name",
+      "sourceName": "Deià",
+      "localitat": "Deià",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Sant Sebastià",
+          "sourceRecordId": "Deià:20 de gener"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Deià:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07019",
+      "name": "Escorca",
+      "method": "normalized-name",
+      "sourceName": "Escorca",
+      "localitat": "Escorca",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Sant Pere",
+          "sourceRecordId": "Escorca:29 de juny"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "Sant Llorenç",
+          "sourceRecordId": "Escorca:10 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07020",
+      "name": "Esporles",
+      "method": "normalized-name",
+      "sourceName": "Esporles",
+      "localitat": "Esporles",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "29 de juny",
+          "sourceRecordId": "Esporles:29 de juny"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "7 de desembre",
+          "sourceRecordId": "Esporles:7 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07021",
+      "name": "Estellencs",
+      "method": "normalized-name",
+      "sourceName": "Estellencs",
+      "localitat": "Estellencs",
+      "holidays": [
+        {
+          "date": "2026-02-27",
+          "name": "27 de febrer",
+          "sourceRecordId": "Estellencs:27 de febrer"
+        },
+        {
+          "date": "2026-08-29",
+          "name": "29 d'agost",
+          "sourceRecordId": "Estellencs:29 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07022",
+      "name": "Felanitx",
+      "method": "normalized-name",
+      "sourceName": "Felanitx",
+      "localitat": "Felanitx",
+      "holidays": [
+        {
+          "date": "2026-07-20",
+          "name": "Santa Margalida",
+          "sourceRecordId": "Felanitx:20 de juliol"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Sant Agustí",
+          "sourceRecordId": "Felanitx:28 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07023",
+      "name": "Ferreries",
+      "method": "normalized-name",
+      "sourceName": "Ferreries",
+      "localitat": "Ferreries",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni Abad i Diada del Poble de Menorca",
+          "sourceRecordId": "Ferreries:17 de gener"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Ferreries:24 d'agosto"
+        }
+      ]
+    },
+    {
+      "ineCode": "07024",
+      "name": "Formentera",
+      "method": "normalized-name",
+      "sourceName": "Formentera",
+      "localitat": "Formentera",
+      "holidays": [
+        {
+          "date": "2026-07-25",
+          "name": "Sant Jaume, Diada de Formentera",
+          "sourceRecordId": "Formentera:25 de juliol"
+        },
+        {
+          "date": "2026-12-03",
+          "name": "Sant Francesc Xavier",
+          "sourceRecordId": "Formentera:3 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07025",
+      "name": "Fornalutx",
+      "method": "normalized-name",
+      "sourceName": "Fornalutx",
+      "localitat": "Fornalutx",
+      "holidays": [
+        {
+          "date": "2026-02-27",
+          "name": "27 de febrer",
+          "sourceRecordId": "Fornalutx:27 de febrer"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "8 de setembre",
+          "sourceRecordId": "Fornalutx:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07026",
+      "name": "Eivissa",
+      "method": "normalized-name",
+      "sourceName": "Eivissa",
+      "localitat": "Eivissa",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "5 d'agost",
+          "sourceRecordId": "Eivissa:5 d'agost"
+        },
+        {
+          "date": "2026-08-08",
+          "name": "8 d'agost",
+          "sourceRecordId": "Eivissa:8 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07027",
+      "name": "Inca",
+      "method": "normalized-name",
+      "sourceName": "Inca",
+      "localitat": "Inca",
+      "holidays": [
+        {
+          "date": "2026-07-30",
+          "name": "Sant Abdó i Sant Senén",
+          "sourceRecordId": "Inca:30 de juliol"
+        },
+        {
+          "date": "2026-11-20",
+          "name": "Divendres després de Dijous Bo",
+          "sourceRecordId": "Inca:20 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07028",
+      "name": "Lloret de Vistalegre",
+      "method": "normalized-name",
+      "sourceName": "Lloret de Vistalegre",
+      "localitat": "Lloret de Vistalegre",
+      "holidays": [
+        {
+          "date": "2026-08-07",
+          "name": "Dia anterior a Sant Domingo",
+          "sourceRecordId": "Lloret de Vistalegre:7 d'agost"
+        },
+        {
+          "date": "2026-12-10",
+          "name": "Mare de Déu de Loreto",
+          "sourceRecordId": "Lloret de Vistalegre:10 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07029",
+      "name": "Lloseta",
+      "method": "normalized-name",
+      "sourceName": "Lloseta",
+      "localitat": "Lloseta",
+      "holidays": [
+        {
+          "date": "2026-04-08",
+          "name": "Romeria del Cocó",
+          "sourceRecordId": "Lloseta:8 d'abril"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Festes patronals",
+          "sourceRecordId": "Lloseta:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07030",
+      "name": "Llubí",
+      "method": "normalized-name",
+      "sourceName": "Llubí",
+      "localitat": "Llubí",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "7 d'abril",
+          "sourceRecordId": "Llubí:7 d'abril"
+        },
+        {
+          "date": "2026-08-01",
+          "name": "1 d'agost",
+          "sourceRecordId": "Llubí:1 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07031",
+      "name": "Llucmajor",
+      "method": "normalized-name",
+      "sourceName": "Llucmajor",
+      "localitat": "Llucmajor",
+      "holidays": [
+        {
+          "date": "2026-10-19",
+          "name": "19 d'octubre",
+          "sourceRecordId": "Llucmajor:19 d'octubre"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Sant Miquel",
+          "sourceRecordId": "Llucmajor:29 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07032",
+      "name": "Maó",
+      "method": "normalized-name",
+      "sourceName": "Maó",
+      "localitat": "Maó",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Maó:17 de gener"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Mare de Déu de Gràcia",
+          "sourceRecordId": "Maó:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07033",
+      "name": "Manacor",
+      "method": "normalized-name",
+      "sourceName": "Manacor",
+      "localitat": "Manacor",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Manacor:17 de gener"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "Sant Jaume",
+          "sourceRecordId": "Manacor:25 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07034",
+      "name": "Mancor de la Vall",
+      "method": "normalized-name",
+      "sourceName": "Mancor de la Vall",
+      "localitat": "Mancor de la Vall",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Mancor de la Vall:24 de juny"
+        },
+        {
+          "date": "2026-11-19",
+          "name": "Dijous Bo",
+          "sourceRecordId": "Mancor de la Vall:19 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07035",
+      "name": "Maria de la Salut",
+      "method": "normalized-name",
+      "sourceName": "Maria de la Salut",
+      "localitat": "Maria de la Salut",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "7 de setembre",
+          "sourceRecordId": "Maria de la Salut:7 de setembre"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Mare de Déu de la Salut",
+          "sourceRecordId": "Maria de la Salut:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07036",
+      "name": "Marratxí",
+      "method": "normalized-name",
+      "sourceName": "Marratxí",
+      "localitat": "Marratxí",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "29 de juny",
+          "sourceRecordId": "Marratxí:29 de juny"
+        },
+        {
+          "date": "2026-06-30",
+          "name": "Sant Marçal",
+          "sourceRecordId": "Marratxí:30 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07037",
+      "name": "Mercadal, Es",
+      "method": "manual-alias",
+      "sourceName": "Es Mercadal",
+      "localitat": "Es Mercadal",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Es Mercadal:17 de gener"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Sant Martí d'hivern",
+          "sourceRecordId": "Es Mercadal:11 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07038",
+      "name": "Montuïri",
+      "method": "normalized-name",
+      "sourceName": "Montuïri",
+      "localitat": "Montuïri",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Dia des Puig - 3a festa de Pasqua",
+          "sourceRecordId": "Montuïri:7 d'abril"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Montuïri:24 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07039",
+      "name": "Muro",
+      "method": "normalized-name",
+      "sourceName": "Muro",
+      "localitat": "Muro",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Muro:17 de gener"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Muro:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07040",
+      "name": "Palma",
+      "method": "normalized-name",
+      "sourceName": "Palma",
+      "localitat": "Palma",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Sant Sebastià",
+          "sourceRecordId": "Palma:20 de gener"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Palma:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07041",
+      "name": "Petra",
+      "method": "normalized-name",
+      "sourceName": "Petra",
+      "localitat": "Petra",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Tercera festa de Pasqua",
+          "sourceRecordId": "Petra:7 d'abril"
+        },
+        {
+          "date": "2026-07-21",
+          "name": "Santa Praxedis",
+          "sourceRecordId": "Petra:21 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07042",
+      "name": "Pollença",
+      "method": "normalized-name",
+      "sourceName": "Pollença",
+      "localitat": "Pollença",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Pollença:17 de gener"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Sant Pere",
+          "sourceRecordId": "Pollença:29 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07043",
+      "name": "Porreres",
+      "method": "normalized-name",
+      "sourceName": "Porreres",
+      "localitat": "Porreres",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan",
+          "sourceRecordId": "Porreres:24 de juny"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "L'endemà de Sant Roc",
+          "sourceRecordId": "Porreres:17 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07044",
+      "name": "Pobla, Sa",
+      "method": "manual-alias",
+      "sourceName": "Sa Pobla",
+      "localitat": "Sa Pobla",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "17 de gener",
+          "sourceRecordId": "Sa Pobla:17 de gener"
+        },
+        {
+          "date": "2026-07-20",
+          "name": "20 de juliol",
+          "sourceRecordId": "Sa Pobla:20 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07045",
+      "name": "Puigpunyent",
+      "method": "normalized-name",
+      "sourceName": "Puigpunyent",
+      "localitat": "Puigpunyent",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "8 de setembre",
+          "sourceRecordId": "Puigpunyent:8 de setembre"
+        },
+        {
+          "date": "2026-12-31",
+          "name": "31 de desembre",
+          "sourceRecordId": "Puigpunyent:31 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07046",
+      "name": "Sant Antoni de Portmany",
+      "method": "normalized-name",
+      "sourceName": "Sant Antoni de Portmany",
+      "localitat": "Parròquia de Sant Antoni",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni Abat",
+          "sourceRecordId": "Sant Antoni de Portmany:17 de gener"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Sant Antoni de Portmany:24 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07047",
+      "name": "Sencelles",
+      "method": "normalized-name",
+      "sourceName": "Sencelles",
+      "localitat": "Sencelles",
+      "holidays": [
+        {
+          "date": "2026-02-05",
+          "name": "5 de febrer",
+          "sourceRecordId": "Sencelles:5 de febrer"
+        },
+        {
+          "date": "2026-02-27",
+          "name": "27 de febrer",
+          "sourceRecordId": "Sencelles:27 de febrer"
+        }
+      ]
+    },
+    {
+      "ineCode": "07048",
+      "name": "Sant Josep de sa Talaia",
+      "method": "normalized-name",
+      "sourceName": "Sant Josep de sa Talaia",
+      "localitat": "Parròquies de Sant Josep de sa Talaia, es Cubells i Sant Agustí des Vedrà",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "Festivitat de Sant Josep",
+          "sourceRecordId": "Sant Josep de sa Talaia:19 de març"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Festivitat de Santa Maria",
+          "sourceRecordId": "Sant Josep de sa Talaia:5 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07049",
+      "name": "Sant Joan",
+      "method": "normalized-name",
+      "sourceName": "Sant Joan",
+      "localitat": "Sant Joan",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Dimarts de Paqua",
+          "sourceRecordId": "Sant Joan:7 d'abril"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan Baptista",
+          "sourceRecordId": "Sant Joan:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07050",
+      "name": "Sant Joan de Labritja",
+      "method": "normalized-name",
+      "sourceName": "Sant Joan de Labritja",
+      "localitat": "Sant Joan de Labritja",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Sant Joan Bautista",
+          "sourceRecordId": "Sant Joan de Labritja:24 de juny"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "Festivitat de Santa Maria de les Neus",
+          "sourceRecordId": "Sant Joan de Labritja:5 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07051",
+      "name": "Sant Llorenç des Cardassar",
+      "method": "normalized-name",
+      "sourceName": "Sant Llorenç des Cardassar",
+      "localitat": "Sant Llorenç des Cardassar",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Sant Llorenç",
+          "sourceRecordId": "Sant Llorenç des Cardassar:10 d'agost"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Mare de Déu",
+          "sourceRecordId": "Sant Llorenç des Cardassar:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07052",
+      "name": "Sant Lluís",
+      "method": "normalized-name",
+      "sourceName": "Sant Lluís",
+      "localitat": "Sant Lluís",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Sant Lluís:17 de gener"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Mare de Déu de Gràcia",
+          "sourceRecordId": "Sant Lluís:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07053",
+      "name": "Santa Eugènia",
+      "method": "normalized-name",
+      "sourceName": "Santa Eugènia",
+      "localitat": "Santa Eugènia",
+      "holidays": [
+        {
+          "date": "2026-04-20",
+          "name": "Es Firó",
+          "sourceRecordId": "Santa Eugènia:20 d'abril"
+        },
+        {
+          "date": "2026-08-03",
+          "name": "Festa Patronal",
+          "sourceRecordId": "Santa Eugènia:3 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07054",
+      "name": "Santa Eulària des Riu",
+      "method": "normalized-name",
+      "sourceName": "Santa Eulària des Riu",
+      "localitat": "Parròquia de Jesús",
+      "holidays": [
+        {
+          "date": "2026-02-12",
+          "name": "Festivitat de Santa Eulària des Riu",
+          "sourceRecordId": "Santa Eulària des Riu:12 de febrer"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Nostra Senyora de Jesús",
+          "sourceRecordId": "Santa Eulària des Riu:8 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07055",
+      "name": "Santa Margalida",
+      "method": "normalized-name",
+      "sourceName": "Santa Margalida",
+      "localitat": "Santa Margalida",
+      "holidays": [
+        {
+          "date": "2026-07-20",
+          "name": "Santa Margalida",
+          "sourceRecordId": "Santa Margalida:20 de juliol"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Dilluns de la Beata",
+          "sourceRecordId": "Santa Margalida:7 de setembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07056",
+      "name": "Santa María del Camí",
+      "method": "normalized-name",
+      "sourceName": "Santa Maria del Camí",
+      "localitat": "Santa Maria del Camí",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Es Firó",
+          "sourceRecordId": "Santa Maria del Camí:27 d'abril"
+        },
+        {
+          "date": "2026-07-20",
+          "name": "Santa Margalida",
+          "sourceRecordId": "Santa Maria del Camí:20 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07057",
+      "name": "Santanyí",
+      "method": "normalized-name",
+      "sourceName": "Santanyi",
+      "localitat": "Santanyi",
+      "holidays": [
+        {
+          "date": "2026-03-03",
+          "name": "3 de març",
+          "sourceRecordId": "Santanyi:3 de març"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "30 de novembre",
+          "sourceRecordId": "Santanyi:30 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07058",
+      "name": "Selva",
+      "method": "normalized-name",
+      "sourceName": "Selva",
+      "localitat": "Selva",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Sant Llorenç",
+          "sourceRecordId": "Selva:10 d'agost"
+        },
+        {
+          "date": "2026-11-19",
+          "name": "Dijous Bo",
+          "sourceRecordId": "Selva:19 de novembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07059",
+      "name": "Salines, Ses",
+      "method": "manual-alias",
+      "sourceName": "Ses Salines",
+      "localitat": "Ses Salines",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Sant Antoni",
+          "sourceRecordId": "Ses Salines:17 de gener"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Ses Salines:24 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07060",
+      "name": "Sineu",
+      "method": "normalized-name",
+      "sourceName": "Sineu",
+      "localitat": "Sineu",
+      "holidays": [
+        {
+          "date": "2026-04-25",
+          "name": "Sant Marc",
+          "sourceRecordId": "Sineu:25 d'abril"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Assumpció de la Mare de Déu (dia previ)",
+          "sourceRecordId": "Sineu:14 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07061",
+      "name": "Sóller",
+      "method": "normalized-name",
+      "sourceName": "Sóller",
+      "localitat": "Sóller",
+      "holidays": [
+        {
+          "date": "2026-05-11",
+          "name": "Es Firó",
+          "sourceRecordId": "Sóller:11 de maig"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Sóller:24 d'agosto"
+        }
+      ]
+    },
+    {
+      "ineCode": "07062",
+      "name": "Son Servera",
+      "method": "normalized-name",
+      "sourceName": "Son Servera",
+      "localitat": "Son Servera",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "17 de gener",
+          "sourceRecordId": "Son Servera:17 de gener"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "24 de juny",
+          "sourceRecordId": "Son Servera:24 de juny"
+        }
+      ]
+    },
+    {
+      "ineCode": "07063",
+      "name": "Valldemossa",
+      "method": "normalized-name",
+      "sourceName": "Valldemossa",
+      "localitat": "Valldemossa",
+      "holidays": [
+        {
+          "date": "2026-07-28",
+          "name": "Santa Catalina Thomàs",
+          "sourceRecordId": "Valldemossa:28 de juliol"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Sant Bartomeu",
+          "sourceRecordId": "Valldemossa:24 d'agost"
+        }
+      ]
+    },
+    {
+      "ineCode": "07064",
+      "name": "Castell, Es",
+      "method": "manual-alias",
+      "sourceName": "Es Castell",
+      "localitat": "Es Castell",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "17 de gener",
+          "sourceRecordId": "Es Castell:17 de gener"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "25 de juliol",
+          "sourceRecordId": "Es Castell:25 de juliol"
+        }
+      ]
+    },
+    {
+      "ineCode": "07065",
+      "name": "Vilafranca de Bonany",
+      "method": "normalized-name",
+      "sourceName": "Vilafranca de Bonany",
+      "localitat": "Vilafranca de Bonany",
+      "holidays": [
+        {
+          "date": "2026-12-04",
+          "name": "4 de desembre",
+          "sourceRecordId": "Vilafranca de Bonany:4 de desembre"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "7 de desembre",
+          "sourceRecordId": "Vilafranca de Bonany:7 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07901",
+      "name": "Ariany",
+      "method": "normalized-name",
+      "sourceName": "Ariany",
+      "localitat": "Ariany",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Segona Festa Patronal",
+          "sourceRecordId": "Ariany:31 d'agosto"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "Pont de la Immaculada",
+          "sourceRecordId": "Ariany:7 de desembre"
+        }
+      ]
+    },
+    {
+      "ineCode": "07902",
+      "name": "Migjorn Gran, Es",
+      "method": "manual-alias",
+      "sourceName": "Es Migjorn Gran",
+      "localitat": "Es Migjorn Gran",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "darrer dimarts de Carnaval",
+          "sourceRecordId": "Es Migjorn Gran:17 de febrer"
+        },
+        {
+          "date": "2026-07-10",
+          "name": "Sant Cristòfol",
+          "sourceRecordId": "Es Migjorn Gran:10 de juliol"
+        }
+      ]
+    }
+  ],
+  "omissions": []
+}

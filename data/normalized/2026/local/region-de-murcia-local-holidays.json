@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "14",
+  "autonomousCommunity": "Región de Murcia",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "borm-163-2025",
+      "sourceSha256": "5f311a1b199c6592de345079e6119b9b60b38f993c4ac24b0c166870893a206d"
+    }
+  ],
+  "auditNote": "Numbered 45-row table from BORM 163; name join via normalized names.",
+  "municipalities": [
+    {
+      "ineCode": "30001",
+      "name": "Abanilla",
+      "method": "normalized-name",
+      "sourceName": "ABANILLA",
+      "sourceRow": 1,
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:1:1"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:1:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30002",
+      "name": "Abarán",
+      "method": "normalized-name",
+      "sourceName": "ABARÁN",
+      "sourceRow": 2,
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:2:1"
+        },
+        {
+          "date": "2026-09-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:2:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30003",
+      "name": "Águilas",
+      "method": "normalized-name",
+      "sourceName": "ÁGUILAS",
+      "sourceRow": 3,
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:3:1"
+        },
+        {
+          "date": "2026-03-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:3:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30004",
+      "name": "Albudeite",
+      "method": "normalized-name",
+      "sourceName": "ALBUDEITE",
+      "sourceRow": 4,
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:4:1"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:4:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30005",
+      "name": "Alcantarilla",
+      "method": "normalized-name",
+      "sourceName": "ALCANTARILLA",
+      "sourceRow": 5,
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:5:1"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:5:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30006",
+      "name": "Aledo",
+      "method": "normalized-name",
+      "sourceName": "ALEDO",
+      "sourceRow": 7,
+      "holidays": [
+        {
+          "date": "2026-08-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:7:1"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:7:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30007",
+      "name": "Alguazas",
+      "method": "normalized-name",
+      "sourceName": "ALGUAZAS",
+      "sourceRow": 8,
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:8:1"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:8:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30008",
+      "name": "Alhama de Murcia",
+      "method": "normalized-name",
+      "sourceName": "ALHAMA DE MURCIA",
+      "sourceRow": 9,
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:9:1"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:9:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30009",
+      "name": "Archena",
+      "method": "normalized-name",
+      "sourceName": "ARCHENA",
+      "sourceRow": 10,
+      "holidays": [
+        {
+          "date": "2026-06-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:10:1"
+        },
+        {
+          "date": "2026-09-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:10:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30010",
+      "name": "Beniel",
+      "method": "normalized-name",
+      "sourceName": "BENIEL",
+      "sourceRow": 11,
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:11:1"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:11:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30011",
+      "name": "Blanca",
+      "method": "normalized-name",
+      "sourceName": "BLANCA",
+      "sourceRow": 12,
+      "holidays": [
+        {
+          "date": "2026-04-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:12:1"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:12:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30012",
+      "name": "Bullas",
+      "method": "normalized-name",
+      "sourceName": "BULLAS",
+      "sourceRow": 13,
+      "holidays": [
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:13:1"
+        },
+        {
+          "date": "2026-10-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:13:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30013",
+      "name": "Calasparra",
+      "method": "normalized-name",
+      "sourceName": "CALASPARRA",
+      "sourceRow": 14,
+      "holidays": [
+        {
+          "date": "2026-07-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:14:1"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:14:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30014",
+      "name": "Campos del Río",
+      "method": "normalized-name",
+      "sourceName": "CAMPOS DEL RÍO",
+      "sourceRow": 15,
+      "holidays": [
+        {
+          "date": "2026-06-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:15:1"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:15:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30015",
+      "name": "Caravaca de la Cruz",
+      "method": "normalized-name",
+      "sourceName": "CARAVACA DE LA CRUZ",
+      "sourceRow": 16,
+      "holidays": [
+        {
+          "date": "2026-05-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:16:1"
+        },
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:16:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30016",
+      "name": "Cartagena",
+      "method": "normalized-name",
+      "sourceName": "CARTAGENA",
+      "sourceRow": 17,
+      "holidays": [
+        {
+          "date": "2026-03-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:17:1"
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:17:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30017",
+      "name": "Cehegín",
+      "method": "normalized-name",
+      "sourceName": "CEHEGÍN",
+      "sourceRow": 18,
+      "holidays": [
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:18:1"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:18:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30018",
+      "name": "Ceutí",
+      "method": "normalized-name",
+      "sourceName": "CEUTÍ",
+      "sourceRow": 19,
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:19:1"
+        },
+        {
+          "date": "2026-07-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:19:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30019",
+      "name": "Cieza",
+      "method": "normalized-name",
+      "sourceName": "CIEZA",
+      "sourceRow": 20,
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:20:1"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:20:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30020",
+      "name": "Fortuna",
+      "method": "normalized-name",
+      "sourceName": "FORTUNA",
+      "sourceRow": 21,
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:21:1"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:21:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30021",
+      "name": "Fuente Álamo de Murcia",
+      "method": "normalized-name",
+      "sourceName": "FUENTE ÁLAMO",
+      "sourceRow": 22,
+      "holidays": [
+        {
+          "date": "2026-07-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:22:1"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:22:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30022",
+      "name": "Jumilla",
+      "method": "normalized-name",
+      "sourceName": "JUMILLA",
+      "sourceRow": 23,
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:23:1"
+        },
+        {
+          "date": "2026-06-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:23:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30023",
+      "name": "Librilla",
+      "method": "normalized-name",
+      "sourceName": "LIBRILLA",
+      "sourceRow": 24,
+      "holidays": [
+        {
+          "date": "2026-08-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:24:1"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:24:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30024",
+      "name": "Lorca",
+      "method": "normalized-name",
+      "sourceName": "LORCA",
+      "sourceRow": 25,
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:25:1"
+        },
+        {
+          "date": "2026-11-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:25:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30025",
+      "name": "Lorquí",
+      "method": "normalized-name",
+      "sourceName": "LORQUÍ",
+      "sourceRow": 26,
+      "holidays": [
+        {
+          "date": "2026-01-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:26:1"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:26:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30026",
+      "name": "Mazarrón",
+      "method": "normalized-name",
+      "sourceName": "MAZARRÓN",
+      "sourceRow": 27,
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:27:1"
+        },
+        {
+          "date": "2026-11-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:27:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30027",
+      "name": "Molina de Segura",
+      "method": "normalized-name",
+      "sourceName": "MOLINA DE SEGURA",
+      "sourceRow": 28,
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:28:1"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:28:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30028",
+      "name": "Moratalla",
+      "method": "normalized-name",
+      "sourceName": "MORATALLA",
+      "sourceRow": 29,
+      "holidays": [
+        {
+          "date": "2026-06-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:29:1"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:29:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30029",
+      "name": "Mula",
+      "method": "normalized-name",
+      "sourceName": "MULA",
+      "sourceRow": 30,
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:30:1"
+        },
+        {
+          "date": "2026-09-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:30:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30030",
+      "name": "Murcia",
+      "method": "normalized-name",
+      "sourceName": "MURCIA",
+      "sourceRow": 31,
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:31:1"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:31:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30031",
+      "name": "Ojós",
+      "method": "normalized-name",
+      "sourceName": "OJÓS",
+      "sourceRow": 32,
+      "holidays": [
+        {
+          "date": "2026-08-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:32:1"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:32:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30032",
+      "name": "Pliego",
+      "method": "normalized-name",
+      "sourceName": "PLIEGO",
+      "sourceRow": 33,
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:33:1"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:33:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30033",
+      "name": "Puerto Lumbreras",
+      "method": "normalized-name",
+      "sourceName": "PUERTO LUMBRERAS",
+      "sourceRow": 34,
+      "holidays": [
+        {
+          "date": "2026-07-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:34:1"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:34:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30034",
+      "name": "Ricote",
+      "method": "normalized-name",
+      "sourceName": "RICOTE",
+      "sourceRow": 35,
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:35:1"
+        },
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:35:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30035",
+      "name": "San Javier",
+      "method": "normalized-name",
+      "sourceName": "SAN JAVIER",
+      "sourceRow": 36,
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:36:1"
+        },
+        {
+          "date": "2026-12-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:36:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30036",
+      "name": "San Pedro del Pinatar",
+      "method": "normalized-name",
+      "sourceName": "SAN PEDRO DEL PINATAR",
+      "sourceRow": 37,
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:37:1"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:37:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30037",
+      "name": "Torre-Pacheco",
+      "method": "normalized-name",
+      "sourceName": "TORRE PACHECO",
+      "sourceRow": 39,
+      "holidays": [
+        {
+          "date": "2026-06-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:39:1"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:39:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30038",
+      "name": "Torres de Cotillas, Las",
+      "method": "normalized-name",
+      "sourceName": "TORRES DE COTILLAS, LAS",
+      "sourceRow": 40,
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:40:1"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:40:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30039",
+      "name": "Totana",
+      "method": "normalized-name",
+      "sourceName": "TOTANA",
+      "sourceRow": 41,
+      "holidays": [
+        {
+          "date": "2026-01-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:41:1"
+        },
+        {
+          "date": "2026-12-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:41:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30040",
+      "name": "Ulea",
+      "method": "normalized-name",
+      "sourceName": "ULEA",
+      "sourceRow": 42,
+      "holidays": [
+        {
+          "date": "2026-04-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:42:1"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:42:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30041",
+      "name": "Unión, La",
+      "method": "normalized-name",
+      "sourceName": "UNIÓN, LA",
+      "sourceRow": 43,
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:43:1"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:43:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30042",
+      "name": "Villanueva del Río Segura",
+      "method": "normalized-name",
+      "sourceName": "VILLANUEVA DEL RÍO SEGURA",
+      "sourceRow": 44,
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:44:1"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:44:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30043",
+      "name": "Yecla",
+      "method": "normalized-name",
+      "sourceName": "YECLA",
+      "sourceRow": 45,
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:45:1"
+        },
+        {
+          "date": "2026-12-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:45:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30901",
+      "name": "Santomera",
+      "method": "normalized-name",
+      "sourceName": "SANTOMERA",
+      "sourceRow": 38,
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:38:1"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:38:2"
+        }
+      ]
+    },
+    {
+      "ineCode": "30902",
+      "name": "Alcázares, Los",
+      "method": "normalized-name",
+      "sourceName": "ALCÁZARES, LOS",
+      "sourceRow": 6,
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:6:1"
+        },
+        {
+          "date": "2026-10-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "row:6:2"
+        }
+      ]
+    }
+  ],
+  "omissions": []
+}

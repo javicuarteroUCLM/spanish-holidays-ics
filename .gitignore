@@ -5,3 +5,7 @@
 node_modules/
 dist/
 coverage/
+
+# Python preparation-script caches
+__pycache__/
+*.py[cod]

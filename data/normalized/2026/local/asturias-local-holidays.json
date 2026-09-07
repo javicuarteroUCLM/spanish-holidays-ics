@@ -1,0 +1,1331 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "03",
+  "autonomousCommunity": "Asturias",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "bopa-114-2025",
+      "sourceSha256": "a0069d91441f4235cabf4a01d2d0d6fa2d76f87f717e7a46035c76e18e39e50d"
+    }
+  ],
+  "auditNote": "Concejo-wide pairs selected from the first two entries without a parroquia/nucleus qualifier; parroquia-level variants are not merged. Concejos without a pair: amieva, ColunGa, peÑamellera alta, riBadedeva san josé para todo el municipio., salas, san martín del rey aurelio, martín, santa Bárbara y Blimea., yernes y tameZa.",
+  "municipalities": [
+    {
+      "ineCode": "33001",
+      "name": "Allande",
+      "method": "normalized-name",
+      "sourceName": "allande",
+      "holidays": [
+        {
+          "date": "2026-09-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:allande:2026-09-09"
+        },
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:allande:2026-09-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "33002",
+      "name": "Aller",
+      "method": "normalized-name",
+      "sourceName": "aller",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "Festividad de san martín de los Humanitarios de moreda",
+          "sourceRecordId": "bopa114:aller:2026-11-11"
+        },
+        {
+          "date": "2026-11-26",
+          "name": "Festividad del mercaón de Cabañaquinta",
+          "sourceRecordId": "bopa114:aller:2026-11-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "33004",
+      "name": "Avilés",
+      "method": "normalized-name",
+      "sourceName": "avilÉs",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "lunes de pascua",
+          "sourceRecordId": "bopa114:avilÉs:2026-04-06"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "san agustín",
+          "sourceRecordId": "bopa114:avilÉs:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "33005",
+      "name": "Belmonte de Miranda",
+      "method": "normalized-name",
+      "sourceName": "Belmonte de miranda",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "san isidro",
+          "sourceRecordId": "bopa114:Belmonte de miranda:2026-05-15"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "la Gira",
+          "sourceRecordId": "bopa114:Belmonte de miranda:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "33006",
+      "name": "Bimenes",
+      "method": "normalized-name",
+      "sourceName": "Bimenes",
+      "holidays": [
+        {
+          "date": "2026-10-19",
+          "name": "Feries de san julián",
+          "sourceRecordId": "bopa114:Bimenes:2026-10-19"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Conmemoración de santa Bárbara",
+          "sourceRecordId": "bopa114:Bimenes:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "33007",
+      "name": "Boal",
+      "method": "normalized-name",
+      "sourceName": "Boal",
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "Festividad de san Fernando",
+          "sourceRecordId": "bopa114:Boal:2026-05-29"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Festividad de santiago",
+          "sourceRecordId": "bopa114:Boal:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "33008",
+      "name": "Cabrales",
+      "method": "normalized-name",
+      "sourceName": "CaBrales",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:CaBrales:2026-06-29"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "san andrés",
+          "sourceRecordId": "bopa114:CaBrales:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "33009",
+      "name": "Cabranes",
+      "method": "normalized-name",
+      "sourceName": "CaBranes",
+      "holidays": [
+        {
+          "date": "2026-05-11",
+          "name": "san Francisco y 46º Festival del arroz con leche",
+          "sourceRecordId": "bopa114:CaBranes:2026-05-11"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Carmen de torazu y jira de incós",
+          "sourceRecordId": "bopa114:CaBranes:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "33010",
+      "name": "Candamo",
+      "method": "normalized-name",
+      "sourceName": "Candamo",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "las Candelas",
+          "sourceRecordId": "bopa114:Candamo:2026-02-02"
+        },
+        {
+          "date": "2026-06-15",
+          "name": "lunes siguiente al Festival de la Fresa",
+          "sourceRecordId": "bopa114:Candamo:2026-06-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "33011",
+      "name": "Cangas del Narcea",
+      "method": "normalized-name",
+      "sourceName": "CanGas del narCea",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta de el Carmen",
+          "sourceRecordId": "bopa114:CanGas del narCea:2026-07-16"
+        },
+        {
+          "date": "2026-07-22",
+          "name": "Fiesta de la magdalena",
+          "sourceRecordId": "bopa114:CanGas del narCea:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "33012",
+      "name": "Cangas de Onís",
+      "method": "normalized-name",
+      "sourceName": "CanGas de onís",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "Fiesta de san antonio",
+          "sourceRecordId": "bopa114:CanGas de onís:2026-06-13"
+        },
+        {
+          "date": "2026-09-24",
+          "name": "Fiesta de la salud de Caño",
+          "sourceRecordId": "bopa114:CanGas de onís:2026-09-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "33013",
+      "name": "Caravia",
+      "method": "normalized-name",
+      "sourceName": "Caravia",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "santiago apóstol",
+          "sourceRecordId": "bopa114:Caravia:2026-08-03"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "ntra. sra. de la Consolación",
+          "sourceRecordId": "bopa114:Caravia:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33014",
+      "name": "Carreño",
+      "method": "normalized-name",
+      "sourceName": "CarreÑo",
+      "holidays": [
+        {
+          "date": "2026-08-01",
+          "name": "Festividad de san Félix",
+          "sourceRecordId": "bopa114:CarreÑo:2026-08-01"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Festividad del santísimo Cristo de Candás",
+          "sourceRecordId": "bopa114:CarreÑo:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "33015",
+      "name": "Caso",
+      "method": "normalized-name",
+      "sourceName": "Caso",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "san juan",
+          "sourceRecordId": "bopa114:Caso:2026-06-24"
+        },
+        {
+          "date": "2026-10-08",
+          "name": "Ferias Ganaderas",
+          "sourceRecordId": "bopa114:Caso:2026-10-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "33016",
+      "name": "Castrillón",
+      "method": "normalized-name",
+      "sourceName": "CastrillÓn",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "lunes de pascua",
+          "sourceRecordId": "bopa114:CastrillÓn:2026-04-06"
+        },
+        {
+          "date": "2026-07-06",
+          "name": "día de Castrillón",
+          "sourceRecordId": "bopa114:CastrillÓn:2026-07-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "33017",
+      "name": "Castropol",
+      "method": "normalized-name",
+      "sourceName": "Castropol",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:Castropol:2026-09-07"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:Castropol:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "33018",
+      "name": "Coaña",
+      "method": "normalized-name",
+      "sourceName": "CoaÑa",
+      "holidays": [
+        {
+          "date": "2026-05-22",
+          "name": "santa rita",
+          "sourceRecordId": "bopa114:CoaÑa:2026-05-22"
+        },
+        {
+          "date": "2026-08-10",
+          "name": "san lorenzo",
+          "sourceRecordId": "bopa114:CoaÑa:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "33020",
+      "name": "Corvera de Asturias",
+      "method": "normalized-name",
+      "sourceName": "Corvera de asturias",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta de san juan",
+          "sourceRecordId": "bopa114:Corvera de asturias:2026-06-24"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiestas populares de Corvera de asturias",
+          "sourceRecordId": "bopa114:Corvera de asturias:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "33021",
+      "name": "Cudillero",
+      "method": "normalized-name",
+      "sourceName": "Cudillero",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:Cudillero:2026-06-29"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "santa ana",
+          "sourceRecordId": "bopa114:Cudillero:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "33022",
+      "name": "Degaña",
+      "method": "normalized-name",
+      "sourceName": "deGaÑa",
+      "holidays": [
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:deGaÑa:2026-07-24"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:deGaÑa:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33023",
+      "name": "Franco, El",
+      "method": "normalized-name",
+      "sourceName": "el FranCo",
+      "holidays": [
+        {
+          "date": "2026-09-09",
+          "name": "Día siguiente a la celebración de la fiesta de Los Remedios",
+          "sourceRecordId": "bopa114:el FranCo:2026-09-09"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "día de san miguel",
+          "sourceRecordId": "bopa114:el FranCo:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "33024",
+      "name": "Gijón",
+      "method": "normalized-name",
+      "sourceName": "GijÓn",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Carnaval/antroxu",
+          "sourceRecordId": "bopa114:GijÓn:2026-02-17"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:GijÓn:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "33025",
+      "name": "Gozón",
+      "method": "normalized-name",
+      "sourceName": "GoZÓn",
+      "holidays": [
+        {
+          "date": "2026-02-05",
+          "name": "Fiesta del Cristo del socorro",
+          "sourceRecordId": "bopa114:GoZÓn:2026-02-05"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Festividad de la virgen del Carmen",
+          "sourceRecordId": "bopa114:GoZÓn:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "33026",
+      "name": "Grado",
+      "method": "normalized-name",
+      "sourceName": "Grado",
+      "holidays": [
+        {
+          "date": "2026-07-25",
+          "name": "Festividad de santiago",
+          "sourceRecordId": "bopa114:Grado:2026-07-25"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Festividad de santa ana",
+          "sourceRecordId": "bopa114:Grado:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "33027",
+      "name": "Grandas de Salime",
+      "method": "normalized-name",
+      "sourceName": "Grandas de salime",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:Grandas de salime:2026-08-03"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:Grandas de salime:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33028",
+      "name": "Ibias",
+      "method": "normalized-name",
+      "sourceName": "iBias",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "san donato",
+          "sourceRecordId": "bopa114:iBias:2026-08-17"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "santo antolín",
+          "sourceRecordId": "bopa114:iBias:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33029",
+      "name": "Illano",
+      "method": "normalized-name",
+      "sourceName": "illano",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:illano:2026-02-17"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Festividad de san agustín",
+          "sourceRecordId": "bopa114:illano:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "33030",
+      "name": "Illas",
+      "method": "normalized-name",
+      "sourceName": "illas",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "lunes de pascua",
+          "sourceRecordId": "bopa114:illas:2026-04-06"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "san agustín",
+          "sourceRecordId": "bopa114:illas:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "33031",
+      "name": "Langreo",
+      "method": "normalized-name",
+      "sourceName": "lanGreo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:lanGreo:2026-06-29"
+        },
+        {
+          "date": "2026-07-25",
+          "name": "Festividad de santiago",
+          "sourceRecordId": "bopa114:lanGreo:2026-07-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "33032",
+      "name": "Laviana",
+      "method": "normalized-name",
+      "sourceName": "laviana",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:laviana:2026-02-17"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "jira",
+          "sourceRecordId": "bopa114:laviana:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33033",
+      "name": "Lena",
+      "method": "normalized-name",
+      "sourceName": "lena",
+      "holidays": [
+        {
+          "date": "2026-04-13",
+          "name": "Festividad de la Flor",
+          "sourceRecordId": "bopa114:lena:2026-04-13"
+        },
+        {
+          "date": "2026-10-13",
+          "name": "Festividad de les Feries",
+          "sourceRecordId": "bopa114:lena:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "33034",
+      "name": "Valdés",
+      "method": "normalized-name",
+      "sourceName": "valdÉs",
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "día del Fuero de valdés, en todo el Concejo, excepto en trevías",
+          "sourceRecordId": "bopa114:valdÉs:2026-05-29"
+        },
+        {
+          "date": "2026-08-22",
+          "name": "Festividad de san timoteo en todo el Concejo",
+          "sourceRecordId": "bopa114:valdÉs:2026-08-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "33035",
+      "name": "Llanera",
+      "method": "normalized-name",
+      "sourceName": "llanera",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "Festividad del antroxu",
+          "sourceRecordId": "bopa114:llanera:2026-02-17"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Festividad de san isidro labrador",
+          "sourceRecordId": "bopa114:llanera:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "33036",
+      "name": "Llanes",
+      "method": "normalized-name",
+      "sourceName": "llanes",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "lunes de pascua (excepto posada y nueva)",
+          "sourceRecordId": "bopa114:llanes:2026-04-06"
+        },
+        {
+          "date": "2026-07-22",
+          "name": "la magdalena (excepto posada y nueva)",
+          "sourceRecordId": "bopa114:llanes:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "33037",
+      "name": "Mieres",
+      "method": "normalized-name",
+      "sourceName": "mieres",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Festividad de san juan, en todo el municipio excepto en el valle de turón",
+          "sourceRecordId": "bopa114:mieres:2026-06-24"
+        },
+        {
+          "date": "2026-09-28",
+          "name": "mártires de valdecuna, san Cosme y san damián, en todo el municipio",
+          "sourceRecordId": "bopa114:mieres:2026-09-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "33038",
+      "name": "Morcín",
+      "method": "normalized-name",
+      "sourceName": "morCín",
+      "holidays": [
+        {
+          "date": "2026-01-16",
+          "name": "san antón",
+          "sourceRecordId": "bopa114:morCín:2026-01-16"
+        },
+        {
+          "date": "2026-06-12",
+          "name": "san antonio",
+          "sourceRecordId": "bopa114:morCín:2026-06-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "33039",
+      "name": "Muros de Nalón",
+      "method": "normalized-name",
+      "sourceName": "muros de nalÓn",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "Festividad de san antonio",
+          "sourceRecordId": "bopa114:muros de nalÓn:2026-06-13"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Festividad de ntra. sra. del Carmen",
+          "sourceRecordId": "bopa114:muros de nalÓn:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "33040",
+      "name": "Nava",
+      "method": "normalized-name",
+      "sourceName": "nava",
+      "holidays": [
+        {
+          "date": "2026-07-13",
+          "name": "Festival de la sidra",
+          "sourceRecordId": "bopa114:nava:2026-07-13"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "san Bartolomé",
+          "sourceRecordId": "bopa114:nava:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "33041",
+      "name": "Navia",
+      "method": "normalized-name",
+      "sourceName": "navia",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:navia:2026-06-29"
+        },
+        {
+          "date": "2026-09-10",
+          "name": "jira de puerto de vega",
+          "sourceRecordId": "bopa114:navia:2026-09-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "33042",
+      "name": "Noreña",
+      "method": "normalized-name",
+      "sourceName": "noreÑa",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Festividad de san marcos",
+          "sourceRecordId": "bopa114:noreÑa:2026-04-27"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Festividad del ecce-Homo",
+          "sourceRecordId": "bopa114:noreÑa:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "33043",
+      "name": "Onís",
+      "method": "normalized-name",
+      "sourceName": "onís",
+      "holidays": [
+        {
+          "date": "2026-01-07",
+          "name": "san julián",
+          "sourceRecordId": "bopa114:onís:2026-01-07"
+        },
+        {
+          "date": "2026-08-05",
+          "name": "las nieves",
+          "sourceRecordId": "bopa114:onís:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "33044",
+      "name": "Oviedo",
+      "method": "normalized-name",
+      "sourceName": "oviedo",
+      "holidays": [
+        {
+          "date": "2026-05-26",
+          "name": "martes de Campo",
+          "sourceRecordId": "bopa114:oviedo:2026-05-26"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "san mateo",
+          "sourceRecordId": "bopa114:oviedo:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "33045",
+      "name": "Parres",
+      "method": "normalized-name",
+      "sourceName": "parres",
+      "holidays": [
+        {
+          "date": "2026-05-22",
+          "name": "santa rita de Casia",
+          "sourceRecordId": "bopa114:parres:2026-05-22"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "el Bollín",
+          "sourceRecordId": "bopa114:parres:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "33047",
+      "name": "Peñamellera Baja",
+      "method": "normalized-name",
+      "sourceName": "peÑamellera Baja",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "día siguiente a san roque",
+          "sourceRecordId": "bopa114:peÑamellera Baja:2026-08-17"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "lunes siguiente a san Cipriano",
+          "sourceRecordId": "bopa114:peÑamellera Baja:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "33048",
+      "name": "Pesoz",
+      "method": "normalized-name",
+      "sourceName": "pesoZ",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:pesoZ:2026-08-03"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:pesoZ:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33049",
+      "name": "Piloña",
+      "method": "normalized-name",
+      "sourceName": "piloÑa",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "San Antonio en Infiesto y resto del Concejo",
+          "sourceRecordId": "bopa114:piloÑa:2026-06-13"
+        },
+        {
+          "date": "2026-10-15",
+          "name": "Sta. Teresa en Infiesto y resto del Concejo",
+          "sourceRecordId": "bopa114:piloÑa:2026-10-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "33050",
+      "name": "Ponga",
+      "method": "normalized-name",
+      "sourceName": "ponGa",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "nuestra señora de la asunción",
+          "sourceRecordId": "bopa114:ponGa:2026-08-17"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "virgen de arcenoriu",
+          "sourceRecordId": "bopa114:ponGa:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33051",
+      "name": "Pravia",
+      "method": "normalized-name",
+      "sourceName": "pravia",
+      "holidays": [
+        {
+          "date": "2026-06-04",
+          "name": "el Corpus",
+          "sourceRecordId": "bopa114:pravia:2026-06-04"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "el Cristo",
+          "sourceRecordId": "bopa114:pravia:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "33052",
+      "name": "Proaza",
+      "method": "normalized-name",
+      "sourceName": "proaZa",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "san juan",
+          "sourceRecordId": "bopa114:proaZa:2026-06-24"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "remedios",
+          "sourceRecordId": "bopa114:proaZa:2026-09-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "33053",
+      "name": "Quirós",
+      "method": "normalized-name",
+      "sourceName": "QuirÓs",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "san melchor",
+          "sourceRecordId": "bopa114:QuirÓs:2026-03-19"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "san miguel",
+          "sourceRecordId": "bopa114:QuirÓs:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "33054",
+      "name": "Regueras, Las",
+      "method": "normalized-name",
+      "sourceName": "las reGueras",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:las reGueras:2026-02-17"
+        },
+        {
+          "date": "2026-06-13",
+          "name": "san antonio",
+          "sourceRecordId": "bopa114:las reGueras:2026-06-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "33056",
+      "name": "Ribadesella",
+      "method": "normalized-name",
+      "sourceName": "riBadesella",
+      "holidays": [
+        {
+          "date": "2026-02-16",
+          "name": "Carnaval",
+          "sourceRecordId": "bopa114:riBadesella:2026-02-16"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "san juan",
+          "sourceRecordId": "bopa114:riBadesella:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "33057",
+      "name": "Ribera de Arriba",
+      "method": "normalized-name",
+      "sourceName": "riBera de arriBa",
+      "holidays": [
+        {
+          "date": "2026-05-26",
+          "name": "día de los mayores",
+          "sourceRecordId": "bopa114:riBera de arriBa:2026-05-26"
+        },
+        {
+          "date": "2026-12-14",
+          "name": "santa lucía",
+          "sourceRecordId": "bopa114:riBera de arriBa:2026-12-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "33058",
+      "name": "Riosa",
+      "method": "normalized-name",
+      "sourceName": "riosa",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "san antonio",
+          "sourceRecordId": "bopa114:riosa:2026-06-12"
+        },
+        {
+          "date": "2026-10-02",
+          "name": "nuestra señora del rosario",
+          "sourceRecordId": "bopa114:riosa:2026-10-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "33061",
+      "name": "San Martín de Oscos",
+      "method": "normalized-name",
+      "sourceName": "san martín de osCos",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:san martín de osCos:2026-02-17"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "día de san martín",
+          "sourceRecordId": "bopa114:san martín de osCos:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "33062",
+      "name": "Santa Eulalia de Oscos",
+      "method": "normalized-name",
+      "sourceName": "santa eulalia de osCos",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:santa eulalia de osCos:2026-02-17"
+        },
+        {
+          "date": "2026-10-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:santa eulalia de osCos:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "33063",
+      "name": "San Tirso de Abres",
+      "method": "normalized-name",
+      "sourceName": "san tirso de aBres",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Festividad de san isidro",
+          "sourceRecordId": "bopa114:san tirso de aBres:2026-05-15"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Festividad de san juan",
+          "sourceRecordId": "bopa114:san tirso de aBres:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "33064",
+      "name": "Santo Adriano",
+      "method": "normalized-name",
+      "sourceName": "santo adriano",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "san antonio",
+          "sourceRecordId": "bopa114:santo adriano:2026-06-12"
+        },
+        {
+          "date": "2026-07-17",
+          "name": "el Carmen",
+          "sourceRecordId": "bopa114:santo adriano:2026-07-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33065",
+      "name": "Sariego",
+      "method": "normalized-name",
+      "sourceName": "sarieGo",
+      "holidays": [
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:sarieGo:2026-07-24"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bopa114:sarieGo:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33066",
+      "name": "Siero",
+      "method": "normalized-name",
+      "sourceName": "siero",
+      "holidays": [
+        {
+          "date": "2026-04-07",
+          "name": "Huevos pintos, en todo el Concejo",
+          "sourceRecordId": "bopa114:siero:2026-04-07"
+        },
+        {
+          "date": "2026-07-20",
+          "name": "el Carmín, en todo el Concejo excepto en la parroquia de lugones/llugones",
+          "sourceRecordId": "bopa114:siero:2026-07-20"
+        }
+      ]
+    },
+    {
+      "ineCode": "33067",
+      "name": "Sobrescobio",
+      "method": "normalized-name",
+      "sourceName": "soBresCoBio",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Festividad san Ginés",
+          "sourceRecordId": "bopa114:soBresCoBio:2026-08-31"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Festividad de santa Bárbara",
+          "sourceRecordId": "bopa114:soBresCoBio:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "33068",
+      "name": "Somiedo",
+      "method": "normalized-name",
+      "sourceName": "somiedo",
+      "holidays": [
+        {
+          "date": "2026-04-30",
+          "name": "Feria",
+          "sourceRecordId": "bopa114:somiedo:2026-04-30"
+        },
+        {
+          "date": "2026-09-09",
+          "name": "Fiestas de nuestra señora",
+          "sourceRecordId": "bopa114:somiedo:2026-09-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "33069",
+      "name": "Soto del Barco",
+      "method": "normalized-name",
+      "sourceName": "soto del BarCo",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "san juan",
+          "sourceRecordId": "bopa114:soto del BarCo:2026-06-24"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:soto del BarCo:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "33070",
+      "name": "Tapia de Casariego",
+      "method": "normalized-name",
+      "sourceName": "tapia de CasarieGo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Festividad de san pedro",
+          "sourceRecordId": "bopa114:tapia de CasarieGo:2026-06-29"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Festividad de la virgen del Carmen",
+          "sourceRecordId": "bopa114:tapia de CasarieGo:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "33071",
+      "name": "Taramundi",
+      "method": "normalized-name",
+      "sourceName": "taramundi",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:taramundi:2026-02-17"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Festividad de san martín",
+          "sourceRecordId": "bopa114:taramundi:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "33072",
+      "name": "Teverga",
+      "method": "normalized-name",
+      "sourceName": "teverGa",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:teverGa:2026-06-29"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "santa Bárbara",
+          "sourceRecordId": "bopa114:teverGa:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "33073",
+      "name": "Tineo",
+      "method": "normalized-name",
+      "sourceName": "tineo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro en todo el municipio",
+          "sourceRecordId": "bopa114:tineo:2026-06-29"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "día siguiente al de san roque, en todo el municipio excepto en la parroquia de navelgas",
+          "sourceRecordId": "bopa114:tineo:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33074",
+      "name": "Vegadeo",
+      "method": "normalized-name",
+      "sourceName": "veGadeo",
+      "holidays": [
+        {
+          "date": "2026-06-08",
+          "name": "lunes de Feria",
+          "sourceRecordId": "bopa114:veGadeo:2026-06-08"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "día posterior a san roque",
+          "sourceRecordId": "bopa114:veGadeo:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "33075",
+      "name": "Villanueva de Oscos",
+      "method": "normalized-name",
+      "sourceName": "villanueva de osCos",
+      "holidays": [
+        {
+          "date": "2026-02-17",
+          "name": "martes de Carnaval",
+          "sourceRecordId": "bopa114:villanueva de osCos:2026-02-17"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "lunes siguiente a la Festividad de santa ana",
+          "sourceRecordId": "bopa114:villanueva de osCos:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "33076",
+      "name": "Villaviciosa",
+      "method": "normalized-name",
+      "sourceName": "villaviCiosa",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiestas patronales nuestra señora del portal",
+          "sourceRecordId": "bopa114:villaviCiosa:2026-09-14"
+        },
+        {
+          "date": "2026-09-16",
+          "name": "Fiestas patronales nuestra señora del portal",
+          "sourceRecordId": "bopa114:villaviCiosa:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "33077",
+      "name": "Villayón",
+      "method": "normalized-name",
+      "sourceName": "villayÓn",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "san pedro",
+          "sourceRecordId": "bopa114:villayÓn:2026-06-29"
+        },
+        {
+          "date": "2026-09-09",
+          "name": "santa maría de oneta",
+          "sourceRecordId": "bopa114:villayÓn:2026-09-09"
+        }
+      ]
+    }
+  ],
+  "omissions": [
+    {
+      "ineCode": "33003",
+      "name": "Amieva",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33019",
+      "name": "Colunga",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33046",
+      "name": "Peñamellera Alta",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33055",
+      "name": "Ribadedeva",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33059",
+      "name": "Salas",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33060",
+      "name": "San Martín del Rey Aurelio",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    },
+    {
+      "ineCode": "33078",
+      "name": "Yernes y Tameza",
+      "reason": "La resolución oficial del BOPA no contiene dos fiestas locales de ámbito de concejo para 2026: las fechas publicadas son específicas de parroquia o núcleos, o la fiesta patronal es movible sin fecha fija."
+    }
+  ]
+}

@@ -1,0 +1,3235 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "13",
+  "autonomousCommunity": "Comunidad de Madrid",
+  "localHolidayModel": "two-local-days",
+  "sources": [
+    {
+      "sourceId": "bocm-20251212-34",
+      "sourceSha256": "03af6ad5d49ea5988487d3b4fcb67f2659853829a6c185b4ea4a49484cef5576"
+    },
+    {
+      "sourceId": "bocm-20251229-19",
+      "sourceSha256": "55b9637fb16a0b936b92e73c044dd790fc4d77347c27770b803f1310d87c43c8"
+    },
+    {
+      "sourceId": "bocm-20260108-18",
+      "sourceSha256": "fb097853a326922d09bdd621b6eb312af061f9e56bea63f4bf9cdb324845889b"
+    }
+  ],
+  "auditNote": "Base + two amendment resolutions; 10 entries in amend1, 7 in amend2. Local-entity rows excluded: Cerceda, ElEspartal, Mataelpino.",
+  "municipalities": [
+    {
+      "ineCode": "28001",
+      "name": "Acebeda, La",
+      "method": "normalized-name",
+      "sourceName": "LaAcebeda",
+      "holidays": [
+        {
+          "date": "2026-01-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaAcebeda:2026-01-19"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaAcebeda:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28002",
+      "name": "Ajalvir",
+      "method": "normalized-name",
+      "sourceName": "Ajalvir",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ajalvir:2026-02-03"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ajalvir:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28003",
+      "name": "Alameda del Valle",
+      "method": "normalized-name",
+      "sourceName": "AlamedadelValle",
+      "holidays": [
+        {
+          "date": "2026-07-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AlamedadelValle:2026-07-17"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AlamedadelValle:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "28004",
+      "name": "Álamo, El",
+      "method": "normalized-name",
+      "sourceName": "ElÁlamo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElÁlamo:2026-05-15"
+        },
+        {
+          "date": "2026-09-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElÁlamo:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "28005",
+      "name": "Alcalá de Henares",
+      "method": "normalized-name",
+      "sourceName": "AlcaládeHenares",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AlcaládeHenares:2026-08-06"
+        },
+        {
+          "date": "2026-10-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AlcaládeHenares:2026-10-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28006",
+      "name": "Alcobendas",
+      "method": "normalized-name",
+      "sourceName": "Alcobendas",
+      "holidays": [
+        {
+          "date": "2026-01-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alcobendas:2026-01-24"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alcobendas:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28007",
+      "name": "Alcorcón",
+      "method": "normalized-name",
+      "sourceName": "Alcorcón",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alcorcón:2026-04-06"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alcorcón:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28008",
+      "name": "Aldea del Fresno",
+      "method": "normalized-name",
+      "sourceName": "AldeadelFresno",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AldeadelFresno:2026-01-17"
+        },
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:AldeadelFresno:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28009",
+      "name": "Algete",
+      "method": "normalized-name",
+      "sourceName": "Algete",
+      "holidays": [
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Algete:2026-09-11"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Algete:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28010",
+      "name": "Alpedrete",
+      "method": "normalized-name",
+      "sourceName": "Alpedrete",
+      "holidays": [
+        {
+          "date": "2026-05-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alpedrete:2026-05-21"
+        },
+        {
+          "date": "2026-05-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Alpedrete:2026-05-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "28011",
+      "name": "Ambite",
+      "method": "normalized-name",
+      "sourceName": "Ambite",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ambite:2026-05-04"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ambite:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28012",
+      "name": "Anchuelo",
+      "method": "normalized-name",
+      "sourceName": "Anchuelo",
+      "holidays": [
+        {
+          "date": "2026-04-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Anchuelo:2026-04-29"
+        },
+        {
+          "date": "2026-04-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Anchuelo:2026-04-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28013",
+      "name": "Aranjuez",
+      "method": "normalized-name",
+      "sourceName": "Aranjuez",
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Aranjuez:2026-05-29"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Aranjuez:2026-09-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28014",
+      "name": "Arganda del Rey",
+      "method": "normalized-name",
+      "sourceName": "ArgandadelRey",
+      "holidays": [
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ArgandadelRey:2026-09-11"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ArgandadelRey:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28015",
+      "name": "Arroyomolinos",
+      "method": "normalized-name",
+      "sourceName": "Arroyomolinos",
+      "holidays": [
+        {
+          "date": "2026-06-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Arroyomolinos:2026-06-04"
+        },
+        {
+          "date": "2026-06-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Arroyomolinos:2026-06-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28016",
+      "name": "Atazar, El",
+      "method": "normalized-name",
+      "sourceName": "ElAtazar",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElAtazar:2026-05-04"
+        },
+        {
+          "date": "2026-11-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElAtazar:2026-11-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "28017",
+      "name": "Batres",
+      "method": "normalized-name",
+      "sourceName": "Batres",
+      "holidays": [
+        {
+          "date": "2026-02-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Batres:2026-02-09"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Batres:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "28018",
+      "name": "Becerril de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "BecerrildelaSierra",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BecerrildelaSierra:2026-08-17"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BecerrildelaSierra:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28019",
+      "name": "Belmonte de Tajo",
+      "method": "normalized-name",
+      "sourceName": "BelmontedeTajo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BelmontedeTajo:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BelmontedeTajo:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28020",
+      "name": "Berzosa del Lozoya",
+      "method": "normalized-name",
+      "sourceName": "BerzosadeLozoya",
+      "holidays": [
+        {
+          "date": "2026-04-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BerzosadeLozoya:2026-04-30"
+        },
+        {
+          "date": "2026-10-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BerzosadeLozoya:2026-10-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28021",
+      "name": "Berrueco, El",
+      "method": "normalized-name",
+      "sourceName": "ElBerrueco",
+      "holidays": [
+        {
+          "date": "2026-05-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElBerrueco:2026-05-11"
+        },
+        {
+          "date": "2026-05-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElBerrueco:2026-05-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "28022",
+      "name": "Boadilla del Monte",
+      "method": "normalized-name",
+      "sourceName": "BoadilladelMonte",
+      "holidays": [
+        {
+          "date": "2026-06-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BoadilladelMonte:2026-06-01"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BoadilladelMonte:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28023",
+      "name": "Boalo, El",
+      "method": "normalized-name",
+      "sourceName": "ElBoalo",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElBoalo:2026-01-20"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElBoalo:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28024",
+      "name": "Braojos",
+      "method": "normalized-name",
+      "sourceName": "BraojosdelaSierra",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BraojosdelaSierra:2026-01-22"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BraojosdelaSierra:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28025",
+      "name": "Brea de Tajo",
+      "method": "normalized-name",
+      "sourceName": "BreadeTajo",
+      "holidays": [
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BreadeTajo:2026-10-05"
+        },
+        {
+          "date": "2026-10-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BreadeTajo:2026-10-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "28026",
+      "name": "Brunete",
+      "method": "normalized-name",
+      "sourceName": "Brunete",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Brunete:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Brunete:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28027",
+      "name": "Buitrago del Lozoya",
+      "method": "normalized-name",
+      "sourceName": "BuitragodeLozoya",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BuitragodeLozoya:2026-08-14"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:BuitragodeLozoya:2026-09-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28028",
+      "name": "Bustarviejo",
+      "method": "normalized-name",
+      "sourceName": "Bustarviejo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Bustarviejo:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Bustarviejo:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28029",
+      "name": "Cabanillas de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "CabanillasdelaSierra",
+      "holidays": [
+        {
+          "date": "2026-06-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CabanillasdelaSierra:2026-06-05"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CabanillasdelaSierra:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28030",
+      "name": "Cabrera, La",
+      "method": "normalized-name",
+      "sourceName": "LaCabrera",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaCabrera:2026-06-12"
+        },
+        {
+          "date": "2026-10-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaCabrera:2026-10-19"
+        }
+      ]
+    },
+    {
+      "ineCode": "28031",
+      "name": "Cadalso de los Vidrios",
+      "method": "normalized-name",
+      "sourceName": "CadalsodelosVidrios",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CadalsodelosVidrios:2026-04-06"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CadalsodelosVidrios:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28032",
+      "name": "Camarma de Esteruelas",
+      "method": "normalized-name",
+      "sourceName": "CamarmadeEsteruelas",
+      "holidays": [
+        {
+          "date": "2026-09-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CamarmadeEsteruelas:2026-09-03"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CamarmadeEsteruelas:2026-09-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28033",
+      "name": "Campo Real",
+      "method": "normalized-name",
+      "sourceName": "CampoReal",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CampoReal:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CampoReal:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28034",
+      "name": "Canencia",
+      "method": "normalized-name",
+      "sourceName": "Canencia",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Canencia:2026-04-06"
+        },
+        {
+          "date": "2026-10-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Canencia:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "28035",
+      "name": "Carabaña",
+      "method": "normalized-name",
+      "sourceName": "Carabaña",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Carabaña:2026-09-14"
+        },
+        {
+          "date": "2026-12-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Carabaña:2026-12-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28036",
+      "name": "Casarrubuelos",
+      "method": "normalized-name",
+      "sourceName": "Casarrubuelos",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Casarrubuelos:2026-05-04"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Casarrubuelos:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28037",
+      "name": "Cenicientos",
+      "method": "normalized-name",
+      "sourceName": "Cenicientos",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cenicientos:2026-05-15"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cenicientos:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28038",
+      "name": "Cercedilla",
+      "method": "normalized-name",
+      "sourceName": "Cercedilla",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cercedilla:2026-01-20"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cercedilla:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28039",
+      "name": "Cervera de Buitrago",
+      "method": "normalized-name",
+      "sourceName": "CerveradeBuitrago",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CerveradeBuitrago:2026-07-27"
+        },
+        {
+          "date": "2026-12-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CerveradeBuitrago:2026-12-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "28040",
+      "name": "Ciempozuelos",
+      "method": "normalized-name",
+      "sourceName": "Ciempozuelos",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ciempozuelos:2026-09-14"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ciempozuelos:2026-09-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28041",
+      "name": "Cobeña",
+      "method": "normalized-name",
+      "sourceName": "Cobeña",
+      "holidays": [
+        {
+          "date": "2026-05-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cobeña:2026-05-08"
+        },
+        {
+          "date": "2026-10-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Cobeña:2026-10-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "28042",
+      "name": "Colmenar del Arroyo",
+      "method": "normalized-name",
+      "sourceName": "ColmenardelArroyo",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenardelArroyo:2026-01-22"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenardelArroyo:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28043",
+      "name": "Colmenar de Oreja",
+      "method": "normalized-name",
+      "sourceName": "ColmenardeOreja",
+      "holidays": [
+        {
+          "date": "2026-04-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenardeOreja:2026-04-30"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenardeOreja:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28044",
+      "name": "Colmenarejo",
+      "method": "normalized-name",
+      "sourceName": "Colmenarejo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Colmenarejo:2026-05-15"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Colmenarejo:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28045",
+      "name": "Colmenar Viejo",
+      "method": "normalized-name",
+      "sourceName": "ColmenarViejo",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenarViejo:2026-08-31"
+        },
+        {
+          "date": "2026-09-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColmenarViejo:2026-09-01"
+        }
+      ]
+    },
+    {
+      "ineCode": "28046",
+      "name": "Collado Mediano",
+      "method": "normalized-name",
+      "sourceName": "ColladoMediano",
+      "holidays": [
+        {
+          "date": "2026-01-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColladoMediano:2026-01-23"
+        },
+        {
+          "date": "2026-01-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColladoMediano:2026-01-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "28047",
+      "name": "Collado Villalba",
+      "method": "normalized-name",
+      "sourceName": "ColladoVillalba",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColladoVillalba:2026-06-12"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ColladoVillalba:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28048",
+      "name": "Corpa",
+      "method": "normalized-name",
+      "sourceName": "Corpa",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Corpa:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Corpa:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28049",
+      "name": "Coslada",
+      "method": "normalized-name",
+      "sourceName": "Coslada",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Coslada:2026-05-15"
+        },
+        {
+          "date": "2026-06-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Coslada:2026-06-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28050",
+      "name": "Cubas de la Sagra",
+      "method": "normalized-name",
+      "sourceName": "CubasdelaSagra",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CubasdelaSagra:2026-02-03"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:CubasdelaSagra:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28051",
+      "name": "Chapinería",
+      "method": "normalized-name",
+      "sourceName": "Chapinería",
+      "holidays": [
+        {
+          "date": "2026-03-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Chapinería:2026-03-02"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Chapinería:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28052",
+      "name": "Chinchón",
+      "method": "normalized-name",
+      "sourceName": "Chinchón",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Chinchón:2026-08-14"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Chinchón:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "28053",
+      "name": "Daganzo de Arriba",
+      "method": "normalized-name",
+      "sourceName": "DaganzodeArriba",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:DaganzodeArriba:2026-06-12"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:DaganzodeArriba:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28054",
+      "name": "Escorial, El",
+      "method": "normalized-name",
+      "sourceName": "ElEscorial",
+      "holidays": [
+        {
+          "date": "2026-06-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElEscorial:2026-06-11"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElEscorial:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28055",
+      "name": "Estremera",
+      "method": "normalized-name",
+      "sourceName": "Estremera",
+      "holidays": [
+        {
+          "date": "2026-10-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Estremera:2026-10-13"
+        },
+        {
+          "date": "2026-10-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Estremera:2026-10-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "28056",
+      "name": "Fresnedillas de la Oliva",
+      "method": "normalized-name",
+      "sourceName": "FresnedillasdelaOliva",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FresnedillasdelaOliva:2026-01-20"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FresnedillasdelaOliva:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28057",
+      "name": "Fresno de Torote",
+      "method": "normalized-name",
+      "sourceName": "FresnodeTorote",
+      "holidays": [
+        {
+          "date": "2026-08-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FresnodeTorote:2026-08-13"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FresnodeTorote:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28058",
+      "name": "Fuenlabrada",
+      "method": "normalized-name",
+      "sourceName": "Fuenlabrada",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Fuenlabrada:2026-09-14"
+        },
+        {
+          "date": "2026-12-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Fuenlabrada:2026-12-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "28059",
+      "name": "Fuente el Saz de Jarama",
+      "method": "normalized-name",
+      "sourceName": "FuenteElSazdeJarama",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FuenteElSazdeJarama:2026-09-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FuenteElSazdeJarama:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28060",
+      "name": "Fuentidueña de Tajo",
+      "method": "normalized-name",
+      "sourceName": "FuentidueñadeTajo",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FuentidueñadeTajo:2026-09-14"
+        },
+        {
+          "date": "2026-09-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:FuentidueñadeTajo:2026-09-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28061",
+      "name": "Galapagar",
+      "method": "normalized-name",
+      "sourceName": "Galapagar",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Galapagar:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Galapagar:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28062",
+      "name": "Garganta de los Montes",
+      "method": "normalized-name",
+      "sourceName": "GargantadelosMontes",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GargantadelosMontes:2026-05-15"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GargantadelosMontes:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28063",
+      "name": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "method": "normalized-name",
+      "sourceName": "GargantilladelLozoyayPinilladeBuitrago",
+      "holidays": [
+        {
+          "date": "2026-03-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GargantilladelLozoyayPinilladeBuitrago:2026-03-21"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GargantilladelLozoyayPinilladeBuitrago:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28064",
+      "name": "Gascones",
+      "method": "normalized-name",
+      "sourceName": "Gascones",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Gascones:2026-08-03"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Gascones:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28065",
+      "name": "Getafe",
+      "method": "normalized-name",
+      "sourceName": "Getafe",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Getafe:2026-05-14"
+        },
+        {
+          "date": "2026-05-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Getafe:2026-05-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "28066",
+      "name": "Griñón",
+      "method": "normalized-name",
+      "sourceName": "Griñón",
+      "holidays": [
+        {
+          "date": "2026-06-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Griñón:2026-06-17"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Griñón:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28067",
+      "name": "Guadalix de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "GuadalixdelaSierra",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GuadalixdelaSierra:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:GuadalixdelaSierra:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28068",
+      "name": "Guadarrama",
+      "method": "normalized-name",
+      "sourceName": "Guadarrama",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Guadarrama:2026-09-29"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Guadarrama:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28069",
+      "name": "Hiruela, La",
+      "method": "normalized-name",
+      "sourceName": "LaHiruela",
+      "holidays": [
+        {
+          "date": "2026-02-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaHiruela:2026-02-13"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaHiruela:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28070",
+      "name": "Horcajo de la Sierra-Aoslos",
+      "method": "normalized-name",
+      "sourceName": "HorcajodelaSierra-Aoslos",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HorcajodelaSierra-Aoslos:2026-05-15"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HorcajodelaSierra-Aoslos:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "28071",
+      "name": "Horcajuelo de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "HorcajuelodelaSierra",
+      "holidays": [
+        {
+          "date": "2026-06-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HorcajuelodelaSierra:2026-06-15"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HorcajuelodelaSierra:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28072",
+      "name": "Hoyo de Manzanares",
+      "method": "normalized-name",
+      "sourceName": "HoyodeManzanares",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HoyodeManzanares:2026-09-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HoyodeManzanares:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28073",
+      "name": "Humanes de Madrid",
+      "method": "normalized-name",
+      "sourceName": "HumanesdeMadrid",
+      "holidays": [
+        {
+          "date": "2026-08-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HumanesdeMadrid:2026-08-08"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:HumanesdeMadrid:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "28074",
+      "name": "Leganés",
+      "method": "normalized-name",
+      "sourceName": "Leganés",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Leganés:2026-08-14"
+        },
+        {
+          "date": "2026-10-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Leganés:2026-10-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28075",
+      "name": "Loeches",
+      "method": "normalized-name",
+      "sourceName": "Loeches",
+      "holidays": [
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Loeches:2026-09-10"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Loeches:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28076",
+      "name": "Lozoya",
+      "method": "normalized-name",
+      "sourceName": "Lozoya",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Lozoya:2026-08-06"
+        },
+        {
+          "date": "2026-10-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Lozoya:2026-10-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "28078",
+      "name": "Madarcos",
+      "method": "normalized-name",
+      "sourceName": "Madarcos",
+      "holidays": [
+        {
+          "date": "2026-03-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Madarcos:2026-03-02"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Madarcos:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "28079",
+      "name": "Madrid",
+      "method": "normalized-name",
+      "sourceName": "Madrid",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Madrid:2026-05-15"
+        },
+        {
+          "date": "2026-11-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Madrid:2026-11-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28080",
+      "name": "Majadahonda",
+      "method": "normalized-name",
+      "sourceName": "Majadahonda",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Majadahonda:2026-09-14"
+        },
+        {
+          "date": "2026-11-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Majadahonda:2026-11-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "28082",
+      "name": "Manzanares el Real",
+      "method": "normalized-name",
+      "sourceName": "ManzanaresElReal",
+      "holidays": [
+        {
+          "date": "2026-05-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ManzanaresElReal:2026-05-25"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ManzanaresElReal:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28083",
+      "name": "Meco",
+      "method": "normalized-name",
+      "sourceName": "Meco",
+      "holidays": [
+        {
+          "date": "2026-09-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Meco:2026-09-10"
+        },
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Meco:2026-09-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28084",
+      "name": "Mejorada del Campo",
+      "method": "normalized-name",
+      "sourceName": "MejoradadelCampo",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MejoradadelCampo:2026-09-21"
+        },
+        {
+          "date": "2026-09-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MejoradadelCampo:2026-09-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "28085",
+      "name": "Miraflores de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "MirafloresdelaSierra",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MirafloresdelaSierra:2026-02-03"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MirafloresdelaSierra:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28086",
+      "name": "Molar, El",
+      "method": "normalized-name",
+      "sourceName": "ElMolar",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElMolar:2026-05-14"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElMolar:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28087",
+      "name": "Molinos, Los",
+      "method": "normalized-name",
+      "sourceName": "LosMolinos",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LosMolinos:2026-01-20"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LosMolinos:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28088",
+      "name": "Montejo de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "MontejodelaSierra",
+      "holidays": [
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MontejodelaSierra:2026-09-04"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MontejodelaSierra:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28089",
+      "name": "Moraleja de Enmedio",
+      "method": "normalized-name",
+      "sourceName": "MoralejadeEnmedio",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MoralejadeEnmedio:2026-09-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MoralejadeEnmedio:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28090",
+      "name": "Moralzarzal",
+      "method": "normalized-name",
+      "sourceName": "Moralzarzal",
+      "holidays": [
+        {
+          "date": "2026-09-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Moralzarzal:2026-09-24"
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Moralzarzal:2026-09-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "28091",
+      "name": "Morata de Tajuña",
+      "method": "normalized-name",
+      "sourceName": "MoratadeTajuña",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MoratadeTajuña:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:MoratadeTajuña:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28092",
+      "name": "Móstoles",
+      "method": "normalized-name",
+      "sourceName": "Móstoles",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Móstoles:2026-05-15"
+        },
+        {
+          "date": "2026-09-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Móstoles:2026-09-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "28093",
+      "name": "Navacerrada",
+      "method": "normalized-name",
+      "sourceName": "Navacerrada",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navacerrada:2026-06-13"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navacerrada:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28094",
+      "name": "Navalafuente",
+      "method": "normalized-name",
+      "sourceName": "Navalafuente",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalafuente:2026-02-03"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalafuente:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28095",
+      "name": "Navalagamella",
+      "method": "normalized-name",
+      "sourceName": "Navalagamella",
+      "holidays": [
+        {
+          "date": "2026-05-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalagamella:2026-05-08"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalagamella:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28096",
+      "name": "Navalcarnero",
+      "method": "normalized-name",
+      "sourceName": "Navalcarnero",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalcarnero:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Navalcarnero:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28097",
+      "name": "Navarredonda y San Mamés",
+      "method": "normalized-name",
+      "sourceName": "NavarredondaySanMames",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NavarredondaySanMames:2026-08-17"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NavarredondaySanMames:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28099",
+      "name": "Navas del Rey",
+      "method": "normalized-name",
+      "sourceName": "NavasdelRey",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NavasdelRey:2026-09-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NavasdelRey:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28100",
+      "name": "Nuevo Baztán",
+      "method": "normalized-name",
+      "sourceName": "NuevoBaztán",
+      "holidays": [
+        {
+          "date": "2026-05-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NuevoBaztán:2026-05-11"
+        },
+        {
+          "date": "2026-12-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:NuevoBaztán:2026-12-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "28101",
+      "name": "Olmeda de las Fuentes",
+      "method": "normalized-name",
+      "sourceName": "OlmedadelasFuentes",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:OlmedadelasFuentes:2026-04-06"
+        },
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:OlmedadelasFuentes:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28102",
+      "name": "Orusco de Tajuña",
+      "method": "normalized-name",
+      "sourceName": "OruscodeTajuña",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:OruscodeTajuña:2026-09-14"
+        },
+        {
+          "date": "2026-12-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:OruscodeTajuña:2026-12-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28104",
+      "name": "Paracuellos de Jarama",
+      "method": "normalized-name",
+      "sourceName": "ParacuellosdeJarama",
+      "holidays": [
+        {
+          "date": "2026-05-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ParacuellosdeJarama:2026-05-25"
+        },
+        {
+          "date": "2026-05-26",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ParacuellosdeJarama:2026-05-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "28106",
+      "name": "Parla",
+      "method": "normalized-name",
+      "sourceName": "Parla",
+      "holidays": [
+        {
+          "date": "2026-06-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Parla:2026-06-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Parla:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28107",
+      "name": "Patones",
+      "method": "normalized-name",
+      "sourceName": "Patones",
+      "holidays": [
+        {
+          "date": "2026-02-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Patones:2026-02-02"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Patones:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28108",
+      "name": "Pedrezuela",
+      "method": "normalized-name",
+      "sourceName": "Pedrezuela",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Pedrezuela:2026-09-29"
+        },
+        {
+          "date": "2026-09-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Pedrezuela:2026-09-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28109",
+      "name": "Pelayos de la Presa",
+      "method": "normalized-name",
+      "sourceName": "PelayosdelaPresa",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PelayosdelaPresa:2026-02-03"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PelayosdelaPresa:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "28110",
+      "name": "Perales de Tajuña",
+      "method": "normalized-name",
+      "sourceName": "PeralesdeTajuña",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PeralesdeTajuña:2026-02-03"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PeralesdeTajuña:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28111",
+      "name": "Pezuela de las Torres",
+      "method": "normalized-name",
+      "sourceName": "PezueladelasTorres",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PezueladelasTorres:2026-05-04"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PezueladelasTorres:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28112",
+      "name": "Pinilla del Valle",
+      "method": "normalized-name",
+      "sourceName": "PinilladelValle",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PinilladelValle:2026-09-29"
+        },
+        {
+          "date": "2026-09-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PinilladelValle:2026-09-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28113",
+      "name": "Pinto",
+      "method": "normalized-name",
+      "sourceName": "Pinto",
+      "holidays": [
+        {
+          "date": "2026-03-19",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Pinto:2026-03-19"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Pinto:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28114",
+      "name": "Piñuécar-Gandullas",
+      "method": "normalized-name",
+      "sourceName": "Piñuecar-Gandullas",
+      "holidays": [
+        {
+          "date": "2026-01-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Piñuecar-Gandullas:2026-01-23"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Piñuecar-Gandullas:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28115",
+      "name": "Pozuelo de Alarcón",
+      "method": "normalized-name",
+      "sourceName": "PozuelodeAlarcón",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PozuelodeAlarcón:2026-07-16"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PozuelodeAlarcón:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28116",
+      "name": "Pozuelo del Rey",
+      "method": "normalized-name",
+      "sourceName": "PozuelodelRey",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PozuelodelRey:2026-05-15"
+        },
+        {
+          "date": "2026-09-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PozuelodelRey:2026-09-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28117",
+      "name": "Prádena del Rincón",
+      "method": "normalized-name",
+      "sourceName": "PrádenadelRincón",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PrádenadelRincón:2026-07-16"
+        },
+        {
+          "date": "2026-10-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PrádenadelRincón:2026-10-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28118",
+      "name": "Puebla de la Sierra",
+      "method": "normalized-name",
+      "sourceName": "PuebladelaSierra",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PuebladelaSierra:2026-04-27"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PuebladelaSierra:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28119",
+      "name": "Quijorna",
+      "method": "normalized-name",
+      "sourceName": "Quijorna",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Quijorna:2026-05-15"
+        },
+        {
+          "date": "2026-12-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Quijorna:2026-12-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28120",
+      "name": "Rascafría",
+      "method": "normalized-name",
+      "sourceName": "Rascafría",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Rascafría:2026-08-17"
+        },
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Rascafría:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28121",
+      "name": "Redueña",
+      "method": "normalized-name",
+      "sourceName": "Redueña",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Redueña:2026-09-14"
+        },
+        {
+          "date": "2026-12-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Redueña:2026-12-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28122",
+      "name": "Ribatejada",
+      "method": "normalized-name",
+      "sourceName": "Ribatejada",
+      "holidays": [
+        {
+          "date": "2026-05-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ribatejada:2026-05-29"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Ribatejada:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28123",
+      "name": "Rivas-Vaciamadrid",
+      "method": "normalized-name",
+      "sourceName": "Rivas-Vaciamadrid",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Rivas-Vaciamadrid:2026-05-14"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Rivas-Vaciamadrid:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28124",
+      "name": "Robledillo de la Jara",
+      "method": "normalized-name",
+      "sourceName": "RobledillodelaJara",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RobledillodelaJara:2026-08-10"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RobledillodelaJara:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28125",
+      "name": "Robledo de Chavela",
+      "method": "normalized-name",
+      "sourceName": "RobledodeChavela",
+      "holidays": [
+        {
+          "date": "2026-08-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RobledodeChavela:2026-08-27"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RobledodeChavela:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "28126",
+      "name": "Robregordo",
+      "method": "normalized-name",
+      "sourceName": "Robregordo",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Robregordo:2026-08-17"
+        },
+        {
+          "date": "2026-08-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Robregordo:2026-08-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "28127",
+      "name": "Rozas de Madrid, Las",
+      "method": "normalized-name",
+      "sourceName": "LasRozasdeMadrid",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LasRozasdeMadrid:2026-05-04"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LasRozasdeMadrid:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28128",
+      "name": "Rozas de Puerto Real",
+      "method": "normalized-name",
+      "sourceName": "RozasdePuertoReal",
+      "holidays": [
+        {
+          "date": "2026-02-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RozasdePuertoReal:2026-02-05"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:RozasdePuertoReal:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28129",
+      "name": "San Agustín del Guadalix",
+      "method": "normalized-name",
+      "sourceName": "SanAgustíndelGuadalix",
+      "holidays": [
+        {
+          "date": "2026-09-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanAgustíndelGuadalix:2026-09-18"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanAgustíndelGuadalix:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "28130",
+      "name": "San Fernando de Henares",
+      "method": "normalized-name",
+      "sourceName": "SanFernandodeHenares",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanFernandodeHenares:2026-05-15"
+        },
+        {
+          "date": "2026-05-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanFernandodeHenares:2026-05-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28131",
+      "name": "San Lorenzo de El Escorial",
+      "method": "normalized-name",
+      "sourceName": "SanLorenzodeElEscorial",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanLorenzodeElEscorial:2026-08-10"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanLorenzodeElEscorial:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28132",
+      "name": "San Martín de la Vega",
+      "method": "normalized-name",
+      "sourceName": "SanMartíndelaVega",
+      "holidays": [
+        {
+          "date": "2026-04-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanMartíndelaVega:2026-04-27"
+        },
+        {
+          "date": "2026-04-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanMartíndelaVega:2026-04-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28133",
+      "name": "San Martín de Valdeiglesias",
+      "method": "normalized-name",
+      "sourceName": "SanMartindeValdeiglesias",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanMartindeValdeiglesias:2026-09-08"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanMartindeValdeiglesias:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28134",
+      "name": "San Sebastián de los Reyes",
+      "method": "normalized-name",
+      "sourceName": "SanSebastiándelosReyes",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanSebastiándelosReyes:2026-01-20"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SanSebastiándelosReyes:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28135",
+      "name": "Santa María de la Alameda",
+      "method": "normalized-name",
+      "sourceName": "SantaMaríadelaAlameda",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SantaMaríadelaAlameda:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SantaMaríadelaAlameda:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28136",
+      "name": "Santorcaz",
+      "method": "normalized-name",
+      "sourceName": "Santorcaz",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Santorcaz:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Santorcaz:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28137",
+      "name": "Santos de la Humosa, Los",
+      "method": "normalized-name",
+      "sourceName": "LosSantosdelaHumosa",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LosSantosdelaHumosa:2026-05-15"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LosSantosdelaHumosa:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28138",
+      "name": "Serna del Monte, La",
+      "method": "normalized-name",
+      "sourceName": "LaSernadelMonte",
+      "holidays": [
+        {
+          "date": "2026-08-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaSernadelMonte:2026-08-27"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:LaSernadelMonte:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "28140",
+      "name": "Serranillos del Valle",
+      "method": "normalized-name",
+      "sourceName": "SerranillosdelValle",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SerranillosdelValle:2026-08-17"
+        },
+        {
+          "date": "2026-09-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SerranillosdelValle:2026-09-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "28141",
+      "name": "Sevilla la Nueva",
+      "method": "normalized-name",
+      "sourceName": "SevillalaNueva",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SevillalaNueva:2026-05-15"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SevillalaNueva:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28143",
+      "name": "Somosierra",
+      "method": "normalized-name",
+      "sourceName": "Somosierra",
+      "holidays": [
+        {
+          "date": "2026-07-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Somosierra:2026-07-31"
+        },
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Somosierra:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "28144",
+      "name": "Soto del Real",
+      "method": "normalized-name",
+      "sourceName": "SotodelReal",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SotodelReal:2026-08-03"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:SotodelReal:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28145",
+      "name": "Talamanca de Jarama",
+      "method": "normalized-name",
+      "sourceName": "TalamancadeJarama",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TalamancadeJarama:2026-02-03"
+        },
+        {
+          "date": "2026-04-13",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TalamancadeJarama:2026-04-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "28146",
+      "name": "Tielmes",
+      "method": "normalized-name",
+      "sourceName": "Tielmes",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Tielmes:2026-05-15"
+        },
+        {
+          "date": "2026-08-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Tielmes:2026-08-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "28147",
+      "name": "Titulcia",
+      "method": "normalized-name",
+      "sourceName": "Titulcia",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Titulcia:2026-08-31"
+        },
+        {
+          "date": "2026-09-01",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Titulcia:2026-09-01"
+        }
+      ]
+    },
+    {
+      "ineCode": "28148",
+      "name": "Torrejón de Ardoz",
+      "method": "normalized-name",
+      "sourceName": "TorrejóndeArdoz",
+      "holidays": [
+        {
+          "date": "2026-06-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndeArdoz:2026-06-22"
+        },
+        {
+          "date": "2026-06-23",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndeArdoz:2026-06-23"
+        }
+      ]
+    },
+    {
+      "ineCode": "28149",
+      "name": "Torrejón de la Calzada",
+      "method": "normalized-name",
+      "sourceName": "TorrejóndelaCalzada",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndelaCalzada:2026-01-20"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndelaCalzada:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28150",
+      "name": "Torrejón de Velasco",
+      "method": "normalized-name",
+      "sourceName": "TorrejóndeVelasco",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndeVelasco:2026-05-15"
+        },
+        {
+          "date": "2026-10-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorrejóndeVelasco:2026-10-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28151",
+      "name": "Torrelaguna",
+      "method": "normalized-name",
+      "sourceName": "Torrelaguna",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Torrelaguna:2026-09-07"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Torrelaguna:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28152",
+      "name": "Torrelodones",
+      "method": "normalized-name",
+      "sourceName": "Torrelodones",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Torrelodones:2026-07-16"
+        },
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Torrelodones:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28153",
+      "name": "Torremocha de Jarama",
+      "method": "normalized-name",
+      "sourceName": "TorremochadeJarama",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorremochadeJarama:2026-05-14"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorremochadeJarama:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28154",
+      "name": "Torres de la Alameda",
+      "method": "normalized-name",
+      "sourceName": "TorresdelaAlameda",
+      "holidays": [
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorresdelaAlameda:2026-10-05"
+        },
+        {
+          "date": "2026-10-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TorresdelaAlameda:2026-10-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "28155",
+      "name": "Valdaracete",
+      "method": "normalized-name",
+      "sourceName": "Valdaracete",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdaracete:2026-05-04"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdaracete:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28156",
+      "name": "Valdeavero",
+      "method": "normalized-name",
+      "sourceName": "Valdeavero",
+      "holidays": [
+        {
+          "date": "2026-09-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdeavero:2026-09-11"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdeavero:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28157",
+      "name": "Valdelaguna",
+      "method": "normalized-name",
+      "sourceName": "Valdelaguna",
+      "holidays": [
+        {
+          "date": "2026-04-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdelaguna:2026-04-20"
+        },
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdelaguna:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "28158",
+      "name": "Valdemanco",
+      "method": "normalized-name",
+      "sourceName": "Valdemanco",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemanco:2026-07-16"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemanco:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "28159",
+      "name": "Valdemaqueda",
+      "method": "normalized-name",
+      "sourceName": "Valdemaqueda",
+      "holidays": [
+        {
+          "date": "2026-02-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemaqueda:2026-02-18"
+        },
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemaqueda:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "28160",
+      "name": "Valdemorillo",
+      "method": "normalized-name",
+      "sourceName": "Valdemorillo",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemorillo:2026-02-03"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemorillo:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28161",
+      "name": "Valdemoro",
+      "method": "normalized-name",
+      "sourceName": "Valdemoro",
+      "holidays": [
+        {
+          "date": "2026-05-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemoro:2026-05-11"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdemoro:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28163",
+      "name": "Valdepiélagos",
+      "method": "normalized-name",
+      "sourceName": "Valdepielagos",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdepielagos:2026-05-14"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdepielagos:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28164",
+      "name": "Valdetorres de Jarama",
+      "method": "normalized-name",
+      "sourceName": "ValdetorresdelJarama",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ValdetorresdelJarama:2026-05-04"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ValdetorresdelJarama:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28165",
+      "name": "Valdilecha",
+      "method": "normalized-name",
+      "sourceName": "Valdilecha",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdilecha:2026-09-08"
+        },
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Valdilecha:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "28166",
+      "name": "Valverde de Alcalá",
+      "method": "normalized-name",
+      "sourceName": "ValverdedeAlcalá",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ValverdedeAlcalá:2026-05-15"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ValverdedeAlcalá:2026-09-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28167",
+      "name": "Velilla de San Antonio",
+      "method": "normalized-name",
+      "sourceName": "VelilladeSanAntonio",
+      "holidays": [
+        {
+          "date": "2026-09-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VelilladeSanAntonio:2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VelilladeSanAntonio:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "28168",
+      "name": "Vellón, El",
+      "method": "normalized-name",
+      "sourceName": "ElVellón",
+      "holidays": [
+        {
+          "date": "2026-10-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElVellón:2026-10-02"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:ElVellón:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "28169",
+      "name": "Venturada",
+      "method": "normalized-name",
+      "sourceName": "Venturada",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Venturada:2026-05-15"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Venturada:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28170",
+      "name": "Villaconejos",
+      "method": "normalized-name",
+      "sourceName": "Villaconejos",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villaconejos:2026-05-04"
+        },
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villaconejos:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "28171",
+      "name": "Villa del Prado",
+      "method": "normalized-name",
+      "sourceName": "VilladelPrado",
+      "holidays": [
+        {
+          "date": "2026-04-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VilladelPrado:2026-04-06"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VilladelPrado:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28172",
+      "name": "Villalbilla",
+      "method": "normalized-name",
+      "sourceName": "Villalbilla",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villalbilla:2026-05-04"
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villalbilla:2026-09-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "28173",
+      "name": "Villamanrique de Tajo",
+      "method": "normalized-name",
+      "sourceName": "VillamanriquedeTajo",
+      "holidays": [
+        {
+          "date": "2026-04-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillamanriquedeTajo:2026-04-24"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillamanriquedeTajo:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "28174",
+      "name": "Villamanta",
+      "method": "normalized-name",
+      "sourceName": "Villamanta",
+      "holidays": [
+        {
+          "date": "2026-01-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villamanta:2026-01-30"
+        },
+        {
+          "date": "2026-05-22",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villamanta:2026-05-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "28175",
+      "name": "Villamantilla",
+      "method": "normalized-name",
+      "sourceName": "Villamantilla",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villamantilla:2026-09-29"
+        },
+        {
+          "date": "2026-12-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Villamantilla:2026-12-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "28176",
+      "name": "Villanueva de la Cañada",
+      "method": "normalized-name",
+      "sourceName": "VillanuevadelaCañada",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadelaCañada:2026-05-15"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadelaCañada:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "28177",
+      "name": "Villanueva del Pardillo",
+      "method": "normalized-name",
+      "sourceName": "VillanuevadelPardillo",
+      "holidays": [
+        {
+          "date": "2026-10-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadelPardillo:2026-10-15"
+        },
+        {
+          "date": "2026-10-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadelPardillo:2026-10-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "28178",
+      "name": "Villanueva de Perales",
+      "method": "normalized-name",
+      "sourceName": "VillanuevadePerales",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadePerales:2026-05-04"
+        },
+        {
+          "date": "2026-12-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillanuevadePerales:2026-12-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "28179",
+      "name": "Villar del Olmo",
+      "method": "normalized-name",
+      "sourceName": "VillardelOlmo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillardelOlmo:2026-05-15"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillardelOlmo:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "28180",
+      "name": "Villarejo de Salvanés",
+      "method": "normalized-name",
+      "sourceName": "VillarejodeSalvanés",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillarejodeSalvanés:2026-08-31"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillarejodeSalvanés:2026-10-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "28181",
+      "name": "Villaviciosa de Odón",
+      "method": "normalized-name",
+      "sourceName": "VillaviciosadeOdón",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillaviciosadeOdón:2026-01-20"
+        },
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillaviciosadeOdón:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "28182",
+      "name": "Villavieja del Lozoya",
+      "method": "normalized-name",
+      "sourceName": "VillaviejadelLozoya",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillaviejadelLozoya:2026-08-24"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:VillaviejadelLozoya:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28183",
+      "name": "Zarzalejo",
+      "method": "normalized-name",
+      "sourceName": "Zarzalejo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Zarzalejo:2026-06-29"
+        },
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Zarzalejo:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "28901",
+      "name": "Lozoyuela-Navas-Sieteiglesias",
+      "method": "normalized-name",
+      "sourceName": "Lozoyuela-Navas-Sieteiglesias",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Lozoyuela-Navas-Sieteiglesias:2026-09-21"
+        },
+        {
+          "date": "2026-12-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:Lozoyuela-Navas-Sieteiglesias:2026-12-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "28902",
+      "name": "Puentes Viejas",
+      "method": "normalized-name",
+      "sourceName": "PuentesViejas",
+      "holidays": [
+        {
+          "date": "2026-06-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PuentesViejas:2026-06-08"
+        },
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:PuentesViejas:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "28903",
+      "name": "Tres Cantos",
+      "method": "normalized-name",
+      "sourceName": "TresCantos",
+      "holidays": [
+        {
+          "date": "2026-03-21",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TresCantos:2026-03-21"
+        },
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "bocm:TresCantos:2026-06-24"
+        }
+      ]
+    }
+  ],
+  "omissions": [
+    {
+      "ineCode": "28162",
+      "name": "Valdeolmos-Alalpardo",
+      "reason": "El BOCM publica días festivos por núcleo de población para este municipio (Valdeolmos y Alalpardo) sin un par de ámbito municipal."
+    }
+  ]
+}

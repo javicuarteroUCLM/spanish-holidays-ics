@@ -1,0 +1,3266 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "autonomousCommunityCode": "16",
+  "autonomousCommunity": "País Vasco",
+  "localHolidayModel": "one-local-plus-province",
+  "sources": [
+    {
+      "sourceId": "euskadi-calendario-laboral-2026",
+      "sourceSha256": "c179376b3aaa84469555e0a1c2fe206158aa479fee8af9be6cfbb9a2ef87c078"
+    }
+  ],
+  "provinceDays": [
+    {
+      "provinceCode": "01",
+      "date": "2026-04-28",
+      "name": "San Prudencio",
+      "sourceRecordId": "territory:alava"
+    },
+    {
+      "provinceCode": "20",
+      "date": "2026-07-31",
+      "name": "San Ignacio de Loyola",
+      "sourceRecordId": "territory:gipuzkoa"
+    },
+    {
+      "provinceCode": "48",
+      "date": "2026-07-31",
+      "name": "San Ignacio de Loyola",
+      "sourceRecordId": "territory:bizkaia"
+    }
+  ],
+  "auditNote": "One local day per municipality from the official dataset; territory days (San Prudencio / San Ignacio) as province-scope days. Submunicipal-only entries (37 rows) do not cover their parent municipalities.",
+  "municipalities": [
+    {
+      "ineCode": "01001",
+      "name": "Alegría-Dulantzi",
+      "method": "normalized-name",
+      "sourceName": "Alegría-Dulantzi",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "San Blas",
+          "sourceRecordId": "dataset:01001:2026-02-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "01002",
+      "name": "Amurrio",
+      "method": "normalized-name",
+      "sourceName": "Amurrio",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01002:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "01003",
+      "name": "Aramaio",
+      "method": "normalized-name",
+      "sourceName": "Aramaio",
+      "holidays": [
+        {
+          "date": "2026-07-06",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01003:2026-07-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "01004",
+      "name": "Artziniega",
+      "method": "normalized-name",
+      "sourceName": "Artziniega",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Virgen de la Encina",
+          "sourceRecordId": "dataset:01004:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01006",
+      "name": "Armiñón",
+      "method": "normalized-name",
+      "sourceName": "Armiñón",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro Labrador",
+          "sourceRecordId": "dataset:01006:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01008",
+      "name": "Arratzua-Ubarrundia",
+      "method": "manual-alias",
+      "sourceName": "Arrazua-Ubarrundia",
+      "holidays": [
+        {
+          "date": "2026-12-28",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01008:2026-12-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "01009",
+      "name": "Asparrena",
+      "method": "normalized-name",
+      "sourceName": "Asparrena",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:01009:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "01011",
+      "name": "Baños de Ebro/Mañueta",
+      "method": "manual-alias",
+      "sourceName": "Baños de Ebro",
+      "holidays": [
+        {
+          "date": "2026-07-10",
+          "name": "San Cristóbal",
+          "sourceRecordId": "dataset:01011:2026-07-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "01013",
+      "name": "Barrundia",
+      "method": "normalized-name",
+      "sourceName": "Barrundia",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:01013:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01014",
+      "name": "Berantevilla",
+      "method": "normalized-name",
+      "sourceName": "Berantevilla",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Asunción de Nuestra Señora",
+          "sourceRecordId": "dataset:01014:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01016",
+      "name": "Bernedo",
+      "method": "normalized-name",
+      "sourceName": "Bernedo",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01016:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01017",
+      "name": "Campezo/Kanpezu",
+      "method": "manual-alias",
+      "sourceName": "Campezo",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro",
+          "sourceRecordId": "dataset:01017:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01018",
+      "name": "Zigoitia",
+      "method": "normalized-name",
+      "sourceName": "Zigoitia",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01018:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "01019",
+      "name": "Kripan",
+      "method": "manual-alias",
+      "sourceName": "Cripan",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Día de la Virgen",
+          "sourceRecordId": "dataset:01019:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01020",
+      "name": "Kuartango",
+      "method": "normalized-name",
+      "sourceName": "Kuartango",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01020:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01021",
+      "name": "Elburgo/Burgelu",
+      "method": "manual-alias",
+      "sourceName": "Elburgo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:01021:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "01022",
+      "name": "Elciego",
+      "method": "normalized-name",
+      "sourceName": "Elciego",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Virgen de la Plaza",
+          "sourceRecordId": "dataset:01022:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01023",
+      "name": "Elvillar/Bilar",
+      "method": "manual-alias",
+      "sourceName": "Elvillar",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro",
+          "sourceRecordId": "dataset:01023:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01027",
+      "name": "Iruraiz-Gauna",
+      "method": "normalized-name",
+      "sourceName": "Iruraiz-Gauna",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:01027:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01028",
+      "name": "Labastida/Bastida",
+      "method": "manual-alias",
+      "sourceName": "Labastida",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "2º día de Acción de Gracias",
+          "sourceRecordId": "dataset:01028:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "01030",
+      "name": "Lagrán",
+      "method": "normalized-name",
+      "sourceName": "Lagrán",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:01030:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01031",
+      "name": "Laguardia",
+      "method": "normalized-name",
+      "sourceName": "Laguardia",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01031:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01032",
+      "name": "Lanciego/Lantziego",
+      "method": "manual-alias",
+      "sourceName": "Lanciego",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "La Virgen del Campo",
+          "sourceRecordId": "dataset:01032:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01033",
+      "name": "Lapuebla de Labarca",
+      "method": "normalized-name",
+      "sourceName": "Lapuebla de Labarca",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01033:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01034",
+      "name": "Leza",
+      "method": "normalized-name",
+      "sourceName": "Leza",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "San Roque",
+          "sourceRecordId": "dataset:01034:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "01036",
+      "name": "Laudio/Llodio",
+      "method": "manual-alias",
+      "sourceName": "Llodio",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01036:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "01037",
+      "name": "Arraia-Maeztu",
+      "method": "normalized-name",
+      "sourceName": "Arraia-Maeztu",
+      "holidays": [
+        {
+          "date": "2026-06-22",
+          "name": "San Adrián",
+          "sourceRecordId": "dataset:01037:2026-06-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "01039",
+      "name": "Moreda de Álava/Moreda Araba",
+      "method": "manual-alias",
+      "sourceName": "Moreda de Álava",
+      "holidays": [
+        {
+          "date": "2026-10-22",
+          "name": "Las Virgenillas",
+          "sourceRecordId": "dataset:01039:2026-10-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "01041",
+      "name": "Navaridas",
+      "method": "normalized-name",
+      "sourceName": "Navaridas",
+      "holidays": [
+        {
+          "date": "2026-06-02",
+          "name": "San Juan de Ortega",
+          "sourceRecordId": "dataset:01041:2026-06-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "01042",
+      "name": "Okondo",
+      "method": "normalized-name",
+      "sourceName": "Okondo",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:01042:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01043",
+      "name": "Oyón-Oion",
+      "method": "normalized-name",
+      "sourceName": "Oyón-Oion",
+      "holidays": [
+        {
+          "date": "2026-01-22",
+          "name": "San Vicente y San Anastasio",
+          "sourceRecordId": "dataset:01043:2026-01-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "01044",
+      "name": "Peñacerrada-Urizaharra",
+      "method": "normalized-name",
+      "sourceName": "Peñacerrada-Urizaharra",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro Labrador",
+          "sourceRecordId": "dataset:01044:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01046",
+      "name": "Erriberagoitia/Ribera Alta",
+      "method": "manual-alias",
+      "sourceName": "Ribera Alta",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro Labrador",
+          "sourceRecordId": "dataset:01046:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01047",
+      "name": "Ribera Baja/Erriberabeitia",
+      "method": "manual-alias",
+      "sourceName": "Ribera Baja",
+      "holidays": [
+        {
+          "date": "2026-08-31",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01047:2026-08-31"
+        }
+      ]
+    },
+    {
+      "ineCode": "01049",
+      "name": "Añana",
+      "method": "normalized-name",
+      "sourceName": "Añana",
+      "holidays": [
+        {
+          "date": "2026-07-10",
+          "name": "San Cristóbal",
+          "sourceRecordId": "dataset:01049:2026-07-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "01051",
+      "name": "Agurain/Salvatierra",
+      "method": "manual-alias",
+      "sourceName": "Salvatierra",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:01051:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "01052",
+      "name": "Samaniego",
+      "method": "normalized-name",
+      "sourceName": "Samaniego",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Nuestra Señora Virgen del Valle",
+          "sourceRecordId": "dataset:01052:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "01053",
+      "name": "San Millán/Donemiliaga",
+      "method": "manual-alias",
+      "sourceName": "San Millán",
+      "holidays": [
+        {
+          "date": "2026-11-12",
+          "name": "San Millán",
+          "sourceRecordId": "dataset:01053:2026-11-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "01054",
+      "name": "Urkabustaiz",
+      "method": "normalized-name",
+      "sourceName": "Urkabustaiz",
+      "holidays": [
+        {
+          "date": "2026-10-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01054:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "01055",
+      "name": "Valdegovía/Gaubea",
+      "method": "manual-alias",
+      "sourceName": "Valdegovía",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01055:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01056",
+      "name": "Harana/Valle de Arana",
+      "method": "manual-alias",
+      "sourceName": "Valle de Arana",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro Labrador",
+          "sourceRecordId": "dataset:01056:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01057",
+      "name": "Villabuena de Álava/Eskuernaga",
+      "method": "manual-alias",
+      "sourceName": "Villabuena de Álava",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Torcuato",
+          "sourceRecordId": "dataset:01057:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "01058",
+      "name": "Legutio",
+      "method": "normalized-name",
+      "sourceName": "Legutio",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01058:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "01059",
+      "name": "Vitoria-Gasteiz",
+      "method": "normalized-name",
+      "sourceName": "Vitoria-Gasteiz",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Virgen Blanca",
+          "sourceRecordId": "dataset:01059:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "01060",
+      "name": "Yécora/Iekora",
+      "method": "manual-alias",
+      "sourceName": "Yécora",
+      "holidays": [
+        {
+          "date": "2026-08-21",
+          "name": "Nuestra Señora de Bercijana",
+          "sourceRecordId": "dataset:01060:2026-08-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "01061",
+      "name": "Zalduondo",
+      "method": "normalized-name",
+      "sourceName": "Zalduondo",
+      "holidays": [
+        {
+          "date": "2026-06-13",
+          "name": "Fiestas de Zalduondo",
+          "sourceRecordId": "dataset:01061:2026-06-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "01062",
+      "name": "Zambrana",
+      "method": "normalized-name",
+      "sourceName": "Zambrana",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01062:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "01063",
+      "name": "Zuia",
+      "method": "normalized-name",
+      "sourceName": "Zuia",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:01063:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "01901",
+      "name": "Iruña Oka/Iruña de Oca",
+      "method": "manual-alias",
+      "sourceName": "Iruña de Oca - Nanclares de la Oca",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:01901:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "01902",
+      "name": "Lantarón",
+      "method": "normalized-name",
+      "sourceName": "Lantarón",
+      "holidays": [
+        {
+          "date": "2026-09-16",
+          "name": "Fiesta Local de Lantarón",
+          "sourceRecordId": "dataset:01902:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "20001",
+      "name": "Abaltzisketa",
+      "method": "normalized-name",
+      "sourceName": "Abaltzisketa",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20001:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20002",
+      "name": "Aduna",
+      "method": "normalized-name",
+      "sourceName": "Aduna",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Andra Mari",
+          "sourceRecordId": "dataset:20002:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20003",
+      "name": "Aizarnazabal",
+      "method": "normalized-name",
+      "sourceName": "Aizarnazabal",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel Arcángel",
+          "sourceRecordId": "dataset:20003:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20004",
+      "name": "Albiztur",
+      "method": "normalized-name",
+      "sourceName": "Albiztur",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20004:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20005",
+      "name": "Alegia",
+      "method": "normalized-name",
+      "sourceName": "Alegia",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20005:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "20006",
+      "name": "Alkiza",
+      "method": "normalized-name",
+      "sourceName": "Alkiza",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Natividad de la Virgen",
+          "sourceRecordId": "dataset:20006:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "20007",
+      "name": "Altzo",
+      "method": "normalized-name",
+      "sourceName": "Altzo",
+      "holidays": [
+        {
+          "date": "2026-02-16",
+          "name": "Lunes de Carnaval",
+          "sourceRecordId": "dataset:20007:2026-02-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "20008",
+      "name": "Amezketa",
+      "method": "normalized-name",
+      "sourceName": "Amezketa",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:20008:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20009",
+      "name": "Andoain",
+      "method": "normalized-name",
+      "sourceName": "Andoain",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20009:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20010",
+      "name": "Anoeta",
+      "method": "normalized-name",
+      "sourceName": "Anoeta",
+      "holidays": [
+        {
+          "date": "2026-06-04",
+          "name": "Corpus Christi",
+          "sourceRecordId": "dataset:20010:2026-06-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "20011",
+      "name": "Antzuola",
+      "method": "normalized-name",
+      "sourceName": "Antzuola",
+      "holidays": [
+        {
+          "date": "2026-07-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20011:2026-07-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20012",
+      "name": "Arama",
+      "method": "normalized-name",
+      "sourceName": "Arama",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20012:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "20013",
+      "name": "Aretxabaleta",
+      "method": "normalized-name",
+      "sourceName": "Aretxabaleta",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20013:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20014",
+      "name": "Asteasu",
+      "method": "normalized-name",
+      "sourceName": "Asteasu",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:20014:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20015",
+      "name": "Ataun",
+      "method": "normalized-name",
+      "sourceName": "Ataun",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:20015:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "20016",
+      "name": "Aia",
+      "method": "normalized-name",
+      "sourceName": "Aia",
+      "holidays": [
+        {
+          "date": "2026-08-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20016:2026-08-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "20017",
+      "name": "Azkoitia",
+      "method": "normalized-name",
+      "sourceName": "Azkoitia",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "San Andrés",
+          "sourceRecordId": "dataset:20017:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "20018",
+      "name": "Azpeitia",
+      "method": "normalized-name",
+      "sourceName": "Azpeitia",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "San Sebastián",
+          "sourceRecordId": "dataset:20018:2026-01-20"
+        }
+      ]
+    },
+    {
+      "ineCode": "20019",
+      "name": "Beasain",
+      "method": "normalized-name",
+      "sourceName": "Beasain",
+      "holidays": [
+        {
+          "date": "2026-05-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20019:2026-05-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "20020",
+      "name": "Beizama",
+      "method": "normalized-name",
+      "sourceName": "Beizama",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20020:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20021",
+      "name": "Belauntza",
+      "method": "manual-alias",
+      "sourceName": "Belaunza",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20021:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20022",
+      "name": "Berastegi",
+      "method": "normalized-name",
+      "sourceName": "Berastegi",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "San Lorenzo",
+          "sourceRecordId": "dataset:20022:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "20023",
+      "name": "Berrobi",
+      "method": "normalized-name",
+      "sourceName": "Berrobi",
+      "holidays": [
+        {
+          "date": "2026-08-28",
+          "name": "San Agustín",
+          "sourceRecordId": "dataset:20023:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "20025",
+      "name": "Zegama",
+      "method": "normalized-name",
+      "sourceName": "Zegama",
+      "holidays": [
+        {
+          "date": "2026-05-25",
+          "name": "Lunes de Pentecostés",
+          "sourceRecordId": "dataset:20025:2026-05-25"
+        }
+      ]
+    },
+    {
+      "ineCode": "20026",
+      "name": "Zerain",
+      "method": "normalized-name",
+      "sourceName": "Zerain",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20026:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20027",
+      "name": "Zestoa",
+      "method": "normalized-name",
+      "sourceName": "Zestoa",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Día de la Virgen",
+          "sourceRecordId": "dataset:20027:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "20028",
+      "name": "Zizurkil",
+      "method": "normalized-name",
+      "sourceName": "Zizurkil",
+      "holidays": [
+        {
+          "date": "2026-09-09",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20028:2026-09-09"
+        }
+      ]
+    },
+    {
+      "ineCode": "20029",
+      "name": "Deba",
+      "method": "normalized-name",
+      "sourceName": "Deba",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20029:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20030",
+      "name": "Eibar",
+      "method": "normalized-name",
+      "sourceName": "Eibar",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20030:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20032",
+      "name": "Elgoibar",
+      "method": "normalized-name",
+      "sourceName": "Elgoibar",
+      "holidays": [
+        {
+          "date": "2026-01-17",
+          "name": "San Antón",
+          "sourceRecordId": "dataset:20032:2026-01-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20033",
+      "name": "Elgeta",
+      "method": "normalized-name",
+      "sourceName": "Elgeta",
+      "holidays": [
+        {
+          "date": "2026-07-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20033:2026-07-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "20034",
+      "name": "Eskoriatza",
+      "method": "normalized-name",
+      "sourceName": "Eskoriatza",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20034:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20036",
+      "name": "Hondarribia",
+      "method": "normalized-name",
+      "sourceName": "Hondarribia",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Ntra. Sra. de Guadalupe",
+          "sourceRecordId": "dataset:20036:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "20037",
+      "name": "Gaintza",
+      "method": "normalized-name",
+      "sourceName": "Gaintza",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20037:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20038",
+      "name": "Gabiria",
+      "method": "normalized-name",
+      "sourceName": "Gabiria",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "San Roque",
+          "sourceRecordId": "dataset:20038:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20039",
+      "name": "Getaria",
+      "method": "normalized-name",
+      "sourceName": "Getaria",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "San Salvador",
+          "sourceRecordId": "dataset:20039:2026-08-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "20040",
+      "name": "Hernani",
+      "method": "normalized-name",
+      "sourceName": "Hernani",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20040:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20041",
+      "name": "Hernialde",
+      "method": "normalized-name",
+      "sourceName": "Hernialde",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20041:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20042",
+      "name": "Ibarra",
+      "method": "normalized-name",
+      "sourceName": "Ibarra",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20042:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20043",
+      "name": "Idiazabal",
+      "method": "normalized-name",
+      "sourceName": "Idiazabal",
+      "holidays": [
+        {
+          "date": "2026-02-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20043:2026-02-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "20044",
+      "name": "Ikaztegieta",
+      "method": "normalized-name",
+      "sourceName": "Ikaztegieta",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "San Lorenzo",
+          "sourceRecordId": "dataset:20044:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "20045",
+      "name": "Irun",
+      "method": "normalized-name",
+      "sourceName": "Irun",
+      "holidays": [
+        {
+          "date": "2026-06-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20045:2026-06-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "20046",
+      "name": "Irura",
+      "method": "normalized-name",
+      "sourceName": "Irura",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:20046:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20047",
+      "name": "Itsasondo",
+      "method": "normalized-name",
+      "sourceName": "Itsasondo",
+      "holidays": [
+        {
+          "date": "2026-09-18",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20047:2026-09-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "20048",
+      "name": "Larraul",
+      "method": "normalized-name",
+      "sourceName": "Larraul",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20048:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "20049",
+      "name": "Lazkao",
+      "method": "normalized-name",
+      "sourceName": "Lazkao",
+      "holidays": [
+        {
+          "date": "2026-04-28",
+          "name": "San Prudencio",
+          "sourceRecordId": "dataset:20049:2026-04-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "20051",
+      "name": "Legazpi",
+      "method": "normalized-name",
+      "sourceName": "Legazpi",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Día siguiente Santa Cruz",
+          "sourceRecordId": "dataset:20051:2026-05-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "20052",
+      "name": "Legorreta",
+      "method": "normalized-name",
+      "sourceName": "Legorreta",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20052:2026-05-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20053",
+      "name": "Lezo",
+      "method": "normalized-name",
+      "sourceName": "Lezo",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Exaltación de la Santa Cruz",
+          "sourceRecordId": "dataset:20053:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20054",
+      "name": "Lizartza",
+      "method": "normalized-name",
+      "sourceName": "Lizartza",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Virgen del Sagrario",
+          "sourceRecordId": "dataset:20054:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "20055",
+      "name": "Arrasate/Mondragón",
+      "method": "manual-alias",
+      "sourceName": "Mondragón",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan Bautista",
+          "sourceRecordId": "dataset:20055:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20056",
+      "name": "Mutriku",
+      "method": "normalized-name",
+      "sourceName": "Mutriku",
+      "holidays": [
+        {
+          "date": "2026-07-22",
+          "name": "Día de Magdalena",
+          "sourceRecordId": "dataset:20056:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "20057",
+      "name": "Mutiloa",
+      "method": "normalized-name",
+      "sourceName": "Mutiloa",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:20057:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20058",
+      "name": "Olaberria",
+      "method": "normalized-name",
+      "sourceName": "Olaberria",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20058:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20059",
+      "name": "Oñati",
+      "method": "normalized-name",
+      "sourceName": "Oñati",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:20059:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20060",
+      "name": "Orexa",
+      "method": "normalized-name",
+      "sourceName": "Orexa",
+      "holidays": [
+        {
+          "date": "2026-05-04",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20060:2026-05-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "20061",
+      "name": "Orio",
+      "method": "normalized-name",
+      "sourceName": "Orio",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:20061:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20062",
+      "name": "Ormaiztegi",
+      "method": "normalized-name",
+      "sourceName": "Ormaiztegi",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20062:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "20063",
+      "name": "Oiartzun",
+      "method": "normalized-name",
+      "sourceName": "Oiartzun",
+      "holidays": [
+        {
+          "date": "2026-08-03",
+          "name": "San Esteban ",
+          "sourceRecordId": "dataset:20063:2026-08-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "20065",
+      "name": "Soraluze-Placencia de las Armas",
+      "method": "normalized-name",
+      "sourceName": "Soraluze-Placencia de las Armas",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "San Roke Txiki",
+          "sourceRecordId": "dataset:20065:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "20066",
+      "name": "Errezil",
+      "method": "normalized-name",
+      "sourceName": "Errezil",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20066:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "20067",
+      "name": "Errenteria",
+      "method": "normalized-name",
+      "sourceName": "Errenteria",
+      "holidays": [
+        {
+          "date": "2026-07-22",
+          "name": "Día de la Magdalena",
+          "sourceRecordId": "dataset:20067:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "20068",
+      "name": "Leintz-Gatzaga",
+      "method": "normalized-name",
+      "sourceName": "Leintz-Gatzaga",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Festividad de la Virgen",
+          "sourceRecordId": "dataset:20068:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "20069",
+      "name": "Donostia/San Sebastián",
+      "method": "normalized-name",
+      "sourceName": "Donostia-San Sebastian",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "San Sebastián",
+          "sourceRecordId": "dataset:20069:2026-01-20"
+        }
+      ]
+    },
+    {
+      "ineCode": "20070",
+      "name": "Segura",
+      "method": "normalized-name",
+      "sourceName": "Segura",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20070:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20071",
+      "name": "Tolosa",
+      "method": "normalized-name",
+      "sourceName": "Tolosa",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:20071:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20072",
+      "name": "Urnieta",
+      "method": "normalized-name",
+      "sourceName": "Urnieta",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:20072:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20073",
+      "name": "Usurbil",
+      "method": "normalized-name",
+      "sourceName": "Usurbil",
+      "holidays": [
+        {
+          "date": "2026-07-02",
+          "name": "Santixabel",
+          "sourceRecordId": "dataset:20073:2026-07-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "20074",
+      "name": "Bergara",
+      "method": "normalized-name",
+      "sourceName": "Bergara",
+      "holidays": [
+        {
+          "date": "2026-09-16",
+          "name": "San Martín Aguirre",
+          "sourceRecordId": "dataset:20074:2026-09-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "20075",
+      "name": "Villabona",
+      "method": "normalized-name",
+      "sourceName": "Villabona",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:20075:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "20076",
+      "name": "Ordizia",
+      "method": "normalized-name",
+      "sourceName": "Ordizia",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Día siguiente a Santa Ana",
+          "sourceRecordId": "dataset:20076:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "20077",
+      "name": "Urretxu",
+      "method": "normalized-name",
+      "sourceName": "Urretxu",
+      "holidays": [
+        {
+          "date": "2026-09-21",
+          "name": "Santa Anastasia",
+          "sourceRecordId": "dataset:20077:2026-09-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "20078",
+      "name": "Zaldibia",
+      "method": "normalized-name",
+      "sourceName": "Zaldibia",
+      "holidays": [
+        {
+          "date": "2026-10-02",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20078:2026-10-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "20079",
+      "name": "Zarautz",
+      "method": "normalized-name",
+      "sourceName": "Zarautz",
+      "holidays": [
+        {
+          "date": "2026-06-26",
+          "name": "San Pelaio",
+          "sourceRecordId": "dataset:20079:2026-06-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "20080",
+      "name": "Zumarraga",
+      "method": "normalized-name",
+      "sourceName": "Zumarraga",
+      "holidays": [
+        {
+          "date": "2026-07-02",
+          "name": "Santa Isabel",
+          "sourceRecordId": "dataset:20080:2026-07-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "20081",
+      "name": "Zumaia",
+      "method": "normalized-name",
+      "sourceName": "Zumaia",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:20081:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20901",
+      "name": "Mendaro",
+      "method": "normalized-name",
+      "sourceName": "Mendaro",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Día Siguiente Santa Ana",
+          "sourceRecordId": "dataset:20901:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "20902",
+      "name": "Lasarte-Oria",
+      "method": "normalized-name",
+      "sourceName": "Lasarte-Oria",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:20902:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20903",
+      "name": "Astigarraga",
+      "method": "normalized-name",
+      "sourceName": "Astigarraga",
+      "holidays": [
+        {
+          "date": "2026-07-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20903:2026-07-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "20904",
+      "name": "Baliarrain",
+      "method": "normalized-name",
+      "sourceName": "Baliarrain",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20904:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "20905",
+      "name": "Orendain",
+      "method": "normalized-name",
+      "sourceName": "Orendain",
+      "holidays": [
+        {
+          "date": "2026-01-20",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20905:2026-01-20"
+        }
+      ]
+    },
+    {
+      "ineCode": "20906",
+      "name": "Altzaga",
+      "method": "normalized-name",
+      "sourceName": "Altzaga",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20906:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "20907",
+      "name": "Gaztelu",
+      "method": "normalized-name",
+      "sourceName": "Gaztelu",
+      "holidays": [
+        {
+          "date": "2026-08-14",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:20907:2026-08-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "48001",
+      "name": "Abadiño",
+      "method": "normalized-name",
+      "sourceName": "Abadiño",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Trokaz",
+          "sourceRecordId": "dataset:48001:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48002",
+      "name": "Abanto y Ciérvana-Abanto Zierbena",
+      "method": "normalized-name",
+      "sourceName": "Abanto y Ciérvana-Abanto Zierbena",
+      "holidays": [
+        {
+          "date": "2026-06-15",
+          "name": "San Antonio",
+          "sourceRecordId": "dataset:48002:2026-06-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48003",
+      "name": "Amorebieta-Etxano",
+      "method": "normalized-name",
+      "sourceName": "Amorebieta-Etxano",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Ntra. Sra. del Carmen",
+          "sourceRecordId": "dataset:48003:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "48004",
+      "name": "Amoroto",
+      "method": "normalized-name",
+      "sourceName": "Amoroto",
+      "holidays": [
+        {
+          "date": "2026-07-03",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:48004:2026-07-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "48005",
+      "name": "Arakaldo",
+      "method": "normalized-name",
+      "sourceName": "Arakaldo",
+      "holidays": [
+        {
+          "date": "2026-07-18",
+          "name": "Santa Marina",
+          "sourceRecordId": "dataset:48005:2026-07-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "48006",
+      "name": "Arantzazu",
+      "method": "normalized-name",
+      "sourceName": "Arantzazu",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48006:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48007",
+      "name": "Munitibar-Arbatzegi Gerrikaitz",
+      "method": "normalized-name",
+      "sourceName": "Munitibar-Arbatzegi Gerrikaitz",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48007:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48008",
+      "name": "Artzentales",
+      "method": "normalized-name",
+      "sourceName": "Artzentales",
+      "holidays": [
+        {
+          "date": "2026-09-02",
+          "name": "San Antolín",
+          "sourceRecordId": "dataset:48008:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "48009",
+      "name": "Arrankudiaga-Zollo",
+      "method": "normalized-name",
+      "sourceName": "Arrankudiaga-Zollo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48009:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48010",
+      "name": "Arrieta",
+      "method": "normalized-name",
+      "sourceName": "Arrieta",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:48010:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "48011",
+      "name": "Arrigorriaga",
+      "method": "normalized-name",
+      "sourceName": "Arrigorriaga",
+      "holidays": [
+        {
+          "date": "2026-07-22",
+          "name": "Santa María Magdalena",
+          "sourceRecordId": "dataset:48011:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "48012",
+      "name": "Bakio",
+      "method": "normalized-name",
+      "sourceName": "Bakio",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel Arcángel",
+          "sourceRecordId": "dataset:48012:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48013",
+      "name": "Barakaldo",
+      "method": "normalized-name",
+      "sourceName": "Barakaldo",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Nuestra Señora del Carmen",
+          "sourceRecordId": "dataset:48013:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "48014",
+      "name": "Barrika",
+      "method": "normalized-name",
+      "sourceName": "Barrika",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48014:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48015",
+      "name": "Basauri",
+      "method": "normalized-name",
+      "sourceName": "Basauri",
+      "holidays": [
+        {
+          "date": "2026-10-13",
+          "name": "San Fausto",
+          "sourceRecordId": "dataset:48015:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "48016",
+      "name": "Berango",
+      "method": "normalized-name",
+      "sourceName": "Berango",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Santa Ana",
+          "sourceRecordId": "dataset:48016:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "48017",
+      "name": "Bermeo",
+      "method": "normalized-name",
+      "sourceName": "Bermeo",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Nuestra Señora",
+          "sourceRecordId": "dataset:48017:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48018",
+      "name": "Berriatua",
+      "method": "normalized-name",
+      "sourceName": "Berriatua",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48018:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48019",
+      "name": "Berriz",
+      "method": "normalized-name",
+      "sourceName": "Berriz",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48019:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48020",
+      "name": "Bilbao",
+      "method": "normalized-name",
+      "sourceName": "Bilbao",
+      "holidays": [
+        {
+          "date": "2026-08-28",
+          "name": "Viernes de la Semana Grande",
+          "sourceRecordId": "dataset:48020:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "48021",
+      "name": "Busturia",
+      "method": "normalized-name",
+      "sourceName": "Busturia",
+      "holidays": [
+        {
+          "date": "2026-07-10",
+          "name": "Santa Cristóbal",
+          "sourceRecordId": "dataset:48021:2026-07-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "48022",
+      "name": "Karrantza Harana/Valle de Carranza",
+      "method": "manual-alias",
+      "sourceName": "Valle de Carranza",
+      "holidays": [
+        {
+          "date": "2026-09-18",
+          "name": "Virgen del Suceso",
+          "sourceRecordId": "dataset:48022:2026-09-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "48023",
+      "name": "Artea",
+      "method": "normalized-name",
+      "sourceName": "Artea",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48023:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48024",
+      "name": "Zeanuri",
+      "method": "normalized-name",
+      "sourceName": "Zeanuri",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro",
+          "sourceRecordId": "dataset:48024:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48025",
+      "name": "Zeberio",
+      "method": "normalized-name",
+      "sourceName": "Zeberio",
+      "holidays": [
+        {
+          "date": "2026-09-02",
+          "name": "San Antolín",
+          "sourceRecordId": "dataset:48025:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "48026",
+      "name": "Dima",
+      "method": "normalized-name",
+      "sourceName": "Dima",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48026:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48027",
+      "name": "Durango",
+      "method": "normalized-name",
+      "sourceName": "Durango",
+      "holidays": [
+        {
+          "date": "2026-10-13",
+          "name": "San Fausto",
+          "sourceRecordId": "dataset:48027:2026-10-13"
+        }
+      ]
+    },
+    {
+      "ineCode": "48028",
+      "name": "Ea",
+      "method": "normalized-name",
+      "sourceName": "Ea",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48028:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48029",
+      "name": "Etxebarri",
+      "method": "normalized-name",
+      "sourceName": "Etxebarri",
+      "holidays": [
+        {
+          "date": "2026-12-28",
+          "name": "San Esteban",
+          "sourceRecordId": "dataset:48029:2026-12-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "48030",
+      "name": "Etxebarria",
+      "method": "normalized-name",
+      "sourceName": "Etxebarria",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "San Andrés",
+          "sourceRecordId": "dataset:48030:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "48031",
+      "name": "Elantxobe",
+      "method": "normalized-name",
+      "sourceName": "Elantxobe",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48031:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48032",
+      "name": "Elorrio",
+      "method": "normalized-name",
+      "sourceName": "Elorrio",
+      "holidays": [
+        {
+          "date": "2026-09-07",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48032:2026-09-07"
+        }
+      ]
+    },
+    {
+      "ineCode": "48033",
+      "name": "Ereño",
+      "method": "normalized-name",
+      "sourceName": "Ereño",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel Arcángel",
+          "sourceRecordId": "dataset:48033:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48034",
+      "name": "Ermua",
+      "method": "normalized-name",
+      "sourceName": "Ermua",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Zezen eguna",
+          "sourceRecordId": "dataset:48034:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "48035",
+      "name": "Fruiz",
+      "method": "normalized-name",
+      "sourceName": "Fruiz",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "San Salvador",
+          "sourceRecordId": "dataset:48035:2026-08-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "48036",
+      "name": "Galdakao",
+      "method": "normalized-name",
+      "sourceName": "Galdakao",
+      "holidays": [
+        {
+          "date": "2026-09-14",
+          "name": "Exaltación de la Santa Cruz",
+          "sourceRecordId": "dataset:48036:2026-09-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "48037",
+      "name": "Galdames",
+      "method": "normalized-name",
+      "sourceName": "Galdames",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48037:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48038",
+      "name": "Gamiz-Fika",
+      "method": "normalized-name",
+      "sourceName": "Gamiz-Fika",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "San Andrés",
+          "sourceRecordId": "dataset:48038:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "48039",
+      "name": "Garai",
+      "method": "normalized-name",
+      "sourceName": "Garai",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48039:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48040",
+      "name": "Gatika",
+      "method": "normalized-name",
+      "sourceName": "Gatika",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:48040:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48041",
+      "name": "Gautegiz Arteaga",
+      "method": "normalized-name",
+      "sourceName": "Gautegiz Arteaga",
+      "holidays": [
+        {
+          "date": "2026-01-26",
+          "name": "San Polikarpo",
+          "sourceRecordId": "dataset:48041:2026-01-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "48042",
+      "name": "Gordexola",
+      "method": "normalized-name",
+      "sourceName": "Gordexola",
+      "holidays": [
+        {
+          "date": "2026-09-28",
+          "name": "San Cosme y San Damián",
+          "sourceRecordId": "dataset:48042:2026-09-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "48043",
+      "name": "Gorliz",
+      "method": "normalized-name",
+      "sourceName": "Gorliz",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Nuestra Señora de Aguirre y de las Nieves",
+          "sourceRecordId": "dataset:48043:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "48044",
+      "name": "Getxo",
+      "method": "normalized-name",
+      "sourceName": "Getxo",
+      "holidays": [
+        {
+          "date": "2026-09-24",
+          "name": "Las Mercedes",
+          "sourceRecordId": "dataset:48044:2026-09-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48045",
+      "name": "Güeñes",
+      "method": "normalized-name",
+      "sourceName": "Güeñes",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "San Lorenzo",
+          "sourceRecordId": "dataset:48045:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "48046",
+      "name": "Gernika-Lumo",
+      "method": "normalized-name",
+      "sourceName": "Gernika-Lumo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48046:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48047",
+      "name": "Gizaburuaga",
+      "method": "normalized-name",
+      "sourceName": "Gizaburuaga",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Nuestra Señora",
+          "sourceRecordId": "dataset:48047:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48048",
+      "name": "Ibarrangelu",
+      "method": "normalized-name",
+      "sourceName": "Ibarrangelu",
+      "holidays": [
+        {
+          "date": "2026-06-04",
+          "name": "Corpus Christi",
+          "sourceRecordId": "dataset:48048:2026-06-04"
+        }
+      ]
+    },
+    {
+      "ineCode": "48049",
+      "name": "Ispaster",
+      "method": "normalized-name",
+      "sourceName": "Ispaster",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:48049:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48050",
+      "name": "Izurtza",
+      "method": "normalized-name",
+      "sourceName": "Izurtza",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Erdoitzako Ama",
+          "sourceRecordId": "dataset:48050:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48051",
+      "name": "Lanestosa",
+      "method": "normalized-name",
+      "sourceName": "Lanestosa",
+      "holidays": [
+        {
+          "date": "2026-08-05",
+          "name": "Ntra. Sra. de las Nieves",
+          "sourceRecordId": "dataset:48051:2026-08-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "48052",
+      "name": "Larrabetzu",
+      "method": "normalized-name",
+      "sourceName": "Larrabetzu",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48052:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48053",
+      "name": "Laukiz",
+      "method": "normalized-name",
+      "sourceName": "Laukiz",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:48053:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48054",
+      "name": "Leioa",
+      "method": "normalized-name",
+      "sourceName": "Leioa",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48054:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48055",
+      "name": "Lemoa",
+      "method": "normalized-name",
+      "sourceName": "Lemoa",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Andra Mari",
+          "sourceRecordId": "dataset:48055:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48056",
+      "name": "Lemoiz",
+      "method": "normalized-name",
+      "sourceName": "Lemoiz",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Día del Carmen",
+          "sourceRecordId": "dataset:48056:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "48057",
+      "name": "Lekeitio",
+      "method": "normalized-name",
+      "sourceName": "Lekeitio",
+      "holidays": [
+        {
+          "date": "2026-09-02",
+          "name": "San Antolín",
+          "sourceRecordId": "dataset:48057:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "48058",
+      "name": "Mallabia",
+      "method": "normalized-name",
+      "sourceName": "Mallabia",
+      "holidays": [
+        {
+          "date": "2026-02-18",
+          "name": "Miércoles de Ceniza",
+          "sourceRecordId": "dataset:48058:2026-02-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "48059",
+      "name": "Mañaria",
+      "method": "normalized-name",
+      "sourceName": "Mañaria",
+      "holidays": [
+        {
+          "date": "2026-10-21",
+          "name": "Sta. Úrsula",
+          "sourceRecordId": "dataset:48059:2026-10-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "48060",
+      "name": "Markina-Xemein",
+      "method": "normalized-name",
+      "sourceName": "Markina-Xemein",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Día del Carmen",
+          "sourceRecordId": "dataset:48060:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "48061",
+      "name": "Maruri-Jatabe",
+      "method": "normalized-name",
+      "sourceName": "Maruri-Jatabe",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "San Lorenzo",
+          "sourceRecordId": "dataset:48061:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "48062",
+      "name": "Mendata",
+      "method": "normalized-name",
+      "sourceName": "Mendata",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel Arcángel",
+          "sourceRecordId": "dataset:48062:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48063",
+      "name": "Mendexa",
+      "method": "normalized-name",
+      "sourceName": "Mendexa",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro",
+          "sourceRecordId": "dataset:48063:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48064",
+      "name": "Meñaka",
+      "method": "normalized-name",
+      "sourceName": "Meñaka",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48064:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "48065",
+      "name": "Ugao-Miraballes",
+      "method": "normalized-name",
+      "sourceName": "Ugao-Miraballes",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Señora la Virgen de Udiarraga",
+          "sourceRecordId": "dataset:48065:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48066",
+      "name": "Morga",
+      "method": "normalized-name",
+      "sourceName": "Morga",
+      "holidays": [
+        {
+          "date": "2026-07-30",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48066:2026-07-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "48067",
+      "name": "Muxika",
+      "method": "normalized-name",
+      "sourceName": "Muxika",
+      "holidays": [
+        {
+          "date": "2026-10-26",
+          "name": "Último Lunes de Octubre",
+          "sourceRecordId": "dataset:48067:2026-10-26"
+        }
+      ]
+    },
+    {
+      "ineCode": "48068",
+      "name": "Mundaka",
+      "method": "normalized-name",
+      "sourceName": "Mundaka",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48068:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48069",
+      "name": "Mungia",
+      "method": "normalized-name",
+      "sourceName": "Mungia",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48069:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48070",
+      "name": "Aulesti",
+      "method": "normalized-name",
+      "sourceName": "Aulesti",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48070:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48071",
+      "name": "Muskiz",
+      "method": "normalized-name",
+      "sourceName": "Muskiz",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48071:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48072",
+      "name": "Otxandio",
+      "method": "normalized-name",
+      "sourceName": "Otxandio",
+      "holidays": [
+        {
+          "date": "2026-07-20",
+          "name": "Santa Marina",
+          "sourceRecordId": "dataset:48072:2026-07-20"
+        }
+      ]
+    },
+    {
+      "ineCode": "48073",
+      "name": "Ondarroa",
+      "method": "normalized-name",
+      "sourceName": "Ondarroa",
+      "holidays": [
+        {
+          "date": "2026-08-17",
+          "name": "Andra Mari",
+          "sourceRecordId": "dataset:48073:2026-08-17"
+        }
+      ]
+    },
+    {
+      "ineCode": "48074",
+      "name": "Urduña/Orduña",
+      "method": "normalized-name",
+      "sourceName": "Urduña-Orduña",
+      "holidays": [
+        {
+          "date": "2026-05-08",
+          "name": "Otxomaio",
+          "sourceRecordId": "dataset:48074:2026-05-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48075",
+      "name": "Orozko",
+      "method": "normalized-name",
+      "sourceName": "Orozko",
+      "holidays": [
+        {
+          "date": "2026-09-02",
+          "name": "San Antolín",
+          "sourceRecordId": "dataset:48075:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "48076",
+      "name": "Sukarrieta",
+      "method": "normalized-name",
+      "sourceName": "Sukarrieta",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "San Andrés",
+          "sourceRecordId": "dataset:48076:2026-11-30"
+        }
+      ]
+    },
+    {
+      "ineCode": "48077",
+      "name": "Plentzia",
+      "method": "normalized-name",
+      "sourceName": "Plentzia",
+      "holidays": [
+        {
+          "date": "2026-07-22",
+          "name": "Festividad de la Magdalena",
+          "sourceRecordId": "dataset:48077:2026-07-22"
+        }
+      ]
+    },
+    {
+      "ineCode": "48078",
+      "name": "Portugalete",
+      "method": "normalized-name",
+      "sourceName": "Portugalete",
+      "holidays": [
+        {
+          "date": "2026-07-01",
+          "name": "Virgen de la Guía",
+          "sourceRecordId": "dataset:48078:2026-07-01"
+        }
+      ]
+    },
+    {
+      "ineCode": "48079",
+      "name": "Errigoiti",
+      "method": "normalized-name",
+      "sourceName": "Errigoiti",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:48079:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48080",
+      "name": "Valle de Trápaga-Trapagaran",
+      "method": "normalized-name",
+      "sourceName": "Valle de Trápaga-Trapagaran",
+      "holidays": [
+        {
+          "date": "2026-08-06",
+          "name": "Transfiguración del Señor-día de San Salvador",
+          "sourceRecordId": "dataset:48080:2026-08-06"
+        }
+      ]
+    },
+    {
+      "ineCode": "48081",
+      "name": "Lezama",
+      "method": "normalized-name",
+      "sourceName": "Lezama",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Andra Mari",
+          "sourceRecordId": "dataset:48081:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48082",
+      "name": "Santurtzi",
+      "method": "normalized-name",
+      "sourceName": "Santurtzi",
+      "holidays": [
+        {
+          "date": "2026-07-16",
+          "name": "Virgen del Carmen",
+          "sourceRecordId": "dataset:48082:2026-07-16"
+        }
+      ]
+    },
+    {
+      "ineCode": "48083",
+      "name": "Ortuella",
+      "method": "normalized-name",
+      "sourceName": "Ortuella",
+      "holidays": [
+        {
+          "date": "2026-05-18",
+          "name": "San Félix de Cantalicio",
+          "sourceRecordId": "dataset:48083:2026-05-18"
+        }
+      ]
+    },
+    {
+      "ineCode": "48084",
+      "name": "Sestao",
+      "method": "normalized-name",
+      "sourceName": "Sestao",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro Apóstol",
+          "sourceRecordId": "dataset:48084:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48085",
+      "name": "Sopela",
+      "method": "manual-alias",
+      "sourceName": "Sopelana",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48085:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48086",
+      "name": "Sopuerta",
+      "method": "normalized-name",
+      "sourceName": "Sopuerta",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Natividad de Nuestra Señora",
+          "sourceRecordId": "dataset:48086:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48087",
+      "name": "Trucios-Turtzioz",
+      "method": "normalized-name",
+      "sourceName": "Trucios-Turtzioz",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48087:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48088",
+      "name": "Ubide",
+      "method": "normalized-name",
+      "sourceName": "Ubide",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48088:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48089",
+      "name": "Urduliz",
+      "method": "normalized-name",
+      "sourceName": "Urduliz",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48089:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48090",
+      "name": "Balmaseda",
+      "method": "normalized-name",
+      "sourceName": "Balmaseda",
+      "holidays": [
+        {
+          "date": "2026-10-23",
+          "name": "San Severino",
+          "sourceRecordId": "dataset:48090:2026-10-23"
+        }
+      ]
+    },
+    {
+      "ineCode": "48091",
+      "name": "Atxondo",
+      "method": "normalized-name",
+      "sourceName": "Atxondo",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "San Pedro",
+          "sourceRecordId": "dataset:48091:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48092",
+      "name": "Bedia",
+      "method": "normalized-name",
+      "sourceName": "Bedia",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan Bautista",
+          "sourceRecordId": "dataset:48092:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48093",
+      "name": "Areatza",
+      "method": "normalized-name",
+      "sourceName": "Areatza",
+      "holidays": [
+        {
+          "date": "2026-08-24",
+          "name": "San Bartolomé",
+          "sourceRecordId": "dataset:48093:2026-08-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48094",
+      "name": "Igorre",
+      "method": "normalized-name",
+      "sourceName": "Igorre",
+      "holidays": [
+        {
+          "date": "2026-06-12",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48094:2026-06-12"
+        }
+      ]
+    },
+    {
+      "ineCode": "48095",
+      "name": "Zaldibar",
+      "method": "normalized-name",
+      "sourceName": "Zaldibar",
+      "holidays": [
+        {
+          "date": "2026-07-03",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48095:2026-07-03"
+        }
+      ]
+    },
+    {
+      "ineCode": "48096",
+      "name": "Zalla",
+      "method": "normalized-name",
+      "sourceName": "Zalla",
+      "holidays": [
+        {
+          "date": "2026-10-05",
+          "name": "Día de Gangas",
+          "sourceRecordId": "dataset:48096:2026-10-05"
+        }
+      ]
+    },
+    {
+      "ineCode": "48097",
+      "name": "Zaratamo",
+      "method": "normalized-name",
+      "sourceName": "Zaratamo",
+      "holidays": [
+        {
+          "date": "2026-08-10",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48097:2026-08-10"
+        }
+      ]
+    },
+    {
+      "ineCode": "48901",
+      "name": "Derio",
+      "method": "normalized-name",
+      "sourceName": "Derio",
+      "holidays": [
+        {
+          "date": "2026-05-15",
+          "name": "San Isidro Labrador",
+          "sourceRecordId": "dataset:48901:2026-05-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48902",
+      "name": "Erandio",
+      "method": "normalized-name",
+      "sourceName": "Erandio",
+      "holidays": [
+        {
+          "date": "2026-08-28",
+          "name": "San Agustín",
+          "sourceRecordId": "dataset:48902:2026-08-28"
+        }
+      ]
+    },
+    {
+      "ineCode": "48903",
+      "name": "Loiu",
+      "method": "normalized-name",
+      "sourceName": "Loiu",
+      "holidays": [
+        {
+          "date": "2026-06-29",
+          "name": "Festividad de San Pedro y Santa Lucía",
+          "sourceRecordId": "dataset:48903:2026-06-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48904",
+      "name": "Sondika",
+      "method": "normalized-name",
+      "sourceName": "Sondika",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48904:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48905",
+      "name": "Zamudio",
+      "method": "normalized-name",
+      "sourceName": "Zamudio",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:48905:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "48906",
+      "name": "Forua",
+      "method": "normalized-name",
+      "sourceName": "Forua",
+      "holidays": [
+        {
+          "date": "2026-11-11",
+          "name": "San Martín",
+          "sourceRecordId": "dataset:48906:2026-11-11"
+        }
+      ]
+    },
+    {
+      "ineCode": "48907",
+      "name": "Kortezubi",
+      "method": "normalized-name",
+      "sourceName": "Kortezubi",
+      "holidays": [
+        {
+          "date": "2026-07-27",
+          "name": "Fiesta local",
+          "sourceRecordId": "dataset:48907:2026-07-27"
+        }
+      ]
+    },
+    {
+      "ineCode": "48908",
+      "name": "Murueta",
+      "method": "normalized-name",
+      "sourceName": "Murueta",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Festividad de Andra Mari",
+          "sourceRecordId": "dataset:48908:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48909",
+      "name": "Nabarniz",
+      "method": "normalized-name",
+      "sourceName": "Nabarniz",
+      "holidays": [
+        {
+          "date": "2026-09-08",
+          "name": "Andra Mari",
+          "sourceRecordId": "dataset:48909:2026-09-08"
+        }
+      ]
+    },
+    {
+      "ineCode": "48910",
+      "name": "Iurreta",
+      "method": "normalized-name",
+      "sourceName": "Iurreta",
+      "holidays": [
+        {
+          "date": "2026-09-29",
+          "name": "San Miguel",
+          "sourceRecordId": "dataset:48910:2026-09-29"
+        }
+      ]
+    },
+    {
+      "ineCode": "48911",
+      "name": "Ajangiz",
+      "method": "normalized-name",
+      "sourceName": "Ajangiz",
+      "holidays": [
+        {
+          "date": "2026-05-14",
+          "name": "La Ascensión",
+          "sourceRecordId": "dataset:48911:2026-05-14"
+        }
+      ]
+    },
+    {
+      "ineCode": "48912",
+      "name": "Alonsotegi",
+      "method": "normalized-name",
+      "sourceName": "Alonsotegi",
+      "holidays": [
+        {
+          "date": "2026-09-02",
+          "name": "San Antolín",
+          "sourceRecordId": "dataset:48912:2026-09-02"
+        }
+      ]
+    },
+    {
+      "ineCode": "48913",
+      "name": "Zierbena",
+      "method": "normalized-name",
+      "sourceName": "Zierbena",
+      "holidays": [
+        {
+          "date": "2026-10-15",
+          "name": "Día de la Independencia de Ziérbena",
+          "sourceRecordId": "dataset:48913:2026-10-15"
+        }
+      ]
+    },
+    {
+      "ineCode": "48914",
+      "name": "Arratzu",
+      "method": "normalized-name",
+      "sourceName": "Arratzu",
+      "holidays": [
+        {
+          "date": "2026-12-21",
+          "name": "Santo Tomás",
+          "sourceRecordId": "dataset:48914:2026-12-21"
+        }
+      ]
+    },
+    {
+      "ineCode": "48915",
+      "name": "Ziortza-Bolibar",
+      "method": "normalized-name",
+      "sourceName": "Ziortza-Bolibar",
+      "holidays": [
+        {
+          "date": "2026-06-24",
+          "name": "San Juan",
+          "sourceRecordId": "dataset:48915:2026-06-24"
+        }
+      ]
+    },
+    {
+      "ineCode": "48916",
+      "name": "Usansolo",
+      "method": "normalized-name",
+      "sourceName": "Usansolo",
+      "holidays": [
+        {
+          "date": "2026-11-30",
+          "name": "San Andrés",
+          "sourceRecordId": "dataset:48916:2026-11-30"
+        }
+      ]
+    }
+  ],
+  "omissions": [
+    {
+      "ineCode": "01010",
+      "name": "Ayala/Aiara",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    },
+    {
+      "ineCode": "20024",
+      "name": "Bidania-Goiatz",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    },
+    {
+      "ineCode": "20031",
+      "name": "Elduain",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    },
+    {
+      "ineCode": "20035",
+      "name": "Ezkio-Itsaso",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    },
+    {
+      "ineCode": "20050",
+      "name": "Leaburu",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    },
+    {
+      "ineCode": "20064",
+      "name": "Pasaia",
+      "reason": "El conjunto de datos oficial de Open Data Euskadi solo publica días locales de núcleos submunicipales para este municipio, sin día local de ámbito municipal para 2026."
+    }
+  ]
+}

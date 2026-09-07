@@ -1,0 +1,1596 @@
+{
+  "sourceId": "boe-2026-labour-calendar",
+  "sourceSha256": "f85e22b21de215dafdc2491eab6a535b0c92e744c8d2ae79d3d4c0532c9770e0",
+  "auditNote": "Parsed from the BOE-A-2025-21667 matrix (19 territory columns, legend * / ** / ***). ** on shifted observances is modelled as autonomous-community scope; Canarias has 11 BOE days because its island day is published in BOC Decreto 61/2025.",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-02-28",
+      "name": "Día de Andalucía",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "01",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "01",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "01",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "01",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "01",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "02",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-23",
+      "name": "San Jorge/Día de Aragón",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "02",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "02",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "02",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "02",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "03",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-09-08",
+      "name": "Día de Asturias",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "03",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "03",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "03",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "03",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Lunes siguiente al Día de les Illes Balears",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "04",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "04",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "04",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "04",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-26",
+      "name": "San Esteban",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "04",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "05",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-30",
+      "name": "Día de Canarias",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "05",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "05",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "05",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "06",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Día de las Instituciones de Cantabria",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "06",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-09-15",
+      "name": "La Bien Aparecida",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "06",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "06",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "06",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "08",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "08",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-04",
+      "name": "Corpus Christi",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "08",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "08",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "08",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "07",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-23",
+      "name": "Fiesta de Castilla y León",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "07",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "07",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "07",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "07",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "09",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-24",
+      "name": "San Juan",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "09",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-09-11",
+      "name": "Fiesta Nacional de Cataluña",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "09",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "09",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-26",
+      "name": "San Esteban",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "09",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "11",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-09-08",
+      "name": "Día de Extremadura",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "11",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "11",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "11",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "11",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "San José",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "12",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "12",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-24",
+      "name": "San Juan",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "12",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-07-25",
+      "name": "Santiago Apóstol/Día Nacional de Galicia",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "12",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "12",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "13",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-02",
+      "name": "Fiesta de la Comunidad de Madrid",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "13",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "13",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "13",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "13",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "San José",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "14",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "14",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-09",
+      "name": "Día de la Región de Murcia",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "14",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "14",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "14",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "San José",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "15",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "15",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "15",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día siguiente a Todos los Santos",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "15",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "15",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "San José",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "16",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "16",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "16",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-07-25",
+      "name": "Santiago Apóstol/Día Nacional de Galicia",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "16",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "16",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "17",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "17",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-09",
+      "name": "Día de la Rioja",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "17",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "17",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "17",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "San José",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "10",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-04-06",
+      "name": "Lunes de Pascua",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "10",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-06-24",
+      "name": "San Juan",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "10",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-09",
+      "name": "Día de la Comunitat Valenciana",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "10",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "10",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "18",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-27",
+      "name": "Fiesta Sacrificio-Eidul Adha",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "18",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-05",
+      "name": "Nuestra Señora de África",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "18",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-09-02",
+      "name": "Día de Ceuta",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "18",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "18",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Año Nuevo",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Epifanía del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-03-20",
+      "name": "Fiesta del Eid Fitr",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "19",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-04-02",
+      "name": "Jueves Santo",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "19",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Viernes Santo",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Fiesta del Trabajo",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-05-27",
+      "name": "Fiesta Sacrificio-Aid al Adha",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "19",
+      "boeMark": "***"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Asunción de la Virgen",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Fiesta Nacional de España",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-07",
+      "name": "Lunes siguiente al Día de la Constitución Española",
+      "scope": "autonomous-community",
+      "autonomousCommunityCode": "19",
+      "boeMark": "**"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Inmaculada Concepción",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Natividad del Señor",
+      "scope": "country",
+      "autonomousCommunityCode": "19",
+      "boeMark": "*"
+    }
+  ]
+}

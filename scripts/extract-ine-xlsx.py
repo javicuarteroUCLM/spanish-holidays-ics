@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Extract the Andalucía municipality roster from the frozen INE workbook.
+"""Extract the full national municipality roster from the frozen INE workbook.
 
 The INE publishes XLSX but not a stable CSV for this classification. This script
 uses only the Python standard library, handles the narrow workbook structure we
-snapshot, and fails if its expected columns or the Andalucía row count change.
+snapshot, and fails if its expected columns or the national row count change.
 """
 
 from __future__ import annotations
@@ -17,7 +17,13 @@ from pathlib import Path
 
 SHEET_NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 EXPECTED_COLUMNS = ["CODAUTO", "CPRO", "CMUN", "DC", "NOMBRE"]
-EXPECTED_ANDALUCIA_COUNT = 785
+EXPECTED_NATIONAL_COUNT = 8132
+# Autonomous-community population counts verified against the 2026 dictionary.
+EXPECTED_COMMUNITY_COUNTS = {
+    "01": 785, "02": 731, "03": 78, "04": 67, "05": 88, "06": 102, "07": 2248,
+    "08": 919, "09": 947, "10": 542, "11": 388, "12": 313, "13": 179, "14": 45,
+    "15": 272, "16": 252, "17": 174, "18": 1, "19": 1,
+}
 
 
 def cell_value(cell: ET.Element, shared_strings: list[str]) -> str:
@@ -83,14 +89,24 @@ def main() -> None:
             "autonomousCommunityCode": community.zfill(2),
         }
         for community, province, municipality, control, name in rows[2:]
-        if community == "01"
+        if re.fullmatch(r"\d{2}", community)
     ]
-    if len(municipalities) != EXPECTED_ANDALUCIA_COUNT:
+    if len(municipalities) != EXPECTED_NATIONAL_COUNT:
         raise RuntimeError(
-            f"Expected {EXPECTED_ANDALUCIA_COUNT} Andalucía municipalities, found {len(municipalities)}"
+            f"Expected {EXPECTED_NATIONAL_COUNT} municipalities, found {len(municipalities)}"
         )
     if len({entry["ineCode"] for entry in municipalities}) != len(municipalities):
         raise RuntimeError("INE municipality codes are not unique")
+
+    actual_counts = {}
+    for entry in municipalities:
+        actual_counts[entry["autonomousCommunityCode"]] = (
+            actual_counts.get(entry["autonomousCommunityCode"], 0) + 1
+        )
+    if actual_counts != EXPECTED_COMMUNITY_COUNTS:
+        raise RuntimeError(
+            f"Autonomous-community population drift: {actual_counts}"
+        )
 
     manifest = json.loads(Path("data/sources/2026/manifest.json").read_text(encoding="utf-8"))
     source = next(item for item in manifest["sources"] if item["id"] == "ine-municipalities-2026")
